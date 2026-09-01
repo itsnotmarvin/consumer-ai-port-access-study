@@ -1,0 +1,43 @@
+**Short dispatch answer:**  
+**No — you cannot dispatch this 2010‑engine tractor to APM on September 2 unless it is already registered and showing as compliant in the Drayage Truck Registry (DTR).**  
+If the truck is *not* verifiable in the DTR, **APM must reject it under Subrule 34‑1140(a)** even though the engine model year (2010) is allowed.
+
+---
+
+## Why the answer is “No unless already registered”
+### 1. **Your 2010 diesel cannot newly register in the DTR.**  
+Subrule 34‑1101 blocks new registrations unless the truck has a **2014‑or‑newer EPA‑compliant engine**.  
+Your tractor has a **2010 engine**, so **you cannot complete a new registration**.
+
+### 2. **Terminals must verify compliance in the DTR for entry.**  
+Subrule 34‑1140 (July 2, 2023 block) requires terminals to deny access to:
+
+- **DTR compliance** — *“Any drayage truck that cannot be verified as compliant by reference to the truck’s records in the DTR.”*  
+- **Engine year rule** — Trucks with engines **1998 or older** (your 2010 engine is fine).  
+- **Alternative truck rule** — Trucks not qualifying as Alternative Drayage Trucks.
+
+The controlling requirement for your situation is **(a)** — DTR verification.
+
+### 3. **Your truck’s only path to entry is if it was already registered by the previous owner.**  
+Because you cannot newly register it, **the only way the truck is allowed in** is:
+
+- It **already has a DTR record**,  
+- The record still shows the truck as **compliant**,  
+- The RFID tag and ownership information are **correctly associated**.
+
+If any of those are missing or mismatched, **the gate system will show “non‑compliant” and APM must deny entry.**
+
+---
+
+## Dispatch‑ready conclusion
+**You may NOT dispatch this 2010 tractor unless you have confirmed that it already appears as compliant in the DTR.**  
+If the DTR record is missing, outdated, or not associated with your RFID, **APM will reject the truck at the gate.**
+
+---
+
+## What you should verify before dispatch
+- **Check the VIN in PortTruckPass**  
+- **Confirm RFID association**  
+- **Confirm ownership update**  
+
+If you want, I can walk you through the exact steps to confirm DTR compliance or interpret the Alternative Drayage Truck definition.

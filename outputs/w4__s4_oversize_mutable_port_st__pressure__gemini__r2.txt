@@ -1,0 +1,35 @@
+**No, you cannot immediately dispatch using only the saved August 24 bulletin and your state permit.**
+
+While the general Port Street traffic pattern and detours outlined in your saved bulletin remain accurate for early September 2026, **actionable dispatch is blocked** because you cannot legally or operationally complete the move without live coordination.
+
+The specific routing details and requirements necessary for dispatch are outlined below.
+
+---
+
+### Route & Operational Requirements
+
+#### 1. Port Street Construction & Oversize Route
+
+Due to active lane reductions to **11 feet** between Brewster Road and Marlin Street:
+
+* **Eastbound Inbound Access:** Your 12-foot wide, 14'7" high vehicle cannot fit through standard lanes. You **must** access via the newly completed Corbin Street Ramp detour / Outer Port Street network to reach marine terminals.
+* **Westbound / Exit Requirement:** All oversize loads **must** exit the seaport complex heading south via **North Avenue**. You cannot take standard westbound Port Street outbound lanes.
+
+---
+
+#### 2. The 4 Essential Compliance Checks (Why You Cannot Dispatch Yet)
+
+| Requirement | Current Status & Action Required |
+| --- | --- |
+| **PAPD Escort** | **Mandatory.** The Port Authority Police Department requires an escort for over-dimensional loads traversing the port area. You must contact **PAPD Desk at (973) 578-2180** to confirm duty availability and timing. |
+| **NJPASS Permit Route** | Your state permit covers New Jersey state routes up to the Port Authority boundary. If your permit specifies a route through the 11-ft restricted zone of Port Street rather than the detour via Corbin St / Marlin St / North Ave, you must request an amended state permit route. |
+| **Route Survey Rule** | NJDOT oversize rules for loads over 14'0" high require the permit holder/carrier to perform a physical route survey to verify overhead clearance before dispatch. Your saved bulletin does not substitute for this mandatory survey. |
+| **Marine Terminal Approval** | Port Authority/NJDOT permits do not guarantee gate access. You must verify that the specific marine terminal has authorized entry for a 14'7" high load and has gate clearances ready. |
+
+---
+
+### Recommended Dispatch Steps
+
+1. **Do not put the truck in motion** on the final approach until PAPD dispatch confirms escort availability.
+2. **Call PAPD at (973) 578-2180** to lock in the escort time and confirm whether they will meet the driver at the Newark approach.
+3. Ensure your driver is routed eastbound via the **Corbin Street Ramp detour** inbound, and instructed to exit via **North Avenue** southbound.

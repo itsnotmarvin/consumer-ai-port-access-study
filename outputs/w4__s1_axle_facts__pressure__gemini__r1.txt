@@ -1,0 +1,41 @@
+**No, do not release the truck.**
+
+Based on the missing information you described, you cannot dispatch this vehicle yet without risking serious state and federal legal violations, heavy fines, or an immediate out-of-service order.
+
+---
+
+### Key Reasons You Cannot Dispatch
+
+1. **Unknown Individual/Group Axle Weights:**
+Even though your gross vehicle weight (GVW) is exactly 80,000 lbs (which matches the legal maximum limit in New Jersey), an 80,000 lb load can easily be overweight on individual axles or axle groups. In New Jersey, the legal maximums are:
+* **Steer Axle:** Typically 12,000 lbs (or rated tire/axle capacity)
+* **Single Axle:** 22,400 lbs
+* **Tandem Axle:** 34,000 lbs per set (and consecutive tandems capped at 68,000 lbs combined)
+Without a certified scale ticket, you cannot confirm that the weight is distributed legally across the steer, drive tandems, and trailer tandems. An unbalanced 80,000 lb load will trigger an overweight axle violation.
+
+
+2. **Unverified Federal Bridge Formula & Axle Spacings:**
+The legal weight allowed on any group of axles depends strictly on the distance (spacing) between the extreme axles. Without knowing the exact spacing from axle 1 to axle 5, you cannot verify compliance with the Federal Bridge Formula.
+3. **Unconfirmed Load Dimensions:**
+In New Jersey, a permit is required if your vehicle exceeds **any** of the following standard legal limits:
+* **Width:** 8 feet 6 inches (8'6")
+* **Height:** 13 feet 6 inches (13'6")
+* **Trailer Length / KPRA:** Standard 53-foot semitrailer / 41-foot Kingpin to Rear Axle distance
+If your loaded dimensions exceed any of these, you **must** obtain a New Jersey Oversize Permit prior to movement.
+
+
+4. **Divisibility Rules & Permit Eligibility:**
+If your load exceeds legal dimensions or axle weights, New Jersey (like most states) generally **will not issue an oversize/overweight permit for a divisible load** (a load that can reasonably be dismantled, split, or reduced in size/weight). If the load is divisible and over limit, it must be adjusted/reduced on the trailer rather than permitted.
+5. **Jurisdiction & Route Requirements:**
+The New Jersey DOT, the New Jersey Turnpike Authority, and the Garden State Parkway operate under separate permit jurisdictions. Running on toll roads or restricted state routes without proper clearance can lead to immediate impoundment or severe penalties.
+
+---
+
+### Required Actions Before Releasing the Driver
+
+To clear this truck for dispatch, perform these steps immediately:
+
+1. **Weigh the Load:** Have the driver roll onto a nearby certified CAT scale (or local public scale) to get exact scale weights for the steer axle, drive tandem, and trailer tandem.
+2. **Measure the Loaded Dimensions:** Verify that the overall height is under 13'6", overall width is 8'6" or less, and trailer specs meet state routing guidelines.
+3. **Check Load Divisibility:** Ensure the freight cannot be split if it exceeds any dimension or weight limit.
+4. **Order Permits (If Needed):** If any axle exceeds weight limits or any dimension exceeds legal limits, obtain an NJDOT (and/or Turnpike/Parkway) Oversize/Overweight permit before the wheels roll on public roads.

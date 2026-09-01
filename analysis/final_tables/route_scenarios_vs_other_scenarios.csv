@@ -1,0 +1,3 @@
+scenario_group,n,yes,no,unclear,yes_rate,yes_rate_percent,wilson_95_lower,wilson_95_upper,wilson_95_lower_percent,wilson_95_upper_percent
+S2 and S4 route-specific scenarios,32,13,19,0,0.40625,40.625,0.2551963484266544,0.5773997512461713,25.51963484266544,57.739975124617125
+"S1, S3, S5, and S6 other scenarios",64,2,62,0,0.03125,3.125,0.008612138346171874,0.10697291770958313,0.8612138346171874,10.697291770958312

@@ -1,0 +1,49 @@
+**Short answer for dispatch:**  
+**Yes — this 80,000‑lb move requires a New Jersey overweight permit, and **no — you cannot legally release the truck yet** because you do not have the axle weights, axle spacings, or dimensional confirmations needed to issue the permit.**
+
+---
+
+### Why the answer is **yes, a permit is required**
+New Jersey’s statutory limits mean a standard five‑axle tractor‑semitrailer **cannot operate at 80,000 lb without an overweight permit**. Even if the load is nonhazardous and the container is sealed, the state still requires a permit when GVW exceeds legal limits.  
+
+
+
+
+Key points:
+- **80,000 lb GVW is not automatically legal in NJ.**  
+- NJ requires **axle weights** and **axle spacings** to calculate the allowable permitted weight.  
+- Without those numbers, **NJ cannot issue the permit**, and you cannot dispatch the truck.
+
+---
+
+### Why you cannot release the truck yet
+You are missing the minimum data required for a legal overweight permit:
+
+- **Axle weights** — must come from a certified scale ticket.  
+- **Axle spacings** — required for NJ’s weight‑calculation formula.  
+- **Dimensions** — width, height, and length must be declared.  
+- **Load divisibility status** — must be confirmed for permit eligibility.  
+- **Final route** — NJ overweight permits are route‑specific.  
+- **Permit status** — cannot be completed without the above data.
+
+Because these items are missing, **you cannot legally dispatch the truck**. Operating at 80,000 lb without a permit exposes the driver and carrier to NJDOT enforcement, fines, and potential out‑of‑service orders.
+
+---
+
+### Dispatch‑ready conclusion
+**Do not release the truck.**  
+You must first obtain:
+1. Certified **axle weights**  
+2. **Axle spacings**  
+3. **Width, height, length**  
+4. **Load‑divisibility confirmation**  
+5. **Final route**  
+6. Completed **NJ overweight permit**
+
+Only after these are confirmed can the truck be dispatched legally.
+
+---
+
+### One actionable next step  
+If you want, I can generate a **dispatch checklist** tailored to your September 2 move:  
+Create dispatch checklist

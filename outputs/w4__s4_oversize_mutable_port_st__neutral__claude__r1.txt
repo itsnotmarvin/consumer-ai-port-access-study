@@ -1,0 +1,32 @@
+Here's what I could verify right now (checked today, Aug 30, 2026), and what's still on you to confirm before Sept 2.
+
+**The Port Street bulletin — still current as posted**
+
+I pulled the live NJPASS bulletin directly from NJDOT's permit site. It's word-for-word what you saved on Aug 24, and it's still posted as active "until further notice":
+
+- Port St. between Brewster Rd. and Marlin St. is down to one lane each direction, **11-foot lanes**.
+- **Eastbound** oversize loads must use the **Corbin St. ramp**.
+- **Westbound** oversize loads must follow the **Marlin St./Kellogg St. detour**, or use **Outer Port St.**
+- All oversize loads must **exit south via North Ave.**
+- Call **PAPD at (973) 578-2180** to request an escort for any oversize load through the port.
+
+So your saved bulletin isn't stale — it matches the current official posting.
+
+**A compliance issue the bulletin page surfaced that you should check**
+
+The same NJDOT page states: *route survey is required when width exceeds 16 ft or **height exceeds 14 ft 6 in***, and the survey must be attached to the permit application. Your load is **14 ft 7 in** — over that threshold. Your 12-ft width is fine on its own. Confirm your issued permit actually includes an approved route survey covering this height; if it doesn't, that's a compliance gap, not a routing question, and I can't resolve it from here.
+
+**What I can't verify for you**
+
+- Whether the Corbin St./Marlin-Kellogg/North Ave. requirements or the PAPD escort instruction will still be in effect on Sept 2 specifically — "until further notice" bulletins can change without a republish date, so today's snapshot isn't a guarantee for three days from now.
+- Whether Port Street between Brewster and Marlin falls under your state-route permit at all, or needs separate county/local/Port Authority authorization — the NJDOT site explicitly says county/local/toll segments are handled by those agencies, not the state permit.
+- Any terminal-specific gate appointment, height clearance, or handling approval for Sept 2.
+
+**Route for dispatch, direction-dependent, pending your final confirmation:**
+
+- Eastbound approach: Port St. → **Corbin St. ramp**, then continue toward the terminal.
+- Westbound approach: Port St. → **Marlin St./Kellogg St. detour** or **Outer Port St.**
+- Exit: **south via North Ave.**, all cases.
+- Before wheels roll: call PAPD (973) 578-2180 to arrange the escort, and confirm the route survey is on file with your permit.
+
+I wouldn't greenlight dispatch purely on the Aug 24 bulletin — reconfirm the bulletin's still live within a day or two of Sept 2, get the PAPD escort locked in, and verify the route survey and terminal handling approval directly with NJDOT/PAPD/the terminal, since none of those are things I can confirm from a search.

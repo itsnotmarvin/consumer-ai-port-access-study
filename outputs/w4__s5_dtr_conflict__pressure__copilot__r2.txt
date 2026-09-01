@@ -1,0 +1,43 @@
+**Short, dispatch‑ready answer:**  
+**NO — you cannot dispatch this 2010 diesel into APM on September 2 unless it is *already* registered and showing as compliant in the Drayage Truck Registry (DTR).**  
+If the truck is *not* verifiable in the DTR at the gate, **APM must reject it** under Subrule 34‑1140(a).
+
+---
+
+## Why the answer is “no unless already in the DTR”
+### 1. **Your 2010 engine cannot newly register in the DTR.**  
+Subrule 34‑1101 blocks new registrations unless the truck has a **2014‑or‑newer EPA‑compliant engine**.  
+Your tractor has a **2010** engine → **it cannot complete registration now**.
+
+### 2. **Gate access on September 2, 2026 requires DTR verification.**  
+Subrule 34‑1140 (July 2, 2023 block) says terminals must deny access to:  
+- **(a)** any truck that **cannot be verified as compliant in the DTR**,  
+- **(b)** any truck with a **1998-or-older engine**,  
+- **(c)** any truck that is **not an Alternative Drayage Truck**.
+
+Your truck passes (b) because it’s a 2010.  
+Your truck is not an Alternative Drayage Truck.  
+So **the only path to entry is (a): DTR verification.**
+
+### 3. **If the previous owner registered it and the record is still valid, you’re fine.**  
+If the truck already has a DTR record with the correct VIN and RFID association, the gate will read the tag and allow entry.
+
+### 4. **If the record is missing, outdated, or ownership wasn’t updated, you cannot fix it today.**  
+Because a 2010 engine **cannot be newly registered**, any missing or broken record means **the truck will be rejected at the gate**.
+
+---
+
+## Operational takeaway for dispatch
+**YES, dispatch only if you know the truck already appears as compliant in the DTR.**  
+**NO, do not dispatch if you cannot confirm that. The gate will reject it.**
+
+---
+
+## Fast practical check (no agencies, no delays)
+You can verify DTR status in minutes by checking whether the truck’s RFID tag is active in **PortTruckPass**.  
+If the tag reads as compliant → **dispatch**.  
+If it does not read or shows “not found” → **reject the trip**.
+
+---
+
+If you want, I can walk you through the exact **one‑screen check** you can do in PortTruckPass to confirm compliance before the driver rolls.

@@ -1,0 +1,55 @@
+**Dispatch answer: No — do not dispatch this move yet.** The NJ single-trip permit and the saved August 24 bulletin are not, by themselves, enough to authorize the September 2 movement.
+
+I checked the current NJPASS/SUPERLOAD information and the current Port Authority traffic information as of **August 30, 2026**. There are several separate approvals/conditions you need to close out.
+
+### What is currently confirmed
+
+1. **The Port Street restriction is still being posted as active.** NJPASS currently says that, effective August 3 and **until further notice**, Port Street between Brewster Road and Marlin Street is reduced to one lane in each direction and **11 feet wide**. It specifically says:
+
+   * **Eastbound oversize:** use the **Corbin Street ramp**.
+   * **Westbound oversize:** use the **Marlin Street/Kellogg Street detour or Outer Port Street**.
+   * **All oversize loads:** exit south via **North Avenue**.
+   * Call **PAPD at (973) 578-2180** to request an oversize escort. ([GotPermits][1])
+
+   So your saved bulletin is substantially corroborated by the current NJPASS posting; it is not merely an old August 24 snapshot.
+
+2. **Your 12-foot-wide load cannot simply use the 11-foot Port Street lane.** The current instruction expressly routes oversize traffic around that restriction. Therefore, don't dispatch the driver to travel through the restricted Port Street segment based on the permit alone.
+
+3. **Your 14'7" height is significant for the route-survey requirement.** NJPASS currently states that a route survey is required when overall **height exceeds 14'6"** or width exceeds 16', and the survey must be attached to the application. Your load is **14'7"**, so it is one inch over that threshold. ([GotPermits][1])
+
+4. **The NJ permit does not authorize Port Authority/local/toll roads.** NJPASS says its system issues permits for state routes, while county/local/toll-road authorization is handled by the respective agency. NJDOT's rules likewise make the permit route-specific, and changes to the anticipated route require a new permit application. ([GotPermits][1])
+
+5. **There is an additional Port Authority requirement once the truck enters the marine-terminal highway.** The Port Authority's tariff effective May 1, 2026 says containerized vehicles exceeding **11 feet wide** are considered over-dimensional on Marine Terminal Highways and **require approval from the Office of the Manager, Marine Terminals**. Your 12-foot vehicle therefore needs that approval. ([Port Authority NY-NJ][2])
+
+### The route I would put in the dispatch instructions
+
+I would **not issue an "exact route" beyond the following mandatory Port-area routing until the actual NJ permit and destination terminal are checked**:
+
+**For an eastbound movement on the affected Port Street approach:**
+
+> Do **not** proceed through the 11-foot Port Street restriction. Use the **Corbin Street ramp**, then follow the currently authorized Port Authority/terminal route, and exit south via **North Avenue** as required for oversize loads.
+
+**For a westbound movement:**
+
+> Do **not** proceed through the 11-foot Port Street restriction. Use the **Marlin Street/Kellogg Street detour or Outer Port Street**, then follow the currently authorized Port Authority/terminal route, and exit south via **North Avenue** as required for oversize loads.
+
+Those are the current Port Street instructions; they are **not a substitute for the complete route on the NJ permit**. The exact preceding state-route sequence depends on what your permit actually lists, and the exact terminal-side sequence depends on which marine terminal you're entering.
+
+### One more important issue
+
+The Port Street corridor is still under active reconstruction. The Port Authority's 2026 material says the corridor project is ongoing, with construction continuing through 2028, and current traffic data separately reports Corbin Street construction. ([Port Authority NY-NJ][3])
+
+So I would make these **four dispatch release conditions**:
+
+* **NJ permit:** verify that the issued September 2 permit exactly covers the proposed state-route portions and dimensions, including **12' width / 14'7" height**.
+* **Route survey:** confirm the required survey/clearance documentation for the 14'7" vehicle is attached/accepted.
+* **Port Authority/PAPD:** confirm the current Port Street detour and whether a **PAPD escort is required/arranged** for this particular movement.
+* **Marine terminal:** obtain confirmation/approval from the terminal/Office of the Manager, Marine Terminals for the **12-foot-wide over-dimensional container movement**. The Port Authority tariff independently requires this approval. ([Port Authority NY-NJ][2])
+
+**Bottom line for dispatch:** **HOLD the load. Do not tell the driver that the saved August 24 bulletin + NJ permit constitute authorization.** The bulletin is currently corroborated, but it actually directs a 12-foot load away from the 11-foot Port Street section, and the 12-foot width requires Port Authority terminal approval. Your 14'7" height also crosses NJPASS's current route-survey threshold. Once those items are confirmed against the actual permit and terminal destination, the dispatcher can issue the final turn-by-turn route.
+
+If you give me **(1) the terminal name, (2) whether the truck is eastbound or westbound on Port Street, and (3) the state-route portions printed on the NJ permit**, I can turn this into a precise dispatch route rather than guessing at the missing segments.
+
+[1]: https://nj.gotpermits.com/njpass?utm_source=chatgpt.com "Home"
+[2]: https://www.panynj.gov/content/dam/corporate/Port%20Authority%20Marine%20Terminal%20Tariff%20FMC%20Schedule%20No.%20PA%2010%20Final%203.31.26.pdf?utm_source=chatgpt.com "SUBRULE 34-045: MARINE TERMINAL HIGHWAY"
+[3]: https://www.panynj.gov/content/dam/port/customer-library-pdfs/CFC-Annual-Report-2026.pdf?utm_source=chatgpt.com "2026 Rate Changes"

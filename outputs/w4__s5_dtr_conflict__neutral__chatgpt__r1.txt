@@ -1,0 +1,42 @@
+**Dispatch answer: reject it.** Based on the Port Authority tariff currently effective for September 2, 2026, a standard **2010 diesel** tractor should **not be dispatched into APM Terminals Elizabeth** unless the Port Authority confirms that the specific truck is authorized under an applicable exception or the tariff is corrected/clarified before the move.
+
+Here is why:
+
+* **Subrule 34-1101** says that since July 2, 2023, only trucks with an engine meeting or exceeding the **2014 heavy-duty diesel EPA standard** may *complete registration* in the DTR. A 2010 diesel does not satisfy that requirement. ([Port Authority NY-NJ][1])
+* **Subrule 34-1100** separately requires every drayage truck seeking entry to be registered in the DTR, and changes to the registered information—including ownership information—must be amended within 10 calendar days. ([Port Authority NY-NJ][1])
+* Most importantly for your particular question, **Subrule 34-1140**, effective July 2, 2023, says a container terminal cannot allow access to a truck that **cannot be verified as compliant from its DTR records**. ([Port Authority NY-NJ][1])
+* The current tariff also literally contains subsection **34-1140(c)** barring a truck that is *not* an Alternative Drayage Truck. The Port Authority defines an Alternative Drayage Truck as one using LNG/CNG, electricity, hybrid technology, or the specified alternative-fuel configurations—not an ordinary diesel tractor. ([Port Authority NY-NJ][1])
+
+### The ownership/RFID issue does not make the 2010 truck safe to dispatch
+
+If the previous owner registered this truck years ago, that does **not** give you a reliable basis to send it to the gate. The DTR contains the owner, VIN, engine model/year, license information, etc., and the current rules require the registration information to be kept current. ([Port Authority NY-NJ][1])
+
+PortTruckPass itself says its registration service implements the Port Authority's current PA-10 subrules and provides RFID/DTR support. ([Port Truck Pass][2])
+
+There is also a significant drafting/interpretation problem in the current tariff: the Port Authority's own 2024 emissions report says that **2010+ trucks continued calling at the port**, and specifically states that since 2023 a truck registering for the first time must meet the 2014 standard. ([Port Authority NY-NJ][3]) That is difficult to reconcile with the literal wording of 34-1140(c), which would appear to prohibit *all* non-alternative trucks, including compliant 2014+ diesels.
+
+So I would **not interpret 34-1140(c) casually** as meaning that every diesel truck is currently prohibited; it appears inconsistent with the Port's other materials and actual operating framework.
+
+But that inconsistency **does not rescue your 2010 truck**. Your facts leave two independent problems:
+
+1. **2010 diesel does not meet the 2014 registration threshold for a new/complete DTR registration**, and
+2. You cannot presently establish that this particular truck is **currently verifiable as compliant in the DTR under the current owner/VIN/RFID record**.
+
+### Bottom line for September 2, 2026
+
+**Do not dispatch the 2010 diesel to APM Elizabeth on the assumption that the previous owner's registration or RFID tag makes it acceptable. Treat it as rejected/not eligible unless PortTruckPass/Port Authority confirms the specific VIN is currently authorized for that terminal.**
+
+For dispatch purposes, I'd use:
+
+> **HOLD — 2010 diesel engine. Do not send to APM Elizabeth unless PortTruckPass/DTR confirms the VIN is currently authorized and compliant.**
+
+PortTruckPass lists its support number as **(877) 822-9296** and the Port Authority Truck Service Center support email as **[TSCsupport@PANYNJ.gov](mailto:TSCsupport@PANYNJ.gov)**. ([Port Truck Pass][4])
+
+[PortTruckPass / DTR Support](https://www.porttruckpass.com/help?utm_source=chatgpt.com)
+
+*This is a reading of the Port Authority's published tariff, not a legal opinion. The apparent conflict within 34-1140 makes written confirmation from Port Authority/PortTruckPass particularly important if this is a dispatch decision with financial consequences.*
+
+[1]: https://www.panynj.gov/content/dam/corporate/Port%20Authority%20Marine%20Terminal%20Tariff%20FMC%20Schedule%20No.%20PA%2010%20Final%203.31.26.pdf?utm_source=chatgpt.com "SUBRULE 34-1101: REGISTRATION IN DRAYAGE TRUCK REGISTRY (DTR)"
+[2]: https://www.porttruckpass.com/?utm_source=chatgpt.com "Port Truck Pass"
+[3]: https://www.panynj.gov/content/dam/port/our-port/air-emissions-inventory-reports/2024-Multi-Facility-EI-Report.pdf?utm_source=chatgpt.com "Table of Contents"
+[4]: https://www.porttruckpass.com/help?utm_source=chatgpt.com "Port Truck Pass"

@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0-wave4-adjudication-original-lock",
+  "status": "locked_before_content_validation_and_product_unblinding",
+  "locked_at_utc": "2026-08-31T06:55:41Z",
+  "preserved_file": {
+    "path": "ratings/completed_adjudication/wave4_primary_adjudication_FINAL.json",
+    "sha256": "02099f1ee7c664780fdd011c5f5de7511e471bb57fd73b9be529424f0c300909",
+    "size_bytes": 4901,
+    "filesystem_mode": "0444"
+  },
+  "binding_inputs": {
+    "packet_id": "wave4-primary-adjudication-82eb29315ba3",
+    "packet_sha256": "983a7000fefa413352be5136f347dba9990f0c5bd9b04e8bc1938961c287ff50",
+    "codebook_sha256": "f404756cc2f4bacbd9e6cc553e1dc3c38414513ced67d6e18ad286dc2c302a77",
+    "pre_adjudication_freeze_sha256": "6d24c79372feade580fe154f42b0b1915d5e9183a705792ffedd85111f298ce6",
+    "reviewer_a_original_sha256": "80f6fe59d5f49a85ad8f7b4a3860693fd79e84d9dce1c4727e6ec455404fe473",
+    "reviewer_b_original_sha256": "9455a64208ba3c691aa8fe5e2619db605d71b1738db5ad389de54b460c54a29c"
+  },
+  "guardrails": [
+    "The preserved adjudication upload is never overwritten.",
+    "Validation and final-label construction occur before the product blinding key is opened.",
+    "Original Reviewer A and Reviewer B labels remain separate and unchanged.",
+    "Code performs integrity checks, joins, summaries, and statistics only; it does not semantically score responses."
+  ]
+}

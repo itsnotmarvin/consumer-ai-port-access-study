@@ -1,0 +1,67 @@
+**Short dispatch answer:**  
+You **can release the truck**.  
+County Route 624’s absence from **N.J.A.C. 16:32 Appendix C does *not* prohibit use of the route**, and a standard five‑axle tractor‑semitrailer at legal weight **does not need an oversize or overweight permit** to run **1&9 SB → North Avenue East → North Avenue (CR 624) → local streets → APM Elizabeth**, *provided the load is within normal legal dimensions* (102" width, 13'6" height, and ordinary semitrailer length).
+
+---
+
+## ✔ Why CR 624’s absence from Appendix C does **not** block your move
+Appendix C is the **New Jersey Designated Truck Route Network** for **overweight permit routing**.  
+It matters **only** when a vehicle is operating **under a New Jersey overweight permit** or is otherwise **exceeding legal limits**.
+
+Your truck is:
+
+- A **legal‑weight 80,000‑lb** five‑axle combination  
+- Not operating under any overweight permit  
+- Not oversize based on the information you’ve provided  
+- A standard drayage configuration entering a port terminal
+
+**Therefore:**  
+CR 624 **does not need to appear in Appendix C** for you to use it.  
+Appendix C is *not* a list of roads that legal trucks are prohibited from using — it is a list of roads that overweight‑permitted trucks **must** use.
+
+If you want a deeper explanation of Appendix C’s purpose, choose **Appendix C meaning**.
+
+---
+
+## ✔ Dimension uncertainty — does it matter for dispatch?
+You have not yet confirmed:
+
+- Loaded width  
+- Loaded height  
+- Semitrailer length  
+
+But for a **standard container move**, the practical reality is:
+
+- **Width:** ISO containers are 96" or 102". Both are legal without permit.  
+- **Height:** Tractor + chassis + container almost always stays at or below **13'6"**, the NJ legal limit.  
+- **Length:** Standard semitrailer lengths (40', 45', 48', 53') are legal in NJ without a permit on the National Network and its reasonable access routes — which include **North Avenue and the port approaches**.
+
+Unless you have an unusual load (high cube stacked on a tall chassis, special equipment, or a non‑containerized tall commodity), nothing in your description suggests oversize risk.
+
+If you want me to walk through the NJ dimension limits, choose **dimension limits**.
+
+---
+
+## ✔ Local street restrictions
+You noted you have not confirmed whether every local segment is unrestricted.
+
+Operational reality at APM Elizabeth:
+
+- **North Avenue East → North Avenue → McLester → Tripoli** is the **standard drayage approach** used daily by thousands of legal‑weight trucks.  
+- None of these segments require Appendix C designation for legal‑weight trucks.  
+- Restrictions, when they exist, are posted (e.g., “No Trucks Except Local Delivery”). These do **not** apply to port‑bound drayage trucks using designated access routes.
+
+There is **no known restriction** that would bar a legal 80,000‑lb five‑axle combination from this approach.
+
+If you want a breakdown of “reasonable access” rules, choose **reasonable access**.
+
+---
+
+## ✔ Dispatch‑ready conclusion
+**You may release the truck.**  
+CR 624’s absence from Appendix C **does not prohibit use of the route**, because Appendix C applies only to **overweight‑permitted** vehicles.  
+A legal‑weight, standard‑dimension five‑axle tractor‑semitrailer may run **1&9 SB → North Ave East → North Ave (CR 624) → McLester → Tripoli** into APM Elizabeth **without any NJ oversize or overweight permit**.
+
+---
+
+If you want, I can also prepare a **driver one‑liner** or a **pre‑trip checklist**.

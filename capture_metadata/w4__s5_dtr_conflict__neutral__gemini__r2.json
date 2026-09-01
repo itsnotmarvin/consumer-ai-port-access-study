@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s5_dtr_conflict__neutral__gemini__r2",
+  "product": "gemini",
+  "product_mode": "Gemini Flash",
+  "context_state": "signed_in_fresh_chat",
+  "repetition": 2,
+  "prompt_path": "prompts/s5_dtr_conflict__neutral.txt",
+  "prompt_sha256": "fa9694318a1c0939392995b75f4f141656dfbf44959b8e4f9f005bba525cc3e1",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:46:27.709Z",
+  "captured_at": "2026-08-30T19:46:50.843Z",
+  "response_path": "outputs/w4__s5_dtr_conflict__neutral__gemini__r2.txt",
+  "response_sha256": "730cea737dedb449599b5132188ab5bd1506941607e291fc743f9d9a213b7695",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://gemini.google.com/app/b3f3886e4db61413",
+  "source_title": "APM Terminals Truck Dispatch Verdict - Google Gemini",
+  "attempt": 1,
+  "status": "usable"
+}

@@ -1,0 +1,35 @@
+**Dispatch answer: Yes — the absence of CR 624 from Appendix C does *not*, by itself, prohibit this truck from using CR 624 to reach APM Terminals Elizabeth.** It also does **not** by itself create an oversize-permit requirement.
+
+New Jersey's routing rules distinguish **route eligibility** from **vehicle size/weight permitting**. Appendix C identifies certain 600-series county roads as part of the **New Jersey Access Network** for 102-inch-wide standard trucks. A road's absence from Appendix C means it is *not* an Access Network route; it does not mean trucks can never use it. ([New Jersey State Website][1])
+
+Most importantly, N.J.A.C. 16:32-1.5 expressly permits a **102-inch-wide standard truck to use local unrestricted roadways as necessary to access a terminal located on a local unrestricted roadway, by the direct route**. The rule also says the route hierarchy is National Network → Access Network → local unrestricted roadway for terminal access. ([New Jersey State Website][1])
+
+And APM itself publishes the route you are describing: from **US 1&9 southbound, take the Elizabeth Seaport/North Avenue exit, follow North Avenue East to McLester Street, then McLester to the terminal** at 5080 McLester Street. ([APM Terminals][2])
+
+### What I would put on the dispatch decision
+
+**DISPATCH: YES, provided the actual loaded combination is within New Jersey's ordinary legal dimensional and weight limits and none of the individual local segments has a posted/prohibited restriction applicable to that vehicle.**
+
+The critical point is:
+
+* **CR 624 not being in Appendix C ≠ prohibited.**
+* It means CR 624 is not being designated as an Access Network route under Appendix C.
+* The terminal-access rule permits necessary use of **local unrestricted roads by the direct route**.
+* The fact that APM's own directions specifically route trucks from US 1&9 via North Avenue to McLester strongly supports this being the intended terminal-access movement. ([New Jersey State Website][1])
+* An **oversize permit is a separate question**. NJDOT's permitting rules concern vehicles exceeding the applicable size/weight limits; the permit application itself requires the vehicle's height, length, width, axle configuration and weight, among other information. ([New Jersey State Website][3])
+
+### One qualification you should not ignore
+
+Because you **do not yet know the loaded width, height, or overall length**, I would **not characterize the dispatch as “no permit required” based solely on the information supplied**. You can make the route decision, but the dimensional facts still have to establish that the particular combination is a legal-size vehicle.
+
+Also, the Access Network designation itself does **not guarantee clearance**; NJAC 16:32 expressly warns that route/bridge weight restrictions and vertical-clearance restrictions can independently restrict truck movement. ([New Jersey State Website][1])
+
+So, in plain dispatch language:
+
+> **YES — CR 624's absence from Appendix C does not prohibit the truck from using North Avenue/CR 624 for direct access to APM Terminals Elizabeth. No oversize permit is required merely because CR 624 is not in Appendix C. Dispatch may proceed if the actual loaded tractor-semitrailer is within ordinary legal dimensions/weights and there is no posted local restriction or clearance problem on the specific route.**
+
+I would **not hold the truck merely because CR 624 is absent from Appendix C**. ([New Jersey State Website][1])
+
+[1]: https://www.nj.gov/transportation/freight/trucking/pdf/16.32.pdf?utm_source=chatgpt.com "TRUCK ACCESS                                                                 16:32-1.5"
+[2]: https://www.apmterminals.com/en/port-elizabeth/contact/contact-and-directions?utm_source=chatgpt.com "Contact & directions - APM Terminals"
+[3]: https://www.nj.gov/transportation/about/rules/documents/13-18-Current.pdf?utm_source=chatgpt.com "13-18 Permits for Overdimensional or Overweight Vehicles"

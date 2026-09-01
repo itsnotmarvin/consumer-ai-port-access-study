@@ -1,0 +1,21 @@
+**NO — DO NOT RELEASE THE TRUCK YET.** You cannot make a definitive legal dispatch determination without verifying your axle weights, dimensions, and route, as an axle overweight violation can still occur at 80,000 lbs gross weight.
+
+---
+
+### Key Requirements & Risks
+
+* **Axle Weight Risk:** Even though 80,000 lbs is the standard legal maximum Gross Vehicle Weight (GVW) for a 5-axle combination in New Jersey, a load can easily be **gross-legal but axle-overweight**.
+* NJ tandem axle limits are capped at **34,000 lbs** per set.
+* If the load distribution pushes your steer axle above its rating or puts more than 34,000 lbs on either tandem set (e.g., 12,000 lbs steer, 36,000 lbs drive tandem, 32,000 lbs trailer tandem), the truck is **illegal without an overweight permit**, regardless of the 80,000 lb total.
+
+
+* **Federal Bridge Formula:** Federal and NJ regulations require proper spacing between axle groups to distribute weight legally. Without knowing your exact axle spacings, you cannot confirm compliance.
+* **Dimensional Limits:** NJ standard legal limits are **8'6" width**, **13'6" height**, and **53' trailer length** on designated networks (or 48' / 8'0" on non-designated local roads). If any dimension exceeds these caps, an oversize permit is strictly required before moving.
+
+---
+
+### Immediate Next Steps Before Dispatch
+
+1. **Weigh the Vehicle:** Have the driver scale the vehicle immediately at the nearest certified scale (CAT scale) to obtain individual steer, drive-tandem, and trailer-tandem weights.
+2. **Verify Load Dimensions:** Confirm the overall height, width, and trailer length.
+3. **Check the Route:** If any single axle group exceeds the 34,000 lb tandem limit or if dimensions exceed standard caps, pull a **NJ DOT Oversize/Overweight permit** prior to entering public roads.

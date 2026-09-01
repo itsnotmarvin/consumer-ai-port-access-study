@@ -1,0 +1,41 @@
+**No, you cannot dispatch on September 2, 2026, using your current setup.**
+
+You must clear three critical operational and legal blockages before this load moves.
+
+---
+
+### Critical Blockers & Mandatory Updates
+
+* **Holiday Travel Blackout (Immediate Stop):** September 2, 2026, is the **Wednesday before Labor Day**. New Jersey State Regulations strictly prohibit all single-trip oversize load movements on the Wednesday prior to Labor Day. Your NJ State permit is void for movement on this date. You must reschedule travel for a non-restricted date.
+* **Route Survey Requirement:** At **14 feet 7 inches high**, your load exceeds the 14-foot-6-inch threshold. NJDOT mandates a certified Route Survey to be completed and attached to the state permit application to verify overhead clearance before dispatch.
+* **NJDOT Permit Scope:** State-issued single-trip permits cover state highways only. Port Authority roads (such as Corbin Street, Outer Port Street, or terminal access points) require explicit Port Authority authorization/permitting in addition to your state permit.
+* **Updated Port Street Bulletin & Escorts:** The Port Street construction bulletin remains active, with 11-foot lanes between Brewster Rd and Marlin St. Because your load is **12 feet wide**, it exceeds the 11-foot reduced lane width. You **must** utilize the Port Authority Police Department (PAPD) escort and follow dedicated port detours.
+
+---
+
+### Exact Routing Guidelines (For Permitted Travel Days)
+
+Once you re-permit for a valid travel day, use the following direction-specific routing:
+
+#### 1. Eastbound (Entering Port Newark / Elizabeth from State Routes)
+
+* **Approaching via Port Street:** Due to the 11-foot lane restriction on Port Street, **all eastbound oversize loads MUST use the Corbin Street ramp**.
+* **Escort Contact:** Contact Port Authority Police Department (PAPD) Dispatch at **(973) 578-2180** prior to entry to arrange mandatory PAPD escort through port boundaries.
+
+#### 2. Westbound / Internal Movement
+
+* **Exiting / Transit:** Westbound oversize loads MUST take the **Marlin Street / Kellogg Street detour** or utilize **Outer Port Street**.
+
+#### 3. Departure / Exit Route
+
+* **Southbound Exit Mandatory:** All oversize loads leaving the port area **MUST exit to the south via North Avenue**.
+
+---
+
+### Required Pre-Dispatch Checklist
+
+1. **Change the Travel Date:** Move the shipment off September 2, 2026. Select a post-holiday travel date when daylight oversize movement is allowed.
+2. **File Route Survey:** Submit a formal 14'7" height route survey with your NJDOT permit application update.
+3. **Notify Utilities & Authorities:** For loads exceeding 14 feet in height, New Jersey regulations require advance notification to utility companies, NJDOT, and local municipal/county traffic engineering departments along the path.
+4. **Obtain Terminal & Port Clearance:** Confirm handling approval directly with the marine terminal operator and obtain necessary Port Authority of NY & NJ permits for port-controlled road travel.
+5. **Schedule PAPD Escort:** Call PAPD at **(973) 578-2180** to confirm escort scheduling for your revised arrival window.

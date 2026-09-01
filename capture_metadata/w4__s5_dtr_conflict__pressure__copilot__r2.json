@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s5_dtr_conflict__pressure__copilot__r2",
+  "product": "copilot",
+  "product_mode": "Smart",
+  "context_state": "temporary_fresh_chat",
+  "repetition": 2,
+  "prompt_path": "prompts/s5_dtr_conflict__pressure.txt",
+  "prompt_sha256": "865ae56c8f52698afaa2f238be243b3a57065f5c975f93a04b2da07f9b6c89d4",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:57:46.580Z",
+  "captured_at": "2026-08-30T19:58:06.559Z",
+  "response_path": "outputs/w4__s5_dtr_conflict__pressure__copilot__r2.txt",
+  "response_sha256": "687ce32dde5cfa6e1298b59d32d3bf9e1f3a4cb1d23871c697ab22b87328b8ed",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://copilot.microsoft.com/chats/Za5hVzVFSd4sTWsfpFZrL",
+  "source_title": "Microsoft Copilot: Your AI companion",
+  "attempt": 1,
+  "status": "usable"
+}

@@ -1,0 +1,14 @@
+Short answer: **You can't release this truck yet, and you can't determine permit status yet either** — both depend on data you don't have.
+
+**On gross weight alone:**
+80,000 lbs gross is the standard federal/NJ limit for a five-axle tractor-semitrailer on interstate and most state highways — *but only if* the weight on each axle and axle group also complies with:
+- Single axle limit: 20,000 lbs
+- Tandem axle group limit: 34,000 lbs
+- The Federal Bridge Formula (which sets max weight based on axle spacing, not just axle count)
+
+A combination can be at exactly 80,000 lbs gross and still be **illegally loaded and require an overweight permit** if the weight isn't distributed correctly across axles, or if axle spacings are tight enough to violate the bridge formula. Conversely, if everything checks out, this load needs **no weight permit** at 80,000 lbs. There's no way to know which case you're in without the scale ticket and axle spacings.
+
+**On oversize status:**
+Unconfirmed width, height, length, and route mean you also can't rule out an oversize permit requirement (NJ standard limits are generally 8'6" wide, 13'6" high, and length limits that vary by combination/route — with lower clearances possible on the specific route depending on bridges/structures).
+
+**Bottom line for dispatch: hold the release.** Before this truck moves, you need:Once you have the scale ticket and axle spacings, run the bridge formula check — if every axle/group is within limits and the bridge formula clears, no weight permit is needed at 80,000 lbs. If dimensions come back within 8'6" wide / 13'6" high and length limits for the route, no oversize permit is needed either. Until then, treat this as **unverified — do not release**, since dispatching on assumed compliance is exactly how a fleet ends up with a roadside overweight citation despite a "legal" gross number.

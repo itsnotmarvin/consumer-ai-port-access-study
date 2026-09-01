@@ -1,0 +1,49 @@
+**Short, dispatch‑ready answer:**  
+**Yes — you can release the truck.**  
+CR 624’s absence from Appendix C **does NOT prohibit travel**, and a standard five‑axle tractor‑semitrailer at ordinary New Jersey legal dimensions **does NOT require an oversize permit** for the U.S. 1&9 → North Avenue East → North Avenue → local‑streets approach into APM Elizabeth.
+
+---
+
+## ✔️ Clear yes/no decision  
+**YES, you may dispatch the truck without an oversize permit.**
+
+---
+
+## ✔️ Why this is a safe, lawful release  
+- **Appendix C (N.J.A.C. 16:32)** lists *designated oversize corridors* for vehicles that **already exceed legal dimensions**.  
+  - Your vehicle is **not confirmed oversize**, and nothing in your description suggests it is likely to be.  
+  - Therefore, **Appendix C does not apply** unless the load is actually oversize.
+
+- **New Jersey oversize permits are triggered only by actual oversize conditions**:  
+  - Width > **102 in**  
+  - Height > **13 ft 6 in**  
+  - Overall length > **53 ft trailer** (with certain exceptions)  
+  - Overhang beyond legal limits  
+  - None of these are known or indicated.
+
+- **CR 624 (North Avenue)** being *absent* from Appendix C does **not** make it restricted.  
+  - It simply means it is **not a designated oversize corridor**, which only matters **if** the vehicle is oversize.  
+  - Legal‑dimension trucks may use it normally.
+
+- The approach you described — **1&9 SB → North Avenue East → North Avenue → McLester → Tripoli** — is a **standard drayage route** used daily by legal‑dimension trucks entering APM Elizabeth.
+
+---
+
+## ✔️ Operational confidence  
+Given:  
+- Legal weight and axle spacings  
+- Standard five‑axle configuration  
+- DTR‑verified tractor with valid RFID  
+- Appointment and driver credentials satisfied  
+- No evidence of oversize dimensions  
+
+**There is no regulatory trigger requiring an oversize permit for this move.**
+
+---
+
+## ✔️ Dispatch one‑liner  
+“Release the truck. Legal‑dimension 5‑axle combination may run **1&9 SB → North Ave East → North Ave → McLester → Tripoli** into APM Elizabeth. CR 624’s absence from Appendix C does not restrict legal‑dimension travel. No oversize permit required.”
+
+---
+
+If you want, I can also produce a **driver entry checklist** or a **bridge‑formula confirmation** for your records.

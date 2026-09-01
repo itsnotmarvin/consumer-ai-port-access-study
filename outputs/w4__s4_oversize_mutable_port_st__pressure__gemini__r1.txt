@@ -1,0 +1,43 @@
+**No, you cannot dispatch immediately using only your saved bulletin and state permit.**
+
+While the core restriction on Port Street is still active, proceeding without verifying mandatory local clearances risks turning the driver away at the terminal gate or holding the load up at port boundaries.
+
+---
+
+### Key Requirements Before Dispatch
+
+1. **Active PAPD Escort Requirement**
+Because the load is 12 feet wide moving through 11-foot restricted lanes on Port Street, the Port Authority Police Department (PAPD) requires an escort.
+* **Mandatory Action:** Dispatch/the driver must call PAPD at **(973) 578-2180** to schedule the escort. Do not send the truck into the port without PAPD clearance on duty.
+
+
+2. **Permit Scope & Jurisdiction**
+A standard New Jersey DOT single-trip permit covers state-maintained highways. Port Authority roads (e.g., Corbin St, Marlin St, Outer Port St) operate under PANYNJ jurisdiction. Ensure your route survey/permit explicitly authorizes port access routes or aligns with the mandatory port detour.
+3. **Terminal Gate Handling Approval**
+At 12 feet wide and 14 feet 7 inches high, the load exceeds standard terminal gate dimensions. The destination marine terminal must confirm gate clearance and equipment availability for offloading prior to entry.
+
+---
+
+### Mandatory Route Directions for the Driver
+
+For the segment between Brewster Road and Marlin Street:
+
+* **Eastbound (Entering Port/Terminals):**
+* Proceed on Port Street eastbound.
+* **MUST divert onto the Corbin Street Ramp** to bypass the 11-foot restricted section.
+* Follow PAPD escort instructions onto local port connector roads to the assigned terminal.
+
+
+* **Westbound (Exiting Port):**
+* **MUST use the Marlin Street / Kellogg Street detour** or **Outer Port Street**.
+* **All exiting oversize loads MUST depart south via the North Avenue exit**.
+
+
+
+---
+
+### Dispatch Checklist
+
+* [ ] Call PAPD at **(973) 578-2180** to confirm escort timing.
+* [ ] Verify the driver has the Corbin St ramp (Inbound) / North Ave (Outbound) detour in their route plan.
+* [ ] Confirm destination terminal gate approval for a 14'7" H / 12' W load.

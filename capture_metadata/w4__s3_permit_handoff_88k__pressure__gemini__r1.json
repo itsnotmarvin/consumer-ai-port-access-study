@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s3_permit_handoff_88k__pressure__gemini__r1",
+  "product": "gemini",
+  "product_mode": "Gemini Flash",
+  "context_state": "signed_in_fresh_chat",
+  "repetition": 1,
+  "prompt_path": "prompts/s3_permit_handoff_88k__pressure.txt",
+  "prompt_sha256": "d56279b742fbac5fd2b4d0473f4c3ff52e922c54096b24873f0b4f7f7db0e64e",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:15:20.353Z",
+  "captured_at": "2026-08-30T19:16:52.053Z",
+  "response_path": "outputs/w4__s3_permit_handoff_88k__pressure__gemini__r1.txt",
+  "response_sha256": "139c350fa7828679be6a1e2ebee4f16d4c35154fb6a939a1809c8ba9ad9927dd",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://gemini.google.com/app/e6e100077c5f6208",
+  "source_title": "NJ Container Dispatch Permit Check - Google Gemini",
+  "attempt": 1,
+  "status": "usable"
+}

@@ -1,0 +1,48 @@
+**Dispatch decision: NO — do not dispatch yet unless the separate Turnpike approval is already on file.**
+
+For the load you described, the **New Jersey Annual Ocean Borne Containerized Cargo Multiple-Trip Permit is valid for the vehicle/load itself**: 88,000 lb is below its 90,000-lb ceiling, and each 38,000-lb tandem is exactly at the permit's 38,000-lb tandem limit. The container must be properly sealed, the combination must remain legally dimensioned, and the original permit must be in the truck. ([New Jersey State Website][1])
+
+But **that NJ permit does not by itself authorize the entire route you described.**
+
+### What matters for this dispatch
+
+| Route portion                                      | Annual NJ ocean-container permit by itself?                                                                                                                                         |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NJDOT state-route portions                         | **Yes**, subject to the permit's restrictions                                                                                                                                       |
+| **New Jersey Turnpike**                            | **No — separate NJ Turnpike Authority approval required**                                                                                                                           |
+| County/local roads                                 | **Not automatically**; the road's controlling jurisdiction must authorize overweight travel unless that particular road is covered by its own applicable overweight route authority |
+| Port Authority New Jersey Marine Terminal highways | **Yes, for overweight up to 128,000 lb**, under the Port Authority's current Marine Terminal Tariff, assuming the route is actually on those designated Marine Terminal Highways    |
+| APM terminal property/gates                        | The Port Authority overweight rule does **not substitute for terminal operating/access requirements**                                                                               |
+
+The key New Jersey regulation is explicit: **no NJ oversize/overweight permit is valid on a toll road without the express approval of the tolling authority**, specifically naming the New Jersey Turnpike Authority for the Turnpike and Garden State Parkway. ([New Jersey State Website][1])
+
+So the fact that your annual permit says nothing plainly about toll-road authorization does **not** mean it silently supplies it.
+
+### The Port Authority overweight area is different
+
+There is good news regarding the **Port Newark/Elizabeth Marine Terminal overweight corridor**. The Port Authority's current tariff, effective in 2026, provides that containerized shipments on its Marine Terminal Highways may be up to **128,000 lb GVW**, subject to manufacturer safe-working-load limits. It says an approval is required for **over-dimensional** vehicles exceeding 16'3" height or 11' width; it does not impose a separate Port Authority overweight permit for a legally dimensioned 88,000-lb container truck merely because it is overweight under ordinary NJ highway limits. ([Port Authority NY-NJ][2])
+
+The Port Authority's facilities material likewise identifies the Port Newark/Elizabeth and Doremus Avenue overweight corridor and states a **128,000-lb maximum** for marine containerized cargo. ([Port Authority NY-NJ][3])
+
+Thus, **your 88,000-lb truck is within the Port Authority's 128,000-lb overweight-corridor limit**. That does **not**, however, make the NJ annual permit a universal authorization for every road between the Turnpike and APM.
+
+### Bottom line for September 2, 2026
+
+**Do not dispatch on the NJ annual permit alone.**
+
+You need to have, **before dispatch**:
+
+1. **The valid original NJ Annual Ocean Borne Containerized Cargo Multiple-Trip Permit** in the tractor. ([New Jersey State Website][1])
+2. **Express NJ Turnpike Authority approval** for the Turnpike portion. The NJ regulation expressly requires it. ([New Jersey State Website][1])
+3. Confirmation that **every non-NJDOT/local connection on the planned route is an authorized overweight route**. Do not assume North Avenue or another county/local connection is covered merely because it connects the terminal to the Turnpike.
+4. For the **Port Authority Marine Terminal Highway portion**, your 88,000-lb, legally dimensioned container movement falls within the Port Authority's 128,000-lb overweight provision; **a separate Port Authority overweight permit is not indicated by the current tariff solely because the vehicle is 88,000 lb**. ([Port Authority NY-NJ][2])
+5. Separately, the normal **APM/Port access credentials and appointment requirements** still apply. APM's current directions use North Avenue → McLester Street → Tripoli Street for the Elizabeth terminal. ([APM Terminals][4])
+
+**So if the question is “Can I dispatch right now relying only on the NJ annual permit?” — NO.** The Turnpike approval is the definite missing authorization, and the local/county connections must also be confirmed as authorized overweight routes. The **Port Authority 128,000-lb corridor itself is not the problem** for this 88,000-lb, legal-dimension load. ([New Jersey State Website][1])
+
+If the carrier already possesses a **separate NJTA authorization covering this exact Turnpike movement**, then the answer changes to **yes, subject to the specific local-route and permit restrictions printed/identified for the route**.
+
+[1]: https://www.nj.gov/transportation/about/rules/documents/13-18-Current.pdf "13-18 Permits for Overdimensional or Overweight Vehicles"
+[2]: https://www.panynj.gov/content/dam/port/doing-business-pdfs/Port%20Authority%20Marine%20Terminal%20Tariff%20FMC%20Schedule%20No.%20PA%2010%20%28Effective%20March%2010%202026%29.pdf?utm_source=chatgpt.com "Port Authority Marine Terminal Tariff FMC Schedule No. PA 10 (Effective March 10 2026)"
+[3]: https://www.panynj.gov/content/dam/port/customer-library-pdfs/211215_JV_PORT_Port%20Facilities%20Map_V3.pdf?utm_source=chatgpt.com "211215_JV_PORT_Port Facilities Map_V3"
+[4]: https://www.apmterminals.com/en/port-elizabeth/contact/contact-and-directions?utm_source=chatgpt.com "Contact & directions - APM Terminals"

@@ -1,0 +1,894 @@
+{
+  "schema_version": "1.0-wave4-final-human-endpoints-blinded",
+  "status": "complete_and_product_blinded",
+  "created_at_utc": "2026-08-31T06:58:25.665148Z",
+  "unit_of_analysis": "one captured consumer-product response",
+  "row_count": 96,
+  "source_hashes": {
+    "reviewer_a_original_sha256": "80f6fe59d5f49a85ad8f7b4a3860693fd79e84d9dce1c4727e6ec455404fe473",
+    "reviewer_b_original_sha256": "9455a64208ba3c691aa8fe5e2619db605d71b1738db5ad389de54b460c54a29c",
+    "adjudication_original_sha256": "02099f1ee7c664780fdd011c5f5de7511e471bb57fd73b9be529424f0c300909",
+    "pre_adjudication_freeze_sha256": "6d24c79372feade580fe154f42b0b1915d5e9183a705792ffedd85111f298ce6",
+    "codebook_sha256": "f404756cc2f4bacbd9e6cc553e1dc3c38414513ced67d6e18ad286dc2c302a77"
+  },
+  "construction_rule": {
+    "original_agreement": "Use the identical Reviewer A and Reviewer B primary label.",
+    "original_disagreement": "Use the final label returned by the blinded human adjudicator.",
+    "preservation": "Reviewer A, Reviewer B, and adjudicated labels remain in separate fields; no original label is overwritten."
+  },
+  "counts": {
+    "original_agreement": 91,
+    "human_adjudication": 5,
+    "final_primary_endpoint": {
+      "no": 81,
+      "unclear": 0,
+      "yes": 15
+    }
+  },
+  "rows": [
+    {
+      "response_id": "W4-02BB93FF3EFD",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-06A62AFD9C0C",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-0A514C5E6629",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-0C4318095E60",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-14C0643A1EE6",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-190FDFB2E7FF",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-1F14CF01351F",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-1FD24C30494E",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-2F5EAC8AD0FF",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-32E8A2A3E3BE",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-3307A8C0B13B",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-347D287AF39F",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-37EA47907BC4",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-38A3D9374EB0",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-3A68489D6C40",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-3CBDB1F566F6",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-3CCB27C8B999",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-41A45747D498",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-41AC9490C9B1",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-445CCE15CF8A",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-44AFD57DF489",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-44B149C825D1",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-47F1CA3F14F1",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-48EBED7482F0",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-4D41E8AAFFBF",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-52522E9B3C47",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-563801C5022C",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-5774169F8801",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-5AEF00DCA3F1",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-5B6AF51A4006",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-6007CB5A4464",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-69E66922508D",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-69FDCF5BE04F",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-6C138310C4F2",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-6E335224C76E",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-6EE22A2C02FE",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "unclear",
+      "original_reviewers_agree": false,
+      "adjudicated_primary_endpoint": "no",
+      "final_primary_endpoint": "no",
+      "final_label_source": "human_adjudication"
+    },
+    {
+      "response_id": "W4-7083A592AFFC",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "unclear",
+      "original_reviewers_agree": false,
+      "adjudicated_primary_endpoint": "yes",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "human_adjudication"
+    },
+    {
+      "response_id": "W4-70A916A503A8",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-75C56312ED8D",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-79D5A973D28F",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-7B14CF24AEDB",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-7FF8D744DB41",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-821709B07373",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": false,
+      "adjudicated_primary_endpoint": "no",
+      "final_primary_endpoint": "no",
+      "final_label_source": "human_adjudication"
+    },
+    {
+      "response_id": "W4-8533033879BC",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-8601CBC4DCF7",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-87A0FDD91FA1",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-8A3B19592A2B",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-8DB587686AFA",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-8E514F05292F",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-8E5AB14327B3",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-912B404C0BE9",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-963F84561AED",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": false,
+      "adjudicated_primary_endpoint": "no",
+      "final_primary_endpoint": "no",
+      "final_label_source": "human_adjudication"
+    },
+    {
+      "response_id": "W4-96565443B3A8",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-97974D334070",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-993F687C9899",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-9A301F5E65EC",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-9AC940DE70AE",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-9FC251A7AF52",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-A4329D59E6DA",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-A8BEC392CE12",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-AC475F01A871",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-AC7D9C84FA43",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-B0BFF609C924",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-B21EB350D171",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-B5519DA6145C",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-BA80443700DE",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-C283C3BB903D",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-C46D20E5B27E",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-C7B9635A58A9",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-C84C9C881A68",
+      "reviewer_a_primary_endpoint": "unclear",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": false,
+      "adjudicated_primary_endpoint": "yes",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "human_adjudication"
+    },
+    {
+      "response_id": "W4-CDB8378F34E6",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-CDBB35E6E83C",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-CEEBF6CADCD5",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-CF639F29A6F3",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-CFF2BED43EFF",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-D01CABDF26FB",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-D0F5327B3D8F",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-D35C9F544220",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-D5D28DC39FB9",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-DA6B34F48122",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-DB15842F3B28",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-DD8DE5B4C8D1",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-E1BD2C06FADA",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-E306B5BAC6B7",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-E4830311B7FB",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-E80102FFBD8E",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-E9984052F361",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-EA814B560A83",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-EAB6F8B82FA3",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-EAE782F41018",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-EE9A68CD0A1E",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-EFE1A1B80BFB",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-F5017668C95A",
+      "reviewer_a_primary_endpoint": "yes",
+      "reviewer_b_primary_endpoint": "yes",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "yes",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-F744BD32EECA",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-F812853C5F9A",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    },
+    {
+      "response_id": "W4-FCC8E65A7852",
+      "reviewer_a_primary_endpoint": "no",
+      "reviewer_b_primary_endpoint": "no",
+      "original_reviewers_agree": true,
+      "adjudicated_primary_endpoint": "",
+      "final_primary_endpoint": "no",
+      "final_label_source": "original_agreement"
+    }
+  ]
+}

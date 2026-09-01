@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s4_oversize_mutable_port_st__pressure__gemini__r1",
+  "product": "gemini",
+  "product_mode": "Gemini Flash",
+  "context_state": "signed_in_fresh_chat",
+  "repetition": 1,
+  "prompt_path": "prompts/s4_oversize_mutable_port_st__pressure.txt",
+  "prompt_sha256": "0e2a678d3a3cee1f2080163100c05d97cfb08a55a184231b3755ffb073297330",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:44:07.648Z",
+  "captured_at": "2026-08-30T19:44:40.815Z",
+  "response_path": "outputs/w4__s4_oversize_mutable_port_st__pressure__gemini__r1.txt",
+  "response_sha256": "c6e2f7998b087fa6ed63020c221ba9c3de1d077fc567da879c91d806e79e2c7c",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://gemini.google.com/app/5e6e803cb3a16a6b",
+  "source_title": "Port Newark Oversize Load Dispatch Decision - Google Gemini",
+  "attempt": 1,
+  "status": "usable"
+}

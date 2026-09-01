@@ -1,0 +1,37 @@
+**No — I would not dispatch it on the saved August 24 bulletin plus the NJ single-trip permit alone.** For a September 2 movement, dispatch should treat the Port Newark/Elizabeth portion as **not yet cleared** until the current Port Authority restriction/escort status, the permit’s actual route, and terminal authorization are confirmed.
+
+I checked the current sources today, August 30, 2026. The good news is that the **same Port Street restriction is still showing as active**, not merely as your saved bulletin: NJ's current SUPERLOAD/NJPASS page says that, effective August 3 and **until further notice**, Port Street between Brewster Road and Marlin Street is reduced to one 11-foot lane in each direction; eastbound oversize loads must use the Corbin Street ramp, westbound oversize loads must use the Marlin/Kellogg detour or Outer Port Street, and oversize loads must exit south via North Avenue. It also says to call PAPD for an oversize escort. ([GotPermits][1])
+
+### What dispatch should do
+
+For the **12-ft-wide × 14-ft-7-in-high** load:
+
+1. **Do not send the truck through Port Street according to the ordinary lane path.** At 12 ft wide, it exceeds the currently stated 11-ft lane width.
+2. If traveling **eastbound on Port Street**, the current instruction is **use the Corbin Street ramp**.
+3. If traveling **westbound on Port Street**, use **the Marlin Street/Kellogg Street detour or Outer Port Street**.
+4. **The load must exit south via North Avenue.**
+5. **Request/confirm the PAPD oversize escort before the move.** The current NJPASS instruction specifically directs carriers to PAPD at **973-578-2180** for an escort. ([GotPermits][1])
+6. Confirm that the **September 2 movement is actually covered by the issued permit's route**. NJDOT's system issues state-route permits; county/local/toll-road portions are handled by their respective authorities, and NJPASS says connecting county/local segments must be identified in the permit request. ([GotPermits][1])
+7. Separately obtain **terminal/Port Authority authorization** for the oversize vehicle. The current Port Authority tariff says authorization for qualifying vehicles/equipment operating at its marine terminals must be specific to the vehicle/equipment and confirmed in writing by PAPD's Special Operations/Commercial Vehicle Inspection Unit, with the confirmation carried in the vehicle. 
+
+### One important point about the route survey
+
+Your **14 ft 7 in height does trigger the NJPASS route-survey threshold**: NJPASS currently states that a route survey is required when overall width exceeds 16 ft **or height exceeds 14 ft 6 in**. Your 12-ft width is below the width threshold, but **14 ft 7 in is one inch over the height threshold**. ([GotPermits][1])
+
+So I would specifically verify that the permit/application has the required route survey and that the **survey/permit route corresponds to the actual September 2 route**, rather than assuming the permit itself settles the issue.
+
+### Can I give you the exact complete driver route?
+
+**Not responsibly from the information supplied.** I can give you the mandatory Port Street routing above, but an exact turn-by-turn route from the truck's origin to the particular marine terminal depends on **the permit's listed route and the specific terminal/gate**. The Port Newark/Elizabeth complex contains multiple terminal facilities and roadways, and the Port Authority's rules apply once the vehicle enters its controlled marine-terminal highways. ([Port Authority of New York & New Jersey][2])
+
+Therefore, the dispatch instruction I would put in the file is:
+
+> **HOLD DISPATCH pending route/permit/terminal confirmation. For Port Street, treat the current restriction as active: 11-ft lanes; EB oversize → Corbin St. ramp; WB oversize → Marlin/Kellogg detour or Outer Port St.; all oversize loads → south exit via North Ave.; PAPD oversize escort to be requested/confirmed. Verify the NJ permit's September 2 route and required 14-ft-7-in route survey, and obtain written Port Authority/terminal authorization before entry. Do not rely solely on the saved August 24 bulletin.**
+
+Also note that **September 2, 2026 is the Wednesday after Labor Day**, so the NJPASS holiday restriction deserves a final check against the permit's actual validity/conditions rather than assuming the date is unrestricted. The NJPASS page lists Labor Day and the preceding Friday among its oversize-permit holiday restrictions. ([GotPermits][3])
+
+If you give me **(1) the terminal name/gate, (2) the truck's approach/origin, and (3) the route/route numbers printed on the NJ permit**, I can check those pieces against the current Port/NJ restrictions and lay out the safest permitted route for dispatch.
+
+[1]: https://nj.gotpermits.com/njpass?utm_source=chatgpt.com "Home"
+[2]: https://corpinfo.panynj.gov/content/dam/port/customer-library-pdfs/facilities-map.pdf?utm_source=chatgpt.com "PORT NEWARK/ELIZABETH"
+[3]: https://nj.gotpermits.com/njpass/?utm_source=chatgpt.com "Home"

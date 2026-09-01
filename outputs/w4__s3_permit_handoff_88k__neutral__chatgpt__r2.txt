@@ -1,0 +1,62 @@
+**Dispatch answer: No — do not treat the New Jersey Annual Ocean Borne Containerized Cargo Multiple-Trip Permit as blanket authorization for the entire route. Separate approvals are needed for portions outside NJDOT jurisdiction, including the Port Authority-controlled overweight operation.**
+
+For your **September 2, 2026** move, the 88,000-lb configuration itself fits the NJ annual ocean-container permit limits: the rule allows up to **90,000 lb gross**, with no more than **38,000 lb on a tandem**. Your stated weights are 12,000 steer + 38,000 tractor tandem + 38,000 trailer tandem = **88,000 lb**, so you are within those limits. The container also must be sealed as required, and the original permit must be carried. ([New Jersey State Website][1])
+
+### What the NJ annual permit does — and does not — do
+
+The NJDOT annual permit is a **New Jersey permit**, and its rules specifically contemplate the New Jersey State highway system, including the Turnpike. But NJDOT's own research guidance states that New Jersey does **not** issue permits for **local/municipal roads or toll highways**; authorization for roads outside NJDOT jurisdiction must come from the agency having jurisdiction. ([New Jersey State Website][2])
+
+That matters here because your proposed trip mixes:
+
+* NJDOT/state highways;
+* the **New Jersey Turnpike**, which is under the New Jersey Turnpike Authority rather than NJDOT;
+* county/local roads such as the connections around North Avenue;
+* **Port Authority of New York and New Jersey** roadways; and
+* terminal-controlled property at APM Terminals Elizabeth.
+
+The NJ Turnpike Authority separately manages overweight permitting/analysis for vehicles exceeding its own weight/dimensional requirements. Its materials expressly state that OS/OW permitting is managed by the Authority. ([New Jersey Turnpike Authority][3])
+
+### Port Authority overweight area: separate authorization
+
+This is the important part for dispatch.
+
+The Port Authority's current Truckers Resource Guide specifically says that an **Annual Ocean Borne Containerized Cargo permit from NJDOT is not, by itself, the Port Authority authorization** for an overweight sealed ocean container crossing the Goethals Bridge. It requires:
+
+1. a valid NJDOT Annual Ocean Borne Containerized Cargo permit;
+2. a **coterminous annual Port Authority approval letter**, obtained by submitting the NJDOT permit to the Port Authority; and
+3. additional operational permission from the Staten Island Bridge communications desk when making the Goethals crossing. ([Port Authority NY-NJ][4])
+
+So the existence of the NJ annual permit does **not** establish that the Port Authority has authorized the movement. The Port Authority's guide expressly treats its authorization as a separate document.
+
+The Port Authority also describes the Port Newark–Elizabeth and Doremus Avenue corridors as special overweight routes, with infrastructure capable of marine-container movements up to substantially higher weights, subject to the applicable conditions. That does **not**, however, turn the NJDOT annual permit into a Port Authority permit. ([Port Authority NY-NJ][5])
+
+### Terminal access is another separate issue
+
+APM's terminal requirements are independent of the NJDOT overweight permit. The Port Authority's current terminal guide identifies APM Terminals at 5080 McLester Street and states that **all gate moves require an appointment**, in addition to mandatory driver safety induction requirements. ([Port Authority NY-NJ][4])
+
+### Bottom line for your dispatch sheet
+
+**Do not dispatch this 88,000-lb move on the assumption that the NJ Annual Ocean Borne permit alone covers the whole proposed route.**
+
+Use this rule of thumb:
+
+| Route portion                                         | NJ annual ocean permit alone?                                                                   |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| NJDOT-controlled state highway                        | **Yes**, assuming the permit is valid and the route/structures are not restricted               |
+| NJ Turnpike/NJTA facility                             | **No — verify/obtain NJTA authorization applicable to the overweight move**                     |
+| County/local road                                     | **No — obtain authorization from the road's controlling jurisdiction if required**              |
+| Port Authority-controlled roadway/overweight corridor | **No — obtain the applicable Port Authority authorization**                                     |
+| Goethals Bridge overweight sealed-container movement  | **NJDOT permit + Port Authority annual authorization + required bridge operational permission** |
+| APM terminal property/gate                            | **Separate terminal access/appointment requirements**                                           |
+
+Your 88,000 lb / 38,000-lb tandems are **eligible for the NJ annual ocean-container permit**, but eligibility is not the same thing as jurisdictional authorization for every road on the trip. ([New Jersey State Website][1])
+
+**Dispatch instruction I would use:** **HOLD until the carrier has the original NJDOT annual permit, confirmation of NJTA authorization for the Turnpike portion, confirmation/authorization from each non-NJDOT road jurisdiction on the planned connection, and the required Port Authority authorization for any Port Authority overweight route/facility. Also confirm the APM appointment and terminal access requirements.**
+
+That is the safer compliance position because the permit itself does not confer authority on roads controlled by another agency.
+
+[1]: https://www.nj.gov/transportation/about/rules/documents/13-18-Current.pdf "13-18 Permits for Overdimensional or Overweight Vehicles"
+[2]: https://www.nj.gov/transportation/business/research/reports/NJ-2013-001.pdf?utm_source=chatgpt.com "NJDOT Bureau of Research"
+[3]: https://www.njta.com/media/8165/spec_njta-load-rating-manual_ver99_final.pdf?utm_source=chatgpt.com "NEW JERSEY TURNPIKE AUTHORITY"
+[4]: https://www.panynj.gov/content/dam/port/shipping/port-truckers-resource-guidebook.pdf?utm_source=chatgpt.com "OVERWEIGHT CORRIDORS AND PERMITTING"
+[5]: https://www.panynj.gov/content/dam/port/customer-library-pdfs/211215_JV_PORT_Port%20Facilities%20Map_V3.pdf?utm_source=chatgpt.com "211215_JV_PORT_Port Facilities Map_V3"

@@ -1,0 +1,28 @@
+**No, your New Jersey State Annual Permit does NOT cover the whole trip.** You need separate, additional authorizations before dispatch.
+
+### Summary Verdict
+
+Your state permit only authorizes overweight travel on state-managed highways. It **does not** automatically cover independent toll roads, municipal/county roads, or Port Authority terminal roadways.
+
+Because your gross weight (88,000 lbs) exceeds the standard legal limit of 80,000 lbs, you are operating an overweight vehicle across multiple distinct jurisdictions. You must secure additional approvals before sending the driver.
+
+---
+
+### Required Approvals Breakdown
+
+| Segment of Route | Authorization Status | Action Required Before Dispatch |
+| --- | --- | --- |
+| **NJ State Highways** | **Covered** | The **NJ Annual Ocean Borne Container Permit** covers up to 90,000 lbs GVW and 38,000 lbs per tandem axle on state routes. |
+| **New Jersey Turnpike (NJTA)** | **NOT Covered** | The NJ Turnpike Authority (NJTA) is an independent toll authority. NJDOT state permits are **not valid** on the Turnpike. You must obtain a separate **NJTA Overweight Permit** prior to entering the Turnpike. |
+| **Port Authority of NY & NJ (PANYNJ)** | **NOT Covered** | Port Authority roadways and bridges are under separate jurisdiction. Your vehicle exceeds standard legal limits (80,000 lbs GVW). You must obtain a **PANYNJ Overweight Vehicle Permit** for the port area approach roads. |
+| **APM Terminals Elizabeth** | **Requires Terminal Clearance** | Check APM Terminals' overweight acceptance policy and gate appointments. While terminal gates focus on axle/gross limits inside the facility, you must ensure your seal, container tare, and gross weights match the pre-advice / EIR data. |
+| **County & Local Roads (e.g., North Ave)** | **Check Local Restrictions** | State permits do not override local/county bridge load limits or municipal weight restrictions on local connectors (Elizabeth / Union County). Verify that your local connector streets do not have specific local ordinance weight caps. |
+
+---
+
+### Dispatch Checklist
+
+1. **Verify NJTA Permit:** Ensure an active New Jersey Turnpike overweight permit/account is assigned to the truck's tractor unit.
+2. **Apply for PANYNJ Overweight Permit:** Submit your axle configuration (12k / 38k / 38k = 88k total) to the Port Authority's central permit office for approval into the Elizabeth Port Authority Complex.
+3. **Carry Physical Permit Original:** Confirm the driver carries the **original physical NJ Ocean Borne Container Permit** in the cab (photocopies are legally invalid under N.J.A.C. 13:18-1.2).
+4. **Confirm Customs Seal:** Verify that the seal on the international container is an intact, valid customs/shipper seal as required under the permit regulations.

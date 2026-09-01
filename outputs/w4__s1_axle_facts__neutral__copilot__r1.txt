@@ -1,0 +1,55 @@
+**Short dispatch answer:**  
+**Yes — this move requires a New Jersey overweight permit, and **no — you cannot release the truck yet** because you are missing mandatory weight and dimensional information needed to issue the permit and confirm legal routing.  
+
+---
+
+## What you can tell dispatch
+**The 80,000‑lb gross weight on a five‑axle tractor‑semitrailer is *not* automatically legal in New Jersey.**  
+New Jersey’s statutory limits mean that **any move at 80,000 lb requires an NJ overweight permit**, even when the load is nonhazardous and divisible.  
+
+Because you **do not yet have axle weights, axle spacings, width, height, length, or final route**, you **cannot legally apply for the permit** or verify that the combination meets axle‑group limits or route restrictions.  
+
+**Therefore: the truck cannot be released.**
+
+---
+
+## Why the permit is required
+- NJ’s legal gross weight limit for a standard 5‑axle combination is **below 80,000 lb** unless the vehicle qualifies under specific statutory configurations.  
+- A **state overweight permit** is required to authorize 80,000 lb GVW.  
+- The permit application **cannot be completed** without:
+  - Axle weights  
+  - Axle spacings  
+  - Overall dimensions  
+  - Load divisibility status  
+  - Proposed route  
+
+---
+
+## Why you cannot release the truck yet
+You are missing several items that are **mandatory for legal dispatch**:
+
+- **Axle weights** — needed to confirm no single/tandem/tridem exceeds limits.  
+- **Axle spacings** — required for NJ overweight permit calculations.  
+- **Dimensions** — width/height/length must be known to determine oversize status.  
+- **Load divisibility** — affects permit eligibility.  
+- **Route** — NJ must approve the route; you cannot propose one without dimensions and axle data.  
+- **Permit status** — cannot be filed until all above items are confirmed.
+
+Without these, dispatch cannot certify legal compliance, and the driver cannot be sent onto public roads.
+
+---
+
+## Operational checklist (use for dispatch)
+- **Do not release truck.**  
+- Obtain **certified scale ticket** with axle weights.  
+- Measure and record **axle spacings**.  
+- Confirm **width, height, length**.  
+- Confirm **load divisibility**.  
+- Select a **proposed route** and verify posted restrictions.  
+- Submit **NJ overweight permit application** once all data is available.  
+
+---
+
+## One next step that will save you time
+Would you like me to generate a **ready‑to‑use data collection sheet** for your driver so you can gather axle weights, spacings, and dimensions in one pass?  
+Choose: Driver data sheet

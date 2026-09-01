@@ -1,0 +1,21 @@
+The New Jersey Annual Ocean Borne Containerized Cargo Multiple-Trip Permit covers state highways and county/local roads (such as North Avenue), but it **does not** automatically cover every authority and terminal roadway along your specific route.
+
+You must verify two additional clearances before making a final dispatch decision:
+
+### 1. Roadway & Bridge Authority Limits
+
+* **New Jersey State & Local Roads:** Your 88,000 lb gross vehicle weight, 12,000 lb steer axle, and dual 38,000 lb tandem axles fully meet the criteria for the New Jersey Annual Ocean Borne Containerized Cargo Multiple-Trip Permit (which covers sealed international ocean containers up to 90,000 lbs GVW and 38,000 lbs per tandem).
+* **New Jersey Turnpike (NJTA):** While state permits generally govern access to Turnpike connectors, turnpike toll plazas and specific structures have independent weight enforcement.
+* **Port Authority Roads & Bridges:** Port Authority of NY & NJ crossings (e.g., Goethals Bridge, if used on the route) enforce strict per-axle weight limits (34,000 lbs on tandem axles) unless specific prior clearance or permission is granted for overweight sealed ocean containers under state permit arrangements.
+
+### 2. Terminal Access Requirements (APM Terminals Elizabeth)
+
+APM Terminals Elizabeth operates under Port Authority / private terminal gate rules. In addition to standard weight compliance, driver and equipment clearance must be active prior to arrival:
+
+* **TWIC & SeaLink® Card:** Required for entry.
+* **Drayage Truck Registry (DTR) / RFID Tag:** Vehicle must be active in Port Truck Pass.
+* **Truck Appointment:** Scheduled via APM Terminals' appointment system.
+
+---
+
+**Dispatch Recommendation:** Do not dispatch until you verify whether your specific Turnpikes/Bridge routing requires a toll authority pre-notification and confirm that the driver has an active appointment, TWIC/SeaLink, and RFID tag.

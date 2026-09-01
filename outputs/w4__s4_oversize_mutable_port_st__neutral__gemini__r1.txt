@@ -1,0 +1,42 @@
+**No, you cannot dispatch immediately using only your saved August 24 bulletin and your state permit.**
+
+While the general restrictions in your August 24 bulletin remain active, **dispatching without updating and verifying three critical items will result in a turned-away load, route violations, or police intervention.**
+
+---
+
+### Dispatch Assessment
+
+* **State Permit Scope:** Your New Jersey single-trip permit covers **only state-maintained route segments**. Because state-issued permits typically terminate where Port Authority property or municipal streets begin, a single-trip state permit alone does not authorize movement through PANYNJ-controlled roads.
+* **Bridge & Height Clearances:** At **14 ft 7 in high**, your load exceeds standard legal height (13 ft 6 in) and requires a verified route survey to ensure clearance under overhead structures (e.g., the Port Street Bridge work zone and rail overpasses).
+* **Port Street Active Construction:** As part of the *Port Street Corridor Improvement Project*, Port Street between Brewster Rd. and Marlin St. has active lane reductions (11 ft width limits) and strict mandatory detours for wide loads.
+
+---
+
+### Mandatory Route & Dispatch Steps for Sept 2, 2026
+
+To legally and safely move a **12 ft wide, 14 ft 7 in high, 80,000 lb** load into the complex, follow these exact instructions:
+
+1. **Request Port Authority Police (PAPD) Escort:**
+Because your load is 12 feet wide entering an 11-foot restricted lane zone, you **must** call PAPD Dispatch at **(973) 578-2180** in advance to arrange a police escort through the construction corridor.
+2. **Required Inbound Routing:**
+* **Eastbound Entry:** All eastbound oversized loads entering via Port Street **MUST** utilize the **Corbin Street Ramp**. From Corbin Street, follow designated terminal signage via Tyler Street, Export Street, and Marsh Street to reconnect toward Marlin Street.
+* **Westbound Alternative:** If traveling westbound, follow the **Marlin Street / Kellogg Street detour** or utilize **Outer Port Street** under PAPD direction.
+
+
+3. **Mandatory Outbound Routing:**
+* All oversized loads exiting the Port Authority Marine Terminal **MUST** exit to the south via **North Avenue**. You cannot exit back via Port Street.
+
+
+4. **Terminal Delivery Approval:**
+* Contact your target marine terminal’s gate/safety office directly to confirm they can process a 12-foot wide, 14 ft 7 in high nonhazardous container on September 2 and to confirm gate hours for escorted loads.
+
+
+
+---
+
+### Summary Checklist Before Rolling
+
+* [ ] **NJ Permitting System (NJGOTPermits):** Ensure local/county connecting road segments are explicitly listed/approved on your NJDOT permit.
+* [ ] **Route Survey:** Verify overhead height clearances for 14 ft 7 in along the exact detour routes.
+* [ ] **PAPD Escort Scheduled:** Call (973) 578-2180.
+* [ ] **Terminal Gate Confirmation:** Obtain written or verbal gate clearance from the receiving terminal.

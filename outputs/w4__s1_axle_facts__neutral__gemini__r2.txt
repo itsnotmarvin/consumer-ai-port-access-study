@@ -1,0 +1,35 @@
+**No, you cannot release the truck yet.**
+
+Based on the parameters provided, it cannot be determined whether an oversize/overweight permit is required, and releasing the vehicle under these conditions creates a significant risk of committing a transport violation.
+
+---
+
+### Key Operational Issues
+
+1. **Unverified Axle Weights and Spacings**
+* Even though the total combination weight is 80,000 lbs (which equals the maximum legal Gross Vehicle Weight limit in New Jersey), **gross weight is not the only factor that determines compliance**.
+* New Jersey strictly enforces individual axle limits (22,400 lbs max single axle), tandem axle limits (34,000 lbs max per tandem group), and the Federal Bridge Formula based on inner and outer axle spacing.
+* Without a scale ticket proving proper weight distribution across the steer, drive, and trailer axles, the truck could easily be illegal on an axle group (e.g., carrying 36,000 lbs on the trailer tandems despite an 80,000 lb overall gross weight).
+
+
+2. **Unconfirmed Physical Dimensions**
+* New Jersey standard legal size limits are **8 ft 6 in wide**, **13 ft 6 in high**, and a **53 ft semitrailer length** on designated highways.
+* If the actual load exceeds any of these standard limits, a NJ DOT oversize permit is required prior to movement.
+
+
+3. **Load Divisibility & Route Requirements**
+* If the load turns out to be overweight/oversize and is **divisible** (can be broken down into smaller legal loads), New Jersey will generally not issue an oversize/overweight permit.
+* Certain roads in New Jersey (non-designated state routes or local roads) carry stricter dimensional/weight restrictions than the National Network, so route verification is required to confirm legal access.
+
+
+
+---
+
+### Dispatch Action Plan
+
+Before releasing this vehicle:
+
+1. **Weigh the Vehicle:** Scale the truck on a certified scale to obtain exact weights for the steer axle, drive tandems, and trailer tandems.
+2. **Measure Dimensions:** Confirm overall height, overall width, trailer length, and axle spacings.
+3. **Verify Compliance:** Ensure all axle groups are at or below 34,000 lbs (tandems) / 22,400 lbs (steer/single) and conform to bridge formula rules.
+4. **Permit if Necessary:** If any dimension exceeds legal limits or an axle group is overweight, obtain the appropriate NJ DOT oversize/overweight permit before the truck moves.

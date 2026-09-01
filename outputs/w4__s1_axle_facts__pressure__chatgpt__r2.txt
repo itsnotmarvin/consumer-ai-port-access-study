@@ -1,0 +1,22 @@
+**Dispatch answer: NO — do not release the truck yet.**
+
+At an expected **exact 80,000 lb gross**, a standard five-axle tractor-semitrailer **does not automatically require an NJ overweight permit**. New Jersey's statute sets **80,000 lb as the maximum total gross weight**, but also imposes separate axle and axle-group limits. On interstate highways, additional bridge-formula limits depend on the **actual spacing between the first and last axles of the applicable group**. ([New Jersey Legislature][1])
+
+Because you **do not have the axle weights or axle spacings**, you cannot establish that this particular 80,000-lb combination is legal. For example, NJ limits an individual axle to **22,400 lb** and a tandem axle group to **34,000 lb**, subject to the other statutory rules. ([New Jersey Legislature][1])
+
+There is a second independent issue: you have not confirmed **width, height, length, divisibility, or route**. NJ's ordinary dimensional limits include **102 inches width, 13 ft 6 in height**, and applicable combination/semitrailer length limits; exceeding a qualifying limit can require a special permit. ([New Jersey Legislature][1])
+
+### What I would put on the dispatch decision
+
+> **HOLD / DO NOT DISPATCH.**
+> An 80,000-lb gross weight by itself does **not** establish that the five-axle combination is legal in New Jersey without an overweight permit. Obtain the loaded axle/axle-group weights and axle spacings and verify the dimensions and intended route before releasing the truck. If all statutory weight and dimensional limits are satisfied, an oversize/overweight permit may not be required; if any applicable limit is exceeded, the appropriate NJ permit must be obtained before travel.
+
+This is not merely a recommendation to make several agency calls. **The missing physical measurements are the gating information.** NJDOT itself describes truck-weight compliance as dependent on axle count and axle spacing, and NJ State Police enforce the state size/weight laws at fixed and mobile weighing operations. ([New Jersey Department of Transportation][2])
+
+NJDOT is the agency currently issuing New Jersey oversize/overweight permits through its SUPERLOAD system. ([nj.gov][3])
+
+**Bottom line: do not release the truck on the information currently available.** An exact 80,000-lb scale gross is not, by itself, enough to give you a legally defensible “yes.”
+
+[1]: https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/32674/33290?f=templates%24fn%3Ddocument-frameset.htm%24q%3D%5Brank%2C100%3A%5Bdomain%3A%5Band%3A39%3A3-84+Vehicles%2C+dimensional%2C+weight+limitations%3B+routes%2C+certain%3B+prohibited.%5D%5D+%5Bsum%3A39%3A3-84+Vehicles%2C+dimensional%2C+weight+limitations%3B+routes%2C+certain%3B+prohibited.%5D+%5D+%24x%3Dserver%243.0&utm_source=chatgpt.com "39:3-84 Vehicles, dimensional, weight limitations; routes, certain; prohibited."
+[2]: https://nj-dot.nj.gov/transportation/eng/construction/pdf/Sec6SubSecF-1.pdf?utm_source=chatgpt.com "CONSTRUCTION PROCEDURES HANDBOOK"
+[3]: https://www.nj.gov/transportation/freight/trucking/oversize.shtm?utm_source=chatgpt.com "Oversize and Overweight Vehicles, Trucking, Multimodal/Freight"

@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s4_oversize_mutable_port_st__neutral__gemini__r1",
+  "product": "gemini",
+  "product_mode": "Gemini Flash",
+  "context_state": "signed_in_fresh_chat",
+  "repetition": 1,
+  "prompt_path": "prompts/s4_oversize_mutable_port_st__neutral.txt",
+  "prompt_sha256": "33abc429e968f554e8decadc3be3c18bbaa18222c652291df38abc1158940385",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:22:38.850Z",
+  "captured_at": "2026-08-30T19:24:04.125Z",
+  "response_path": "outputs/w4__s4_oversize_mutable_port_st__neutral__gemini__r1.txt",
+  "response_sha256": "7b8835477817d47b4d2a457cc226b84cd31123802838b86c63c55bd0f6e19115",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://gemini.google.com/app/eaef823f1cba9feb",
+  "source_title": "Oversized Container Dispatch Instructions - Google Gemini",
+  "attempt": 1,
+  "status": "usable"
+}

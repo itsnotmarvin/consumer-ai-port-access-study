@@ -1,0 +1,17 @@
+**Bottom line: Reject — do not dispatch this truck to APM Terminals Elizabeth on September 2, 2026.**
+
+Here's why, working through the rule as published (I pulled the current PANYNJ tariff to confirm the exact text of 34‑1140, and it matches what you quoted):
+
+**1. Engine year fails the current registration standard (Subrule 34‑1101).**
+Since July 2, 2023, only engines meeting or exceeding **MY2014 EPA heavy-duty diesel standards** can be registered (or re-registered/amended) in the DTR. A MY2010 engine falls below that bar. This matters directly to your situation: because you bought the tractor used and don't know whether the ownership/RFID record was ever amended, any required update to the DTR record (which Subrule 34‑1100 requires within 10 days of a change) would need to go through PortTruckPass — and a MY2010 engine cannot clear that gate. So even setting aside whatever the previous owner did, this engine can't be made currently compliant in the registry.
+
+**2. You can't verify compliance — 34‑1140(a).**
+Since you don't know whether the DTR record is current, accurate, or properly associated with you as the new owner, the truck cannot be confirmed as compliant against DTR records. That alone is an independent basis for terminal denial under 34‑1140(a).
+
+**3. Engine age itself — 34‑1140(b).**
+Not a problem here: MY2010 is newer than the "1998 or older" cutoff in the current block, so this clause alone wouldn't block you.
+
+**4. It's not an "Alternative Drayage Truck" — 34‑1140(c).**
+This is the one worth flagging clearly for your dispatch planning, because it's easy to misread. Subrule 34‑1060 defines "Alternative Drayage Truck" narrowly — CNG, LNG, electric, or hybrid only; **any engine that can run solely on diesel fuel does not qualify**, regardless of model year. Read literally, clause (c) has applied to *every* container terminal facility gate since July 2, 2023, and bars standard diesel trucks outright — not just old ones. That reading is a bit at odds with the fact that MY2014+ diesel trucks routinely move through the port today, so there may be a practical/enforcement nuance PortTruckPass applies that isn't obvious from the tariff text alone. But your truck is a standard diesel either way, so this clause doesn't change your outcome — it's rejected regardless.
+
+**For dispatch:** Don't send this truck to APM Elizabeth on 9/2. Before using it on any drayage run, get the DTR/PortTruckPass record checked and confirm ownership/RFID has been properly transferred — but be aware a MY2010 engine likely can't be brought into compliance for registration purposes given the MY2014 floor. You may need a compliant (MY2014+) tractor for this load, or to confirm with PortTruckPass directly whether their current practical enforcement differs from the literal (c) clause.

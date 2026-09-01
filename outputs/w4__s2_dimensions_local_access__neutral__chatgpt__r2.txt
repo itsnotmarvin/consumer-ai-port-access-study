@@ -1,0 +1,51 @@
+**Dispatch answer: No—CR 624’s absence from Appendix C does not, by itself, prohibit this truck from using CR 624 to reach APM Terminals Elizabeth.** But you **cannot give the route an unconditional “go” yet**, because the truck’s loaded dimensions and the actual restrictions on the local approach still need to be verified.
+
+Here is the key distinction:
+
+* **Appendix C identifies county 600-series roads that are part of the New Jersey Access Network.** CR 624 is not on that list, so it is **not an Access Network route merely because it is a county road**. ([Justia][1])
+* That does **not** mean every non-Appendix-C road is forbidden to a 102-inch truck. N.J.A.C. 16:32-1.5 expressly allows a **102-inch-wide standard truck** to use a **local unrestricted roadway when necessary to access a terminal**, using the direct route. “Unrestricted roadway” means a roadway that is not subject to a height, weight, or width restriction imposed by a municipality, county, or State agency. ([New Jersey State Website][2])
+* NJDOT itself describes the hierarchy this way: the Access Network connects to terminals, while **other local unrestricted roads may be used for direct terminal access**. ([New Jersey State Website][3])
+* APM's facility qualifies as a **terminal** for purposes of these rules because a waterborne terminal is expressly included in the regulatory definition. ([Legal Information Institute][4])
+
+### What that means for your proposed route
+
+Assuming the tractor-semitrailer is **greater than 96 inches but no more than 102 inches wide**, and otherwise meets the statutory equipment/length requirements, the route can be legally structured as:
+
+**US 1&9 → North Avenue East/CR 624 → local streets → APM terminal**
+
+provided that the CR 624 and local-street portions are **actually unrestricted for that vehicle** and that this is the **direct/shortest necessary approach to the terminal**. N.J.A.C. 16:32-1.5(a)(2)(i) specifically authorizes that terminal-access movement. ([New Jersey State Website][2])
+
+Importantly, **Appendix C is not a list of roads that a standard truck must use in every circumstance**. It is the list of designated 600-series Access Network routes. The 2023 rule adoption expressly says that local unrestricted-road access remains available for terminal access. ([New Jersey State Website][5])
+
+### The two things you must still verify
+
+**1. Loaded dimensions.**
+New Jersey's ordinary statutory maximums include **102 inches width, 13 ft. 6 in. height, and 53 ft. for a qualifying semitrailer**; exceeding applicable dimensional limits can trigger the special-permit provisions. ([New Jersey Legislature][6])
+
+So, until you know the loaded width/height and semitrailer length, you cannot conclusively classify this particular movement as a non-oversize movement.
+
+**2. Every off-network/local segment.**
+The fact that CR 624 is absent from Appendix C does **not** establish that it is restricted—but neither does the absence establish that it is unrestricted. The regulation defines “unrestricted” by the **actual height/weight/width restrictions imposed by the responsible governmental authority**. ([Legal Information Institute][4])
+
+Also, the 16:32 rules expressly say they do not supersede other state rules, municipal ordinances, or county restrictions. ([New Jersey State Website][5])
+
+### Bottom line for dispatch
+
+I would put the movement in this status:
+
+> **CONDITIONALLY AUTHORIZED — NO OVERSIZE PERMIT REQUIRED SOLELY BECAUSE CR 624 IS NOT IN APPENDIX C.**
+> If the loaded combination is within NJ's ordinary dimensional limits and is a 102-inch-wide standard truck (if over 96"), it may use CR 624 and other **unrestricted local streets by the direct route as necessary to access APM Terminals Elizabeth.** CR 624's absence from Appendix C means it is not a designated NJ Access Network route; it does **not** create a blanket prohibition on direct terminal access. Confirm the loaded dimensions and verify that every local segment, including CR 624, has no applicable height/width/weight or local truck-route restriction before dispatch.
+
+One additional practical point: **DTR verification/RFID and appointment compliance do not substitute for the separate NJDOT/N.J.A.C. 16:32 routing requirements.** The NJDOT routing rules specifically allow documentation such as a bill of lading, delivery receipt, or route map to demonstrate that a terminal-access trip complies with the direct-route requirement. ([New Jersey State Website][2])
+
+[NJDOT's current N.J.A.C. 16:32 truck-routing rules](https://www.nj.gov/transportation/freight/trucking/routing_regulations.shtm?utm_source=chatgpt.com)
+[New Jersey's oversize/overweight permit information](https://nj.gov/transportation/freight/trucking/oversize.shtm?utm_source=chatgpt.com)
+
+[1]: https://regulations.justia.com/states/new-jersey/title-16/chapter-32/subchapter-1/section-16-32-1-4/?utm_source=chatgpt.com "New Jersey Administrative Code, Subchapter 1, Section 16:32-1.4 - Designated New Jersey Access Network travel routes for double-trailer truck combinations and 102-inch-wide standard trucks | New Jersey Administrative Code | Justia"
+[2]: https://www.nj.gov/transportation/freight/trucking/pdf/16.32.pdf?utm_source=chatgpt.com "16:32-1.5 TRANSPORTATION"
+[3]: https://www.nj.gov/transportation/freight/trucking/routing.shtm?utm_source=chatgpt.com "Truck Routing, Trucking, Multimodal/Freight"
+[4]: https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-16-32-2-1?utm_source=chatgpt.com "N.J. Admin. Code § 16:32-2.1 - Definitions | State Regulations | US Law | LII / Legal Information Institute"
+[5]: https://www.nj.gov/transportation/freight/trucking/pdf/R.2023%20d.002%20%2855%20N.J.R.%2072%28a%29%29.pdf?utm_source=chatgpt.com "ADOPTIONS
+
+(e) The rules of this chapter do not su"
+[6]: https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/32674/33290?f=templates%24fn%3Ddocument-frameset.htm%24q%3D%5Brank%2C100%3A%5Bdomain%3A%5Band%3A39%3A3-84+Vehicles%2C+dimensional%2C+weight+limitations%3B+routes%2C+certain%3B+prohibited.%5D%5D+%5Bsum%3A39%3A3-84+Vehicles%2C+dimensional%2C+weight+limitations%3B+routes%2C+certain%3B+prohibited.%5D+%5D+%24x%3Dserver%243.0&utm_source=chatgpt.com "39:3-84 Vehicles, dimensional, weight limitations; routes, certain; prohibited."

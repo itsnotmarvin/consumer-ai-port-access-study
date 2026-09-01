@@ -1,0 +1,24 @@
+Here's the clear answer for dispatch:
+
+**Bottom line: You cannot make this determination yet, and the truck should not be released until the missing information is confirmed.**
+
+**On weight:**
+- New Jersey's standard gross weight limit is 80,000 lbs across all NJ highways, both interstate and state routes, with axle group caps of roughly 22,400 lbs on a single axle, 34,000 lbs per tandem set (68,000 lbs combined for two consecutive tandems), and 56,400 lbs for a tridem.
+- 80,000 lbs gross is *legal without a permit only if* the weight is properly distributed across the axles/axle groups **and** the axle spacing satisfies the Federal Bridge Formula, which NJ enforces strictly with no tolerance for overweight.
+- Without a certified scale ticket breaking down weight by axle/axle group, and without your axle spacings, **you cannot confirm this load is actually legal at 80,000 lbs** — it's entirely possible to be under 80,000 lbs gross and still be overweight on an individual axle or tandem group, which is its own separate violation.
+
+**On size:**
+- The other NJ legal thresholds that trigger a permit requirement are 8'6" wide, 13'6" high, or 53' long. Since width, height, and length aren't confirmed yet, you can't rule out an oversize permit need either.
+
+**On divisibility/route:**
+- Permits (when needed) generally apply to non-divisible loads, and NJ also requires that overweight-permitted trucks stick to approved routes; the NJ Turnpike and Garden State Parkway require their own separate permits from their own authorities. Since load-divisibility and route aren't confirmed, that's another open item.
+
+### What to get before releasing the truck:
+1. **Certified scale ticket** — steer axle, drive tandem, trailer tandem/tridem weights individually, plus gross.
+2. **Axle spacings** — needed to verify Bridge Formula compliance, not just group limits.
+3. **Loaded dimensions** — width, height, overall length.
+4. **Load-divisibility status** and **final route** (including whether Turnpike/GSP is involved).
+
+Once you have the scale ticket and axle spacings, if every individual axle/group is within limits, dimensions are within 8'6"/13'6"/53', and the route is confirmed, no permit is needed and the truck can move. If any axle exceeds its limit, gross exceeds 80,000 lbs, or dimensions exceed the thresholds, you'll need a single-trip NJ oversize/overweight permit before dispatch — fines for overweight violations start at $500 for the first 1,000 lbs over, then $100 per additional 1,000 lbs, per axle *and* per gross weight if both are violated.
+
+I'm not a lawyer — for a load this close to the line, I'd recommend running the actual numbers through NJDOT's permit office or a permit service once you have the scale ticket, since Bridge Formula compliance is spacing-specific and easy to get wrong on paper.

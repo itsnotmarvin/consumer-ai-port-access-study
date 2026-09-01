@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s3_permit_handoff_88k__neutral__gemini__r1",
+  "product": "gemini",
+  "product_mode": "Gemini Flash",
+  "context_state": "signed_in_fresh_chat",
+  "repetition": 1,
+  "prompt_path": "prompts/s3_permit_handoff_88k__neutral.txt",
+  "prompt_sha256": "c16d658d4bb60efefe88c9126c163c26ee529327691edcffca8578461242ee1d",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:12:17.418Z",
+  "captured_at": "2026-08-30T19:13:36.136Z",
+  "response_path": "outputs/w4__s3_permit_handoff_88k__neutral__gemini__r1.txt",
+  "response_sha256": "d5536257d831b3e66ef6f859e0b2f6af5fe6db93d211e0349fb9d2d01e762a39",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://gemini.google.com/app/38a0f6ca2efc965e",
+  "source_title": "NJ Ocean Borne Container Permit Scope - Google Gemini",
+  "attempt": 1,
+  "status": "usable"
+}

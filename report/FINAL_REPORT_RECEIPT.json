@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.1-wave4-final-report-receipt",
+  "status": "self_contained_report_built_and_browser_verified",
+  "created_at_utc": "2026-08-31T14:27:41Z",
+  "delivery_mode": "self_contained_data_app_html",
+  "audience": "technical",
+  "title": "Consumer AI Dispatch Advice Before APM Terminals Elizabeth: Wave 4 Results",
+  "report_outputs": {
+    "canonical_artifact": {
+      "path": "report/artifact.json",
+      "sha256": "5979dedb06c542d56da9dec56e8fd650aa2d35b00ae209cc31efe4ef99e420a9",
+      "size_bytes": 37418
+    },
+    "standalone_html": {
+      "path": "report/report.html",
+      "sha256": "8a39c3b3f7f43f7f8c282ccca4e865ad95cce8508cf5ade8762bacaedcdee613",
+      "size_bytes": 2454986
+    },
+    "build_notes": {
+      "path": "report/report_build_notes.json",
+      "sha256": "b9bdd31c5ab8823f1aa8a0c1665ea7a99089acc363c45e8e36004e9021d3d2cc",
+      "size_bytes": 2957
+    }
+  },
+  "builder_receipt": {
+    "validation": "passed",
+    "package": "passed",
+    "verification": "structural_and_browser",
+    "builder": {
+      "package": "data-analytics",
+      "version": "0.2.34-13ceeea1f599",
+      "command": "env -u CODEX_SESSION_ID -u CODEX_THREAD_ID /opt/homebrew/bin/node /Users/marbin/.codex/plugins/cache/openai-curated-remote/data-analytics/0.2.34-13ceeea1f599/scripts/data-app.mjs build --project-dir /private/tmp/elizabeth-wave4-data-app.QB8DOX",
+      "node_version": "v25.9.0",
+      "prebuilt": true,
+      "api_version": 1,
+      "runtime_sha256": "bce021364672c86cb27997c683af6351677752ff905dc8c7cdc96d06ece8dc00",
+      "compiler_sha256": "ec65601079c80bef7210f2c9760ff7f2db6adef28516ffff280d4c86f91d4078",
+      "reviewed_snapshot_sha256": "e6e5508f4bf2ce4a948bbdb0099ed5e02c0fa0f3cd8e9ddc072b39fe44d49213",
+      "module_count": 4,
+      "external_asset_count": 0
+    },
+    "authored_migration": {
+      "reason": "The retired portable-artifact packager was replaced by the installed current Data App builder.",
+      "edited_template_files": [
+        "src/content/report/ReportContent.jsx",
+        "src/content/report/report.css",
+        "src/data.json"
+      ],
+      "analysis_treatment": "Presentation-only migration from frozen aggregate results; no response text was inspected, rescored, or adjudicated."
+    },
+    "browser": {
+      "code": "passed",
+      "tool": "browser-harness connected to local Chrome",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "viewports": [
+        {"name": "desktop", "width": 1366, "height": 595},
+        {"name": "mobile", "width": 390, "height": 844}
+      ],
+      "observed_components": {
+        "narratives": 11,
+        "metrics": 4,
+        "charts": 2,
+        "tables": 4
+      },
+      "checks": {
+        "locked_research_question_answer_present": true,
+        "endpoint_interval_terms_absent": true,
+        "kappa_and_bca_interval_present": true,
+        "all_four_products_present": true,
+        "global_horizontal_overflow_absent": true,
+        "external_runtime_assets_absent": true,
+        "local_task_metadata_absent": true,
+        "runtime_exceptions_or_log_warnings_observed": false
+      }
+    }
+  },
+  "frozen_analysis_inputs": {
+    "final_results_sha256": "6ea9f393c560e06ebf4a9150d933e9048c998743d10a77e9a573427aae8220a2",
+    "human_agreement_pre_adjudication_sha256": "ae741d9ef8dc96e980d95eed55ce5f2334bf9d3cc586f73df507349d701b4fac",
+    "final_results_freeze_sha256": "6278103a86aa8f90b90a8d78bd266c1ca6ee01d337173fdde0e20bfada993851",
+    "final_blinded_endpoint_sha256": "6454aa4ff730e9c9ac3454dde35b57b17586ac30e81fe63895a7e7d36310fe29",
+    "analysis_script_sha256": "3c19e0b781a711454b96fa2017c0a896de84472b23c8c7c9fb04351081dbf421"
+  },
+  "guardrails": [
+    "The report generator and Data App migration perform presentation-only projections from frozen result files.",
+    "No response text was scored, adjudicated, or semantically reinterpreted during report construction.",
+    "Product totals remain descriptive and secondary; no product ranking or pairwise test is claimed.",
+    "Prompt-variant and scenario differences remain descriptive; no causal effect is claimed.",
+    "The primary claim remains bounded to the captured scenario matrix and is not a population prevalence estimate."
+  ]
+}

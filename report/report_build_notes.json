@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0-wave4-report-build-notes",
+  "delivery_mode": "portable_html",
+  "audience": "technical",
+  "title": "Consumer AI Dispatch Advice Before APM Terminals Elizabeth: Wave 4 Results",
+  "required_structure_mapping": [
+    {
+      "requirement": "Title",
+      "block": "title"
+    },
+    {
+      "requirement": "Technical summary",
+      "block": "technical_summary"
+    },
+    {
+      "requirement": "Key findings with visual evidence",
+      "blocks": [
+        "route_finding",
+        "scenario_chart_block",
+        "product_finding",
+        "product_chart_block"
+      ]
+    },
+    {
+      "requirement": "Scope, data, and metric definitions",
+      "blocks": [
+        "endpoint_definition",
+        "study_design",
+        "evidence_chain"
+      ]
+    },
+    {
+      "requirement": "Methodology",
+      "block": "human_scoring"
+    },
+    {
+      "requirement": "Limitations, uncertainty, and robustness checks",
+      "blocks": [
+        "pressure_repetition_finding",
+        "secondary_cuts_block",
+        "limitations"
+      ]
+    },
+    {
+      "requirement": "Recommended next steps",
+      "block": "next_steps"
+    },
+    {
+      "requirement": "Further questions",
+      "block": "further_questions"
+    }
+  ],
+  "chart_map": [
+    {
+      "section": "Route and scenario concentration",
+      "question": "Which scenario families contained endpoint-positive responses?",
+      "family": "Comparison",
+      "type": "horizontalBar",
+      "fields": [
+        "scenario_short",
+        "yes_rate",
+        "yes",
+        "n"
+      ],
+      "supported_claim": "Endpoint-positive responses were concentrated in S2 and S4.",
+      "palette_policy": "single blue root plus neutral axes and direct values"
+    },
+    {
+      "section": "Product distribution",
+      "question": "How were endpoint-positive responses distributed across the four consumer products?",
+      "family": "Comparison",
+      "type": "horizontalBar",
+      "fields": [
+        "product",
+        "yes_rate",
+        "yes",
+        "n"
+      ],
+      "supported_claim": "Observed product totals differed, but small cells make the comparison descriptive.",
+      "palette_policy": "product-identity palette with direct labels and frozen design order"
+    }
+  ],
+  "repeated_chart_family_reason": "Both visuals answer discrete category-comparison questions at different grains; horizontal bars fit the long labels and avoid implying time or causal order.",
+  "omissions": [
+    "No pairwise product significance tests because they were not prespecified and the small repeated cells support only descriptive product summaries.",
+    "No trend chart because the two repetitions are not a time series.",
+    "No chart for the two route paths because two categories are clearer as an exact table.",
+    "No response-text excerpts because the report's primary job is the frozen quantitative result; exact responses remain in the active study files."
+  ]
+}

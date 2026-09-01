@@ -1,0 +1,41 @@
+**Dispatch answer: Do not release the truck yet.**
+
+An exactly **80,000-lb gross** five-axle tractor-semitrailer is **not automatically overweight in New Jersey**, but 80,000 lb is the **statutory maximum gross weight**, not a blanket authorization to disregard axle-group or dimensional limits. New Jersey's rules also require the applicable axle/group limits to be satisfied. ([FHWA Operations][1])
+
+Because you **do not yet know the individual axle/group weights, axle spacings, dimensions, load divisibility, permit status, or route**, there is presently not enough information to establish that this particular move is legal without a permit.
+
+### What dispatch should require before release
+
+1. **Certified scale weights** showing the steer axle, drive tandem, and trailer tandem (or whatever axle configuration applies).
+2. **Axle spacings**, particularly the relevant distance between the first and last axles of the applicable group.
+3. **Loaded dimensions** — width, height, and overall length.
+4. **Load classification** — confirm whether the cargo is divisible or qualifies as a non-divisible load.
+5. **Final route**, because Interstate and other New Jersey highways can have different applicable axle/group calculations and posted restrictions.
+6. **Permit/registration documentation**, if any permit is required.
+
+New Jersey's statutory framework sets, among other limits, **80,000 lb maximum gross weight**, **34,000 lb for a qualifying tandem axle**, and **22,400 lb for a qualifying single axle**; Interstate routes also use the federal bridge-formula-style axle-group table. Thus, knowing only that the total is 80,000 lb does **not** prove that the combination is legal. ([New Jersey Traffic Ticket Attorney][2])
+
+There is also a New Jersey **5% enforcement tolerance** for certain weight violations, but it **does not increase the 80,000-lb maximum**; the statute expressly conditions the tolerance on the gross weight not exceeding 80,000 lb. I would **not use that tolerance as a basis for dispatching an unverified load**. ([New Jersey Legislature][3])
+
+For size, New Jersey treats vehicles exceeding the statutory size/weight limits as OS/OW movements requiring the appropriate permit. NJDOT currently administers the permitting process through its SUPERLOAD system. ([New Jersey State Website][4])
+
+**Important:** A standard commercial tractor-semitrailer carrying a **divisible commercial-move load** cannot simply obtain an ordinary overweight permit to make an otherwise overweight divisible load legal. New Jersey's OS/OW permitting framework is generally directed to qualifying **non-divisible** loads. ([GotPermits][5])
+
+### Bottom line for your September 2 dispatch
+
+**Permit status: UNDETERMINED.**
+**Release status: HOLD / DO NOT RELEASE.**
+
+The fact that the planned gross weight is exactly **80,000 lb does not by itself establish that no NJ permit is needed**. You need the axle weights/spacings and dimensions/route verified first. If those checks show the truck is within all applicable statutory limits and dimensions, then an OS/OW permit would generally not be required merely because the gross weight is 80,000 lb. If any applicable limit is exceeded, the vehicle/load may require an appropriate NJ permit—and whether that permit is available depends in part on the load being non-divisible and the applicable permit category. ([New Jersey Traffic Ticket Attorney][2])
+
+**Dispatch-ready instruction:**
+
+> **HOLD — DO NOT RELEASE. 80,000-lb gross alone is insufficient to establish NJ legal weight. Obtain certified axle/group weights, axle spacings, loaded dimensions, load-divisibility determination, final route, and applicable NJ OS/OW permit documentation before dispatch.**
+
+NJDOT's official OS/OW permitting page is [NJDOT Oversize and Overweight Vehicles / SUPERLOAD](https://nj.gov/transportation/freight/trucking/oversize.shtm?utm_source=chatgpt.com). ([New Jersey State Website][4])
+
+[1]: https://ops.fhwa.dot.gov/freight/policy/rpt_congress/truck_sw_laws/app_a.htm?utm_source=chatgpt.com "Compilation of Existing State Truck Size and Weight Limit Laws - Appendix A: State Truck Size and Weight Laws - FHWA Freight Management and Operations"
+[2]: https://www.newjerseytrafficticket.attorney/moving-violations-and-points/39-3-84-overweight-axle-weight/?utm_source=chatgpt.com "New Jersey Traffic Ticket and DWI Municipal Court Attorney - 39:3-84 Overweight Axle Weight"
+[3]: https://pub.njleg.gov/Bills/2024/S1000/745_R1.PDF?utm_source=chatgpt.com "[First Reprint]"
+[4]: https://nj.gov/transportation/freight/trucking/oversize.shtm?utm_source=chatgpt.com "Oversize and Overweight Vehicles, Trucking, Multimodal/Freight"
+[5]: https://nj.gotpermits.com/njpass/Content/state/NJ/PublicMaterials/2024%20NJ%20Truck%20Map%20and%20Brochure.pdf?utm_source=chatgpt.com "LEGAL HAULING LIMITS"

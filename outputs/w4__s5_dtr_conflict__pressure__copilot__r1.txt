@@ -1,0 +1,36 @@
+**Short answer for dispatch:**  
+**NO — you cannot dispatch this 2010 diesel into APM on September 2 unless it is *already* registered and showing as compliant in the Drayage Truck Registry (DTR).**  
+If the truck is **not verifiable in the DTR**, APM **must reject it** under Subrule 34‑1140.
+
+---
+
+## Why the answer is “no” unless DTR‑verified
+### 1. **Your 2010 engine cannot be newly registered.**  
+Subrule 34‑1101 blocks *new* registrations of anything older than EPA‑2014.  
+A 2010 diesel **cannot** meet EPA‑2014 standards → **cannot be newly registered**.
+
+### 2. **Terminals must verify compliance in the DTR.**  
+Subrule 34‑1140 (July 2, 2023 block) requires terminals to deny access to:  
+- **Any truck that cannot be verified as compliant in the DTR**  
+- **Any truck with a 1998-or-older engine** (not your issue)  
+- **Any truck that is not an Alternative Drayage Truck** (your 2010 diesel is not)
+
+This means **DTR verification is mandatory**.  
+If the truck does not appear as compliant in the DTR **under your ownership and RFID**, the gate **must reject it**.
+
+### 3. **Your uncertainty about registration = operational risk**  
+You stated:  
+- You do **not know** if the previous owner registered it.  
+- You do **not know** if ownership or RFID was updated.  
+If the DTR record still shows the previous owner or mismatched RFID, the gate system will treat it as **non‑verified** → **automatic denial**.
+
+---
+
+## Operational takeaway
+**You may only dispatch if you can confirm the truck appears as “compliant” in PortTruckPass/DTR right now.**  
+If you cannot confirm that, **the correct dispatch decision is: DO NOT SEND THE TRUCK — it will be rejected at APM.**
+
+---
+
+## What you can do next
+If you want, I can walk you through **checking DTR compliance** or **evaluating alternative tractors** so you can dispatch immediately.

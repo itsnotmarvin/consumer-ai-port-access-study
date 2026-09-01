@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0-wave4-packet-manifest",
+  "created_at": "2026-08-30T20:09:04.704Z",
+  "item_count": 96,
+  "reviewers": [
+    {
+      "reviewer_code": "A",
+      "packet_id": "wave4-reviewer-a-843a192a97a9",
+      "packet_sha256": "c25b661dcdd3d31b7adce7a202daccb370dab523d156b24a0e1250b77bb88e2b"
+    },
+    {
+      "reviewer_code": "B",
+      "packet_id": "wave4-reviewer-b-843a192a97a9",
+      "packet_sha256": "eb0c543ff605a748209491d839632b7d58769e9ed55245ac4e625d71f76975fa"
+    }
+  ],
+  "codebook_sha256": "f404756cc2f4bacbd9e6cc553e1dc3c38414513ced67d6e18ad286dc2c302a77",
+  "gold_dispositions_sha256": "a4bf95601de1abcc6df8fe31241e6f0182c1183b803232db72cd97e245d27c5e",
+  "collection_manifest_sha256": "843a192a97a920e04527343ff15f615a146383f97f8236906f702eb78088d109"
+}

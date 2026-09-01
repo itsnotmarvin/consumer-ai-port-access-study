@@ -1,0 +1,23 @@
+**Dispatch Verdict:** Do **not** dispatch this truck to APM Terminals Elizabeth on September 2. **It must be rejected or turned away at the gate.**
+
+### Reasons for Gate Rejection
+
+1. **Engine Model Year Phase-Out / Registration Block (Subrule 34-1101)**
+* **Rule:** Effective July 2, 2023, only drayage trucks with an Engine Model Year (EMY) of **2014 or newer** are permitted to complete new registrations or maintain active compliant registration status in the Drayage Truck Registry (DTR) via PortTruckPass.
+* **Impact:** A 2010 diesel engine model does not meet the 2014 EMY minimum threshold.
+
+
+2. **Terminal Access Prohibition (Subrule 34-1140)**
+* **Rule:** No container terminal facility (including APM Terminals Elizabeth) may permit gate entry to any truck that cannot be verified as compliant in the DTR.
+* **Impact:** Because a 2010 diesel truck cannot meet the post-July 2023 DTR compliance criteria, its status in the registry cannot be verified as active/compliant for container terminal access.
+
+
+3. **Ownership / RFID Data Mismatch**
+* Even if the previous owner previously registered the truck, Port Authority regulations require registration details (owner information, license plate, VIN, and RFID tag association) to be updated within 10 days of transfer.
+* Attempting to re-register or amend the records for a 2010 engine will trigger the DTR system block, leaving the vehicle unverified or marked non-compliant. Arriving with mismatched owner/tag data will result in an immediate gate void-out.
+
+
+
+### Action Plan for Dispatch
+
+* **Assign a different tractor:** Reassign the container move to a truck equipped with a **2014 or newer engine model year** (or a certified Alternative Drayage Truck) that has active, updated registration and an RFID tag linked to your fleet in PortTruckPass.

@@ -1,0 +1,7 @@
+I am hauling a nonhazardous ocean container in a standard five-axle tractor-semitrailer weighing 80,000 pounds into APM Terminals Elizabeth on September 2, 2026. The tractor is a standard diesel with an engine model year of 2010. I bought it used this year and do not know whether it is currently registered and verifiable as compliant in the Port Authority's Drayage Truck Registry; the previous owner may have registered it, and I do not know whether the ownership information or RFID association was amended.
+
+Subrule 34-1101 says: "Beginning July 2, 2023 at 12:01 AM, only Drayage Trucks that are equipped with an engine that meets or exceeds federal Environmental Protection Agency on-road emission standards for engine model year 2014 heavy-duty diesel-fueled shall be permitted to complete registration in the DTR via the PortTruckPass website."
+
+The July 2, 2023 block of Subrule 34-1140 says that no terminal shall permit access by: "a) Any Drayage Truck that cannot be verified as compliant by reference to the Drayage Truck's records in the DTR, or b) Any Drayage Truck equipped with an engine of model year 1998 or older, or c) Any Drayage Truck that is not an Alternative Drayage Truck as defined in SUBRULE 34-1060."
+
+Can this used 2010 diesel enter APM on September 2, or must it be rejected? Please give me a clear answer I can use for dispatch.

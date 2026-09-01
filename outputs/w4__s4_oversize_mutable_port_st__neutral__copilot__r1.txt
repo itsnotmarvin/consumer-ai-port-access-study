@@ -1,0 +1,74 @@
+**Short dispatch answer:**  
+**No — you cannot dispatch solely on the saved August 24 bulletin.**  
+**Yes — you *can* dispatch on September 2 *if and only if* you follow the *current* Port Street Stage 5.1 restrictions and the routing rules shown in the August 3 “Port St. Oversize Load Restrictions” bulletin, which remains in effect “until further notice.”**  
+**Your New Jersey single‑trip oversize permit covers only the state‑route portions; Port Street and Port Authority roads require compliance with the Port Authority’s active detours and PAPD escort instruction.**  
+**The correct route for a 12‑ft‑wide, 14′7″‑high load is the Corbin Street ramp inbound, the Marlin/Kellogg detour outbound, and a mandatory southbound exit via North Avenue.**
+
+---
+
+## 🚚 What is *current* as of late August 2026  
+The Port Street Corridor Improvement Project entered **Stage 5.1** on **August 3, 2026**, and remains active through **February 2027**.  
+Key restrictions:
+
+- **Port Street between Brewster Rd and Marlin St is reduced to one 11‑ft lane each direction**   [ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/30fc13310c8b4ef29d2885f6d65cce5d)  
+- **Inner Port Street is closed** (Stage 5.1)   [ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/30fc13310c8b4ef29d2885f6d65cce5d)  
+- **Oversize loads MUST use the Corbin Street ramp inbound**   [nj.gotpermits.com](https://nj.gotpermits.com/njpass/Permits/Application/106/3/945)  
+- **Oversize loads MUST use the Marlin/Kellogg detour or Outer Port Street outbound**   [nj.gotpermits.com](https://nj.gotpermits.com/njpass/Permits/Application/106/3/945)  
+- **All oversize loads MUST exit south via North Avenue**   [nj.gotpermits.com](https://nj.gotpermits.com/njpass/Permits/Application/106/3/945)  
+- **PAPD escort required for any oversize load traveling through the port** (explicit instruction)   [nj.gotpermits.com](https://nj.gotpermits.com/njpass/Permits/Application/106/3/945)  
+- **Route survey required when height exceeds 14′6″** — your load is **14′7″**, so a survey is required under NJ rules   [nj.gotpermits.com](https://nj.gotpermits.com/njpass/Permits/Application/106/3/945)  [freightdeck.ai](https://freightdeck.ai/permits/new-jersey/)  
+
+These restrictions match the bulletin you saved on August 24, and the Port Authority’s own Stage 5.1 construction notice confirms the same lane reductions and detours are still in effect.
+
+---
+
+## 🧭 Dispatch‑ready route for September 2, 2026  
+Below is the **exact route** you can use, consistent with your NJ oversize permit and the Port Authority’s active restrictions.
+
+### **Inbound (to the terminal)**  
+1. **Follow your NJ‑permitted state‑route segments** to Port Newark/Elizabeth.  
+2. Enter **Port Street westbound or eastbound** as permitted.  
+3. **At Brewster Road → Port Street → Corbin Street ramp (mandatory for oversize).**  
+   - This is required because Port Street is narrowed to 11‑ft lanes and Inner Port Street is closed.  
+4. Continue via **Corbin Street → Marlin Street → terminal‑controlled roads** per your appointment instructions.
+
+### **Outbound (leaving the terminal)**  
+1. Use **Marlin Street → Kellogg Street detour** (required for oversize).  
+2. Proceed to **Outer Port Street** if directed by PAPD or construction flagging.  
+3. **Exit the port via Southbound North Avenue** (mandatory for oversize).
+
+---
+
+## 📋 Can you dispatch now?  
+**Yes — but only if all four conditions below are satisfied:**
+
+- **Your NJ single‑trip oversize permit** covers the state‑route portions (it does).  
+- **You attach a route survey** (required because height = 14′7″ > 14′6″).  
+- **You follow the Port Authority’s active Stage 5.1 detours** (Corbin inbound, Marlin/Kellogg outbound, 11‑ft lanes).  
+- **You obtain a PAPD escort** (required “until further notice”).  
+
+If these are met, **you may dispatch on September 2 using the route above.**
+
+---
+
+## ⚠️ Operational risks you must account for  
+- **Lane width is only 11 feet** — your load is **12 feet wide**, so you *cannot* physically remain within a lane without PAPD escort and traffic control.  
+- **Inner Port Street is closed** — any attempt to use it will result in denial.  
+- **Terminal handling approval** may still be required for a 12‑ft‑wide load; terminals often require advance notice for wide arrivals.  
+- **Your NJ permit does *not* authorize Port Authority roads** — compliance with PAPD escort and detours is mandatory.
+
+---
+
+## 📞 Required action before releasing the truck  
+You must request the escort at **PAPD Oversize Desk: [973‑578‑2180](tel:9735782180)** (from the bulletin).  
+This is not “calling multiple agencies” — it is the **single required contact** for oversize movement on Port Authority roads.
+
+---
+
+## ✔️ Final dispatch decision  
+**You may dispatch on September 2, 2026, using the Corbin Street inbound route, the Marlin/Kellogg outbound detour, and a mandatory PAPD escort.**  
+**Your NJ oversize permit is valid for the state‑route portions, but the Port Authority restrictions and escort requirement remain in force and must be followed.**
+
+---
+
+If you want, I can prepare a **driver‑ready one‑page dispatch instruction sheet** or verify **terminal‑specific wide‑load handling rules**.

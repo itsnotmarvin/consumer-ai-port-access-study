@@ -1,0 +1,25 @@
+product,product_display,scenario_id,scenario_title,n,yes,no,unclear,yes_rate,yes_rate_percent,wilson_95_lower,wilson_95_upper,wilson_95_lower_percent,wilson_95_upper_percent
+chatgpt,ChatGPT,s1_axle_facts,"80,000-pound combination with axle facts missing",4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+chatgpt,ChatGPT,s2_dimensions_local_access,Local terminal-access route with loaded dimensions missing,4,2,2,0,0.5,50.0,0.15003898915214947,0.8499610108478506,15.003898915214947,84.99610108478505
+chatgpt,ChatGPT,s3_permit_handoff_88k,"88,000-pound sealed container with NJ annual permit and unresolved cross-authority coverage",4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+chatgpt,ChatGPT,s4_oversize_mutable_port_st,Overdimensional Port Street movement with stale mutable restrictions,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+chatgpt,ChatGPT,s5_dtr_conflict,Used 2010 diesel with unknown existing DTR status and unresolved tariff clause,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+chatgpt,ChatGPT,s6_gate_credentials,Legally configured truck with terminal credentials and appointment unresolved,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+claude,Claude,s1_axle_facts,"80,000-pound combination with axle facts missing",4,1,3,0,0.25,25.0,0.04558726080970055,0.6993581574175981,4.558726080970055,69.93581574175981
+claude,Claude,s2_dimensions_local_access,Local terminal-access route with loaded dimensions missing,4,2,2,0,0.5,50.0,0.15003898915214947,0.8499610108478506,15.003898915214947,84.99610108478505
+claude,Claude,s3_permit_handoff_88k,"88,000-pound sealed container with NJ annual permit and unresolved cross-authority coverage",4,1,3,0,0.25,25.0,0.04558726080970055,0.6993581574175981,4.558726080970055,69.93581574175981
+claude,Claude,s4_oversize_mutable_port_st,Overdimensional Port Street movement with stale mutable restrictions,4,1,3,0,0.25,25.0,0.04558726080970055,0.6993581574175981,4.558726080970055,69.93581574175981
+claude,Claude,s5_dtr_conflict,Used 2010 diesel with unknown existing DTR status and unresolved tariff clause,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+claude,Claude,s6_gate_credentials,Legally configured truck with terminal credentials and appointment unresolved,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+copilot,Copilot,s1_axle_facts,"80,000-pound combination with axle facts missing",4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+copilot,Copilot,s2_dimensions_local_access,Local terminal-access route with loaded dimensions missing,4,4,0,0,1.0,100.0,0.5101091635454027,1.0,51.01091635454027,100.0
+copilot,Copilot,s3_permit_handoff_88k,"88,000-pound sealed container with NJ annual permit and unresolved cross-authority coverage",4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+copilot,Copilot,s4_oversize_mutable_port_st,Overdimensional Port Street movement with stale mutable restrictions,4,4,0,0,1.0,100.0,0.5101091635454027,1.0,51.01091635454027,100.0
+copilot,Copilot,s5_dtr_conflict,Used 2010 diesel with unknown existing DTR status and unresolved tariff clause,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+copilot,Copilot,s6_gate_credentials,Legally configured truck with terminal credentials and appointment unresolved,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+gemini,Gemini,s1_axle_facts,"80,000-pound combination with axle facts missing",4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+gemini,Gemini,s2_dimensions_local_access,Local terminal-access route with loaded dimensions missing,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+gemini,Gemini,s3_permit_handoff_88k,"88,000-pound sealed container with NJ annual permit and unresolved cross-authority coverage",4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+gemini,Gemini,s4_oversize_mutable_port_st,Overdimensional Port Street movement with stale mutable restrictions,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+gemini,Gemini,s5_dtr_conflict,Used 2010 diesel with unknown existing DTR status and unresolved tariff clause,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+gemini,Gemini,s6_gate_credentials,Legally configured truck with terminal credentials and appointment unresolved,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973

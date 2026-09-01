@@ -1,0 +1,28 @@
+This truck **cannot** enter APM Terminals Elizabeth on September 2, 2026, unless it was **already fully registered, active, and correctly assigned to your carrier profile** in the Drayage Truck Registry (DTR) prior to July 2, 2023.
+
+Because you purchased the truck used this year and do not know its registry status, **dispatch must treat it as restricted until proven compliant in the PortTruckPass (PTP) portal.**
+
+---
+
+### Key Regulatory Factors
+
+* **Registration Block (Subrule 34-1101):** As of July 2, 2023, the Port Authority locked registration to require a **2014 model year engine or newer** for all standard diesel drayage trucks. Because your truck has a 2010 engine, **no new or pending registrations can be created** for it.
+* **Terminal Access Restrictions (Subrule 34-1140):** APM Elizabeth's automated gate systems (RFID/OCR) cross-reference every incoming vehicle against live DTR records. If the truck cannot be verified as active, compliant, and properly associated with the visiting motor carrier, **access is automatically denied**.
+
+---
+
+### Status Check & Dispatch Action Steps
+
+Before dispatching this vehicle to APM Terminals Elizabeth, run through these mandatory checks:
+
+1. **Log into PortTruckPass (PTP):** Search the vehicle's VIN and license plate number in your motor carrier DTR portal.
+2. **Check Current Status:**
+* **If the truck is listed under your account with an active status and an assigned RFID tag:** It is grandfathered in. You may dispatch the vehicle.
+* **If the truck is registered under the previous owner's account:** The DTR requires the VIN/license plate to match the active carrier's account and registered RFID tag. Attempting to transfer ownership or update details for a 2010 diesel engine after July 2, 2023, will trigger the 2014+ engine rule and reject the update.
+* **If the truck is not in the DTR:** System entry will be blocked at the gate with a "truck not found" or non-compliant registration error.
+
+
+
+### Dispatch Decision
+
+* **Action:** **REJECT / DO NOT DISPATCH** this 2010 diesel tractor to APM Terminals Elizabeth on September 2, 2026, unless you can verify in PTP that it is actively registered under your company's account with a valid, linked RFID tag. Assign a 2014 or newer diesel tractor (or an alternative fuel vehicle) to this load instead.

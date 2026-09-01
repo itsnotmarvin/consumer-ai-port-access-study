@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0-wave4-original-ratings-lock",
+  "status": "locked_before_cross_reviewer_comparison",
+  "locked_at_utc": "2026-08-31T06:17:14Z",
+  "files": [
+    {
+      "reviewer_code": "A",
+      "filename": "wave4_reviewer_a_ratings_FINAL.json",
+      "source_attachment_filename": "f7abb177-ce17-4957-a2d0-f25ff52bdad1-a3be69ff-c054-4c31-8f51-d184d7dad9cc-json.json",
+      "bytes": 73321,
+      "sha256": "80f6fe59d5f49a85ad8f7b4a3860693fd79e84d9dce1c4727e6ec455404fe473",
+      "workspace_permissions_at_lock": "0444"
+    },
+    {
+      "reviewer_code": "B",
+      "filename": "wave4_reviewer_b_ratings_FINAL.json",
+      "source_attachment_filename": "f7abb177-ce17-4957-a2d0-f25ff52bdad1-92cc3f8e-5c0c-459f-b042-7716993b0211-json.json",
+      "bytes": 63482,
+      "sha256": "9455a64208ba3c691aa8fe5e2619db605d71b1738db5ad389de54b460c54a29c",
+      "workspace_permissions_at_lock": "0444"
+    }
+  ]
+}

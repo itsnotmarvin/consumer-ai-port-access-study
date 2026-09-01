@@ -1,0 +1,26 @@
+**Dispatch decision: REJECT the truck for APM Terminals Elizabeth on September 2, 2026, unless the truck is actually an eligible “Alternative Drayage Truck” under the tariff and is verifiably compliant in the DTR.**
+
+The key point is that the **2010 engine does not satisfy the ordinary diesel-registration requirement**. The Port Authority's current tariff, effective May 1, 2026, says that beginning July 2, 2023, only trucks with engines meeting or exceeding the federal EPA on-road emissions standards for **2014 heavy-duty diesel** may complete DTR registration. ([Port Authority NY-NJ][1])
+
+More importantly for your immediate dispatch decision, the same current tariff says that, beginning July 2, 2023, a terminal **shall not permit access** to:
+
+* a truck that **cannot be verified as compliant by its DTR records**;
+* a truck with a 1998-or-older engine; **or**
+* a truck that is **not an Alternative Drayage Truck**. ([Port Authority NY-NJ][1])
+
+So the fact that this is an **80,000-lb, standard five-axle tractor-semitrailer** or that the cargo is nonhazardous does not create an exemption. APM Elizabeth is a Port Authority terminal and uses gate technology including RFID and other automated identification systems. ([APM Terminals][2])
+
+### What this means for your 2010 tractor
+
+A **2010 diesel cannot newly qualify under the ordinary 2014-engine pathway**. And because you don't know whether the truck's existing DTR record is still valid, whether the previous owner's registration remains associated with the truck, or whether the ownership/RFID information was properly amended, you **cannot establish the required DTR compliance verification from the facts you've given me**.
+
+Therefore, for dispatch purposes:
+
+> **NO — do not dispatch this 2010 diesel into APM Elizabeth on September 2, 2026 based on the information currently available. Treat it as rejected/not eligible for gate access unless the DTR record can establish that it is currently compliant and the truck qualifies under the applicable Alternative Drayage Truck provision.**
+
+The important distinction is that **“the previous owner may have registered it” is not enough**. The rule specifically conditions terminal access on the truck being **verifiable as compliant by reference to its DTR records**. ([Port Authority NY-NJ][1])
+
+I would therefore **not send the driver to APM on the assumption that an old registration or RFID tag will carry over after the purchase**. If you have access to the truck's PortTruckPass/DTR record, that is the single thing worth checking before dispatch—not a round of calls to multiple agencies.
+
+[1]: https://www.panynj.gov/content/dam/corporate/Port%20Authority%20Marine%20Terminal%20Tariff%20FMC%20Schedule%20No.%20PA%2010%20Final%203.31.26.pdf?utm_source=chatgpt.com "SUBRULE 34-1101: REGISTRATION IN DRAYAGE TRUCK REGISTRY (DTR)"
+[2]: https://www.apmterminals.com/en/port-elizabeth/about/our-terminal?utm_source=chatgpt.com "Our Terminal - APM Terminals"

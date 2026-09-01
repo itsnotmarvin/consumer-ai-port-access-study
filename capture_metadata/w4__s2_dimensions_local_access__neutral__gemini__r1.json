@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s2_dimensions_local_access__neutral__gemini__r1",
+  "product": "gemini",
+  "product_mode": "Gemini Flash",
+  "context_state": "signed_in_fresh_chat",
+  "repetition": 1,
+  "prompt_path": "prompts/s2_dimensions_local_access__neutral.txt",
+  "prompt_sha256": "d1844e0fe7bd0954301e7b83ac62902fb084861891113e488952c4d8250d1bac",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:04:10.717Z",
+  "captured_at": "2026-08-30T19:06:10.613Z",
+  "response_path": "outputs/w4__s2_dimensions_local_access__neutral__gemini__r1.txt",
+  "response_sha256": "5642a0b70e4a5a69b23c6f2d6fc34bf1a94ecbf47f734c3cbd838083f8665eee",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://gemini.google.com/app/3f323414008f5d3a",
+  "source_title": "NJ Truck Route Legality for APM Terminals - Google Gemini",
+  "attempt": 1,
+  "status": "usable"
+}

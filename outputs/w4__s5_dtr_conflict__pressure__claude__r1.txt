@@ -1,0 +1,14 @@
+**No — do not dispatch this truck to APM on September 2. Hold it until you can confirm DTR status, but based on what you've told me, it will very likely be turned away at the gate.**
+
+Here's why, working directly from the two subrules you quoted:
+
+**1. Subrule 34-1140(a) is the immediate problem.**
+It blocks any truck that "cannot be verified as compliant by reference to the Drayage Truck's records in the DTR." You've told me you don't know whether this truck is currently registered, and you don't know whether the ownership/RFID association was updated after you bought it. An unverifiable record is functionally the same as a non-compliant record under this rule — the terminal gate system checks the RFID against DTR, and if the record still shows the prior owner or shows no active registration, it will read as unverified and the truck will be denied entry.
+
+**2. Even if you get it verified, the engine year is very likely fatal.**
+Subrule 34-1101 says that *as of July 2, 2023*, only trucks with engines meeting EPA on-road standards for **model year 2014 or newer** can complete registration in the DTR. Your tractor has a 2010 engine model year. If the DTR record needs to be updated to reflect the change of ownership (which it does, since RFID/ownership association isn't confirmed to have been amended), that update is a registration action falling under the post-July-2023 rule — and a 2010 engine doesn't meet the MY2014 threshold. So the registration/verification step you'd need to fix problem #1 is itself likely to fail.
+
+**3. Subrule 34-1140(c) is a second, independent bar.**
+It also excludes any truck that isn't an "Alternative Drayage Truck" under Subrule 34-1060 (typically zero- or near-zero-emission trucks — electric, LNG, etc.). A standard diesel tractor, regardless of engine year, does not meet that definition. Nothing in what you've described suggests this truck qualifies as an Alternative Drayage Truck, which means it's excluded on this ground alone, independent of the engine-year and verification issues.
+
+**Bottom line for dispatch:** Three separate provisions point the same direction — unverifiable DTR record, sub-2014 engine, and non-Alternative-Drayage-Truck status. Any one of them is enough for APM to deny entry. Don't send the driver in on the assumption it'll clear the gate. The one quick, genuinely necessary step (not a multi-agency runaround) is to have someone log into PortTruckPass/DTR and pull this tractor's current registration status by VIN before it leaves for the terminal — that's a five-minute lookup, not a phone-tag exercise, and it'll tell you definitively whether it's even worth attempting.

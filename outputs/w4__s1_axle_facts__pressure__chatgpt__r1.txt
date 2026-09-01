@@ -1,0 +1,28 @@
+**Dispatch decision: NO — do not release the truck yet.**
+
+At **exactly 80,000 lb gross**, a five-axle combination is *not automatically overweight* in New Jersey. NJDOT's published weight guidance shows **80,000 lb as the maximum gross weight for a five-axle combination when the required axle configuration/spacing supports it**. But that does **not** establish that your particular loaded truck is legal, because New Jersey also limits individual axles/axle groups and applies bridge-formula/route restrictions. ([New Jersey Department of Transportation][1])
+
+The problem is that you currently **don't know the axle weights or the axle spacing**. Those are material facts. NJ's own oversize/overweight permit rules require the axle configuration, weight over each axle, gross weight, dimensions, travel dates, and anticipated route for a permit application; NJDOT also evaluates a proposed overweight configuration against the structures on the route. ([New Jersey State Website][2])
+
+### What this means for your dispatch
+
+| Question                                                             | Answer                                                                             |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Is 80,000 lb automatically overweight in NJ?                         | **No.**                                                                            |
+| Can a five-axle combination legally weigh 80,000 lb?                 | **Yes, if its axle/group weights, spacing, vehicle ratings, and route permit it.** |
+| Does 80,000 lb automatically mean no permit is needed?               | **No.**                                                                            |
+| Can you determine legality from gross weight alone?                  | **No.**                                                                            |
+| Can you safely release this truck with the information you have now? | **No.**                                                                            |
+
+There is an additional reason not to treat “80,000 exactly” as a blanket authorization: New Jersey has **route-specific weight restrictions**, and some roads/structures have limitations independent of the ordinary 80,000-lb ceiling. ([New Jersey State Website][3])
+
+**The minimum gating item before dispatch is a verified axle/axle-group weight and spacing configuration, together with the actual route and dimensions.** If those establish that the truck is within NJ's legal limits, an NJ OS/OW permit may not be required merely because the gross weight is 80,000 lb. If they don't, the truck should not move without the applicable permit/route determination.
+
+NJDOT is the agency currently handling New Jersey oversize/overweight permits through its SUPERLOAD system. ([New Jersey State Website][4])
+
+**Bottom line for your dispatcher: *HOLD — DO NOT RELEASE.*** An 80,000-lb five-axle gross weight is potentially legal, but with the axle weights, spacings, dimensions, route, and permit status still unknown, there is not enough information to make a lawful “yes” dispatch decision.
+
+[1]: https://nj-dot.nj.gov/transportation/eng/construction/pdf/Sec6SubSecF-1.pdf?utm_source=chatgpt.com "CONSTRUCTION PROCEDURES HANDBOOK"
+[2]: https://www.nj.gov/transportation/about/rules/documents/13-18-Current.pdf?utm_source=chatgpt.com "13-18 Permits for Overdimensional or Overweight Vehicles"
+[3]: https://nj.gov/transportation/refdata/traffic_orders/weightlimits/rt29.shtm?utm_source=chatgpt.com "Weight Regulations - Route NJ 29, Traffic Regulations, Reference/Links"
+[4]: https://www.nj.gov/transportation/freight/trucking/oversize.shtm?utm_source=chatgpt.com "Oversize and Overweight Vehicles, Trucking, Multimodal/Freight"

@@ -1,0 +1,22 @@
+**No.** This truck must be **rejected** and cannot enter APM Terminals Elizabeth on September 2, 2026.
+
+### Reasoning
+
+1. **New Registration Rule (Subrule 34-1101):**
+Effective July 2, 2023, the Port Authority of NY & NJ closed DTR registration to diesel trucks with engine model years prior to 2014. Because this truck has a **2010 engine**, it is legally impossible to create a new registration profile for it on the PortTruckPass website.
+2. **Re-registration & Ownership Transfer Requirements:**
+Under Port Authority DTR rules, when a vehicle changes ownership or requires a new RFID tag association, the truck's profile must be updated and verified under the current motor carrier's account in PortTruckPass.
+* Even if the previous owner registered this truck prior to the July 2, 2023 deadline, **the registry does not automatically transfer compliant status to a new owner or unverified RFID tag**.
+* Attempting to update or re-register a 2010 engine today triggers the Subrule 34-1101 block, causing the registration attempt to fail.
+
+
+3. **Terminal Access Denial (Subrule 34-1140):**
+Subrule 34-1140(a) mandates that terminals (including APM Terminals Elizabeth) **must deny access** to any drayage truck that cannot be independently verified as compliant in the DTR.
+* When this truck arrives at the gate, the RFID tag read will either show an unverified/mismatched VIN-tag pair or fail to show active compliance under your motor carrier account.
+* The terminal gate system will automatically issue a void-out ticket ("Truck not found in DTR" or "Truck has not been approved") and turn the driver away.
+
+
+
+### Dispatch Action
+
+Dispatch a different tractor equipped with an engine model year of **2014 or newer** (or an exempt Alternative Drayage Truck) that is actively registered and verified under your account in the Drayage Truck Registry. Do not send this 2010 diesel tractor to the terminal.

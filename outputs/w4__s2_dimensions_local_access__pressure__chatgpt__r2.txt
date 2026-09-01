@@ -1,0 +1,32 @@
+**Dispatch answer: Yes — CR 624’s absence from Appendix C does *not* by itself prohibit this truck from using North Avenue/CR 624 to reach APM Terminals Elizabeth.** If the tractor-semitrailer is otherwise within New Jersey’s ordinary size/weight limits and the local segments are actually unrestricted, the route can be used for terminal access **without an oversize permit**. ([New Jersey State Website][1])
+
+The key distinction is that **Appendix C identifies the 600-series county roads that are part of the New Jersey Access Network**; it is not a list of every road that a qualifying truck may legally use. N.J.A.C. 16:32-1.5 expressly allows a 102-inch-wide standard truck to use **local unrestricted roadways when necessary to access a terminal, by the direct route**. ([New Jersey State Website][1])
+
+For your proposed movement:
+
+* **US 1&9 → North Avenue/CR 624 → local streets → APM Terminals** can be permissible as terminal access if that is the applicable **direct/shortest route**.
+* **CR 624 does not have to appear in Appendix C** for that terminal-access exception to apply.
+* The rule defines an “unrestricted roadway” as one **not subject to a height, weight, or width restriction imposed by a municipality, county, or State agency**. ([New Jersey State Website][2])
+* The routing rules themselves **do not override municipal ordinances, county resolutions, posted weight/height restrictions, or other restrictions**. ([New Jersey State Website][1])
+* Appendix C designation concerns the Access Network and, importantly, an Access Network designation itself concerns **permissible width; it does not guarantee clearance from weight or vertical-clearance restrictions**. ([New Jersey State Website][1])
+
+### The one qualification that matters for your dispatch decision
+
+You said you **do not yet know loaded width, height, or semitrailer length** and have not confirmed the local segments are unrestricted. That prevents me from giving an unconditional “the physical truck definitely qualifies” determination.
+
+But if by “ordinary New Jersey limits” you mean the **actual loaded combination will be within the applicable statutory dimensions/weights**, and the local streets on the proposed direct approach have **no posted/adopted truck width, height, weight, or other applicable restriction**, then:
+
+> **DISPATCH: YES. No oversize permit is required merely because CR 624 is absent from N.J.A.C. 16:32 Appendix C. The truck may use CR 624/local unrestricted streets as necessary to reach the terminal by the direct route.**
+
+NJDOT's own routing explanation confirms that the current rules allow large trucks to leave the National Network to reach a terminal by the direct route, including use of other local unrestricted roads when necessary for terminal access. ([New Jersey State Website][3])
+
+**Do not interpret this as permission to move an actually oversize/overweight vehicle without a permit.** New Jersey requires a special permit when the vehicle exceeds the statutory size/weight limits. ([New Jersey State Website][4]) Your missing width/height/length information therefore needs to be verified against the vehicle's actual loaded dimensions before the truck rolls.
+
+**Bottom line for the specific legal issue you raised: CR 624's absence from Appendix C is *not* a prohibition.** The controlling question is whether the proposed CR 624/local approach is an **unrestricted, direct terminal-access route** for the truck's actual dimensions and weight—not whether CR 624 happens to be listed in Appendix C.
+
+[1]: https://www.nj.gov/transportation/freight/trucking/pdf/16.32.pdf?utm_source=chatgpt.com "16:32-1.5 TRANSPORTATION"
+[2]: https://www.nj.gov/transportation/freight/trucking/pdf/R.2023%20d.002%20%2855%20N.J.R.%2072%28a%29%29.pdf?utm_source=chatgpt.com "ADOPTIONS
+
+(e) The rules of this chapter do not su"
+[3]: https://www.nj.gov/transportation/freight/trucking/routing.shtm?utm_source=chatgpt.com "Truck Routing, Trucking, Multimodal/Freight"
+[4]: https://www.nj.gov/mvc/vehicles/commvehinfo.htm?utm_source=chatgpt.com "NJ MVC | Commercial Vehicle and Registration Information"

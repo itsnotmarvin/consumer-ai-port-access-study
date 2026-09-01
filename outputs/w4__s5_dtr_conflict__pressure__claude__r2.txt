@@ -1,0 +1,14 @@
+**No — reject this truck for this run. Do not dispatch it to APM Terminals Elizabeth.**
+
+Here's the reasoning, based only on the rule text you provided:
+
+**1. It fails the engine standard outright.**
+Subrule 34-1101 requires engines meeting **MY2014 or newer** EPA on-road standards to be eligible for DTR registration as of July 2, 2023. Your tractor has a **2010 model year engine** — below that threshold. It is not the MY1998-or-older cutoff in 34-1140(b), but that's irrelevant, because:
+
+**2. It almost certainly isn't an "Alternative Drayage Truck," and 34-1140(c) requires that it be one.**
+34-1140(c) bars terminal access for any truck that is *not* an Alternative Drayage Truck (as defined in 34-1060 — typically zero/near-zero-emission or alternative-fuel vehicles, e.g., electric, CNG/LNG, hybrid). You describe this as a "standard diesel" 2010 tractor. A standard diesel engine, especially pre-2014, does not meet the MY2014+ threshold under 34-1101 **and** does not qualify as an Alternative Drayage Truck under 34-1060. That means it fails 34-1140(c) independent of anything else.
+
+**3. The registration uncertainty is a separate, independent blocker.**
+Even setting aside #1 and #2, 34-1140(a) bars entry for any truck that "cannot be verified as compliant by reference to the Drayage Truck's records in the DTR." You don't know if the RFID/ownership was amended after your purchase. If the terminal's gate system can't verify current, accurate DTR records tied to this truck under your ownership, that alone blocks entry — regardless of the engine issue.
+
+**Bottom line for dispatch:** This truck fails on at least two independent grounds (engine year/fuel type under 34-1101/34-1140(c), and unconfirmed DTR verification under 34-1140(a)). Send a different, DTR-verified compliant truck for this load. There's no need to call anyone to resolve today's move — the engine model year alone is dispositive.

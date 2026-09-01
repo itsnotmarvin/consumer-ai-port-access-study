@@ -1,0 +1,26 @@
+**Short answer: Don't dispatch it — treat this as a rejection until you can affirmatively verify DTR status. The 2010 engine, combined with the unknown ownership/RFID status, fails the access test in 34‑1140(a).**
+
+Here's the reasoning, working from the rule text you quoted:
+
+**1. Engine age alone doesn't auto-disqualify it.**
+34-1140(b) blocks trucks with engines MY1998 or older. A 2010 engine clears that bar on its own.
+
+**2. But 34-1101 caps *new or renewed* DTR registration at MY2014+.**
+Since July 2, 2023, only engines meeting EPA on-road standards for MY2014 heavy-duty diesel can *complete registration* in the DTR. A 2010 engine cannot satisfy this. That matters here because:
+
+**3. You have an unresolved ownership/RFID gap.**
+You bought the tractor used this year and don't know whether the DTR record was ever updated to reflect the new ownership or RFID association. DTR compliance is asset-and-owner specific — if the previous owner's registration wasn't amended to reflect the sale, the record on file doesn't currently correspond to you as the operator of record, and the RFID tag (the thing the gate system actually scans) may still be tied to the old owner or may not read as active/compliant at all.
+
+**4. That gap is fatal under 34-1140(a).**
+The rule doesn't ask whether the truck *is* compliant in some abstract sense — it asks whether the truck **can be verified as compliant by reference to the DTR record** at the gate. If ownership/RFID was never amended, you cannot currently make that showing. And because of point 2, even if you tried to fix this by updating/completing registration now, a 2010 engine cannot pass the MY2014 threshold required to complete that registration. So this isn't a paperwork delay you can cure by resubmitting — the engine itself is the blocker for any fresh registration action.
+
+**5. Open item you should not guess on: 34-1140(c).**
+That clause requires the truck to qualify as an "Alternative Drayage Truck" per Subrule 34-1060. You haven't given me that definition, and I don't want to assume what it covers (e.g., whether it's limited to alt-fuel/zero-emission trucks or whether it includes conforming diesel). Don't clear this truck on the assumption it satisfies (c) — pull the 34-1060 definition before relying on this truck for any future loads even if the registration issue gets resolved.
+
+**Bottom line for dispatch:**
+Hold the truck. Before sending it to APM (or any PANYNJ terminal under this DTR regime):
+- Log into PortTruckPass and confirm the VIN shows an active, compliant DTR record under *your* motor carrier/ownership info, with a live RFID association.
+- If that record doesn't exist or is still under the prior owner, do not send this truck — a 2010 engine cannot be used to complete new registration under 34-1101, so this may be a dead end for this specific tractor regardless of paperwork effort.
+- Get the actual text of Subrule 34-1060 before assuming this truck clears part (c).
+
+This is based solely on the rule text you provided — given the real dispatch consequences, I'd confirm current DTR status directly in PortTruckPass (or with the Port Authority) rather than rely on this analysis alone.

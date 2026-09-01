@@ -1,0 +1,47 @@
+**Short dispatch answer:**  
+**No — the New Jersey Annual Ocean‑Borne Containerized Cargo Multiple‑Trip Permit does *not* cover the entire trip into APM Terminals Elizabeth, and it does *not* by itself authorize entry into the Port Authority overweight zone. You still need Port Authority/terminal overweight authorization before dispatch.**
+
+---
+
+## 🚚 Clear, dispatch‑ready conclusion  
+Your NJ annual ocean‑borne container permit **does** cover:  
+- **New Jersey state highways**  
+- **The New Jersey Turnpike** (Turnpike Authority accepts NJ overweight permits for containerized cargo)  
+- **Ordinary county/local roads**, *only to the extent those roads allow permitted overweight vehicles*  
+
+But it **does not** automatically cover:  
+- **Port Authority of NY & NJ overweight zones**  
+- **Terminal‑controlled roads inside APM Elizabeth**  
+- **Gate entry for an 88,000‑lb vehicle**  
+
+The Port Authority treats its overweight zone as a **separate jurisdiction**. Their rules require **Port Authority overweight authorization** even when the truck holds a valid NJ annual ocean‑borne container permit. Terminal gates enforce this strictly.
+
+**Therefore: you cannot release the truck yet.**  
+You need **Port Authority overweight approval** (or terminal‑specific overweight acceptance) **in addition to** the NJ annual permit.
+
+---
+
+## 🧭 Why this is a “no‑dispatch” situation  
+- Your gross weight is **88,000 lb**, which is **above** the standard 80,000‑lb federal/NJ limit.  
+- The NJ annual permit **only** authorizes overweight movement on **state‑controlled roads**.  
+- The Port Authority overweight zone is **not** covered by NJDOT permits.  
+- APM Elizabeth’s gate will **deny entry** if the truck arrives overweight without Port Authority authorization, even with the NJ annual permit.
+
+This is not a gray area — Port Authority enforcement officers treat overweight entry as a **separate permit requirement**.
+
+---
+
+## 📋 Dispatch checklist (actionable)  
+- **Do NOT release the truck yet.**  
+- You already have the **NJ annual ocean‑borne container permit** — that part is satisfied.  
+- You still need **Port Authority overweight authorization** for entry into APM Elizabeth.  
+- Once Port Authority authorization is confirmed, the route via Turnpike → North Avenue → local connections is normally acceptable for permitted containerized cargo.
+
+---
+
+## 🧩 One‑line dispatch instruction  
+> **Hold dispatch.** NJ annual permit is valid for state/Tpk roads, but **Port Authority overweight authorization is still required** for entry into APM Elizabeth at 88,000 lb. Do **not** release the truck until Port Authority overweight approval is confirmed.
+
+---
+
+If you want, I can prepare a **terminal‑ready confirmation request** or a **Port Authority overweight authorization request** you can send immediately.

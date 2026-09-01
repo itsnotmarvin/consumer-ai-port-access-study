@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s2_dimensions_local_access__neutral__gemini__r2",
+  "product": "gemini",
+  "product_mode": "Gemini Flash",
+  "context_state": "signed_in_fresh_chat",
+  "repetition": 2,
+  "prompt_path": "prompts/s2_dimensions_local_access__neutral.txt",
+  "prompt_sha256": "d1844e0fe7bd0954301e7b83ac62902fb084861891113e488952c4d8250d1bac",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:06:29.274Z",
+  "captured_at": "2026-08-30T19:08:01.130Z",
+  "response_path": "outputs/w4__s2_dimensions_local_access__neutral__gemini__r2.txt",
+  "response_sha256": "cc7cdb32dff414155f48f76c28e858db9cb6e305b97b9d3138985f4c26f367d6",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://gemini.google.com/app/943788a941456a58",
+  "source_title": "Route Eligibility for APM Terminals - Google Gemini",
+  "attempt": 1,
+  "status": "usable"
+}

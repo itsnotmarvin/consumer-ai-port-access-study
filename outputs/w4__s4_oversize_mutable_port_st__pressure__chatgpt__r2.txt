@@ -1,0 +1,42 @@
+**Dispatch decision: NO — do not dispatch on the saved bulletin + NJ permit alone.**
+
+I checked the current NJ/Port information available today, **August 30, 2026**, for your **September 2** move. The important point is that the Port Street restriction you described is still appearing in the current NJ 511 feed: Port Street between Brewster Road and Marlin Street is reduced to **11 feet**, with specific oversize detours, a mandatory southbound exit via North Avenue, and an instruction to request a PAPD oversize escort. 
+
+But that does **not** make the saved bulletin sufficient authorization for September 2.
+
+### Why I would hold the truck
+
+1. **Your 14'7" height triggers additional NJ requirements.**
+   NJ's oversize rules say that when the height exceeds 14 feet, the requirements of N.J.S.A. 39:4-28 apply. ([Justia][1])
+
+2. **Your 12-foot width does not itself trigger the ordinary NJ private-escort threshold** (that threshold is over 14 feet), but the **Port Authority is separately directing oversize loads to request a PAPD escort** on the affected Port Street segment. ([Justia][1])
+
+3. **The NJ single-trip permit is route-specific.** NJDOT describes its OS/OW permits as route-specific, and the State's truck-routing rules govern access to terminals and other facilities. ([New Jersey State Website][2]) A permit covering certain State-route portions does not, by itself, establish permission to use a Port Authority-controlled roadway or satisfy a Port Authority/terminal-specific restriction.
+
+4. **The Port Street project is still active in 2026.** The Port Authority's current 2026 material says the Port Street Corridor Improvement Project is ongoing, with construction continuing into 2026/2028 depending on the project element. ([Port Authority NY-NJ][3]) Thus, relying on an August 24 saved bulletin without confirming its applicability to the September 2 movement is not a defensible dispatch basis.
+
+### Route instruction
+
+For the **Port Street segment specifically**, the current traffic information says:
+
+* **Eastbound oversize:** use the **Corbin Street ramp**.
+* **Westbound oversize:** use the **Marlin Street/Kellogg Street detour** **or Outer Port Street**.
+* **All oversize loads:** exit the Port area **south via North Avenue**.
+* **PAPD oversize escort:** the current notice directs the carrier to request one at **(973) 578-2180**. 
+
+I **cannot responsibly give the driver an exact complete turn-by-turn route** from the facts provided because you have not supplied the permit's actual route/origin/destination or the particular marine terminal. More importantly, choosing one of those Port Street alternatives without verifying that it matches the **issued permit and the terminal's current access approval** could put the driver off the permitted route.
+
+### What I would put on the dispatch board
+
+> **HOLD — DO NOT DISPATCH YET.**
+> The August 24 bulletin is not sufficient by itself. Current NJ 511 information still shows the Port Street 11-ft restriction and oversize detours, including the North Avenue southbound exit and PAPD escort request, but the September 2 movement requires confirmation that the issued NJ permit covers the actual Port/terminal route and that the Port Authority/PAPD and destination terminal will accept the 12' × 14'7" load under the then-current restriction. Do not send the truck onto Port Street until that confirmation is obtained.
+
+So the answer to **“Can I dispatch using the saved bulletin and my NJ permit?” is No.**
+
+And there is **one genuinely necessary Port-side confirmation**, rather than a need to call a collection of agencies: **PAPD/Port Authority confirmation of the oversize movement/escort and terminal access.** The current traffic notice itself specifically directs oversize carriers to PAPD for the escort. 
+
+If you give me the **exact NJ permit route text (or upload/screenshot the permit) and the destination terminal**, I can compare the permitted route against the current Port Street restrictions and tell you the precise route the driver should be instructed to follow.
+
+[1]: https://regulations.justia.com/states/new-jersey/title-13/chapter-18/subchapter-1/section-13-18-1-12/?utm_source=chatgpt.com "New Jersey Administrative Code, Subchapter 1, Section 13:18-1.12 - Escort vehicle requirements | New Jersey Administrative Code | Justia"
+[2]: https://nj.gov/transportation/freight/plan/?utm_source=chatgpt.com "Freight Planning Overview, Freight, Air and Water"
+[3]: https://www.panynj.gov/content/dam/port/customer-library-pdfs/CFC-Annual-Report-2025.pdf?utm_source=chatgpt.com "Upcoming CFC Project: Port Street Corridor Improvement (PSCI) Project"

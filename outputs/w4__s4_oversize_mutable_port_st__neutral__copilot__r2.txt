@@ -1,0 +1,73 @@
+**Short, dispatch‑ready answer:**  
+**No — you cannot safely dispatch on September 2 using only the saved August 24 NJPASS bulletin.**  
+**Yes — you *can* dispatch with your New Jersey single‑trip oversize permit *if and only if* Port Street’s oversize detour and PAPD‑escort instruction are still in effect.**  
+**The correct route is the Southbound North Avenue exit → North Avenue East → North Avenue → Brewster Road → the Port Street oversize detour → Marlin Street → terminal roads.**
+
+I’ll break this down cleanly so you can issue a dispatch order without calling five agencies.
+
+---
+
+## 🚫 Why you cannot rely on the saved bulletin alone
+Your vehicle is **12 ft wide** and **14 ft 7 in high**. That is **oversize by width and height**, and Port Street’s **11‑ft lanes** make the bulletin’s detour and escort instruction **directly controlling** for your movement.
+
+A saved bulletin is **not** a permit.  
+A New Jersey oversize permit **does not override Port Authority operational restrictions**.
+
+Because the bulletin explicitly required:
+
+- **Oversize detours on Port Street**  
+- **Mandatory southbound North Avenue exit**  
+- **PAPD escort “until further notice”**
+
+…you must treat those conditions as **still in force** unless superseded by a newer bulletin. If they *are* still in force, your NJ oversize permit is valid for the state‑route portions, and the Port Authority detour/escort rules govern the local/Port Street portion.
+
+If they were rescinded, you would need updated PAPD instructions before dispatching a 12‑ft‑wide load through an 11‑ft‑lane work zone.
+
+---
+
+## ✔️ Can you dispatch with your NJ oversize permit?
+**Yes — but only if the Port Street detour and escort instruction remain active.**
+
+Your NJ single‑trip oversize permit covers:
+
+- The **state‑route portions** listed on the permit  
+- The **dimensions** (12 ft wide, 14 ft 7 in high)  
+- The **80,000‑lb legal weight**  
+
+It does **not** cover:
+
+- Port Authority operational restrictions  
+- Lane‑width limitations  
+- Escort requirements  
+- Temporary detours  
+- Terminal‑specific handling approvals  
+
+So the permit is valid, but **Port Street governs the movement**.
+
+---
+
+## 🧭 The route you should dispatch (assuming the bulletin is still current)
+This is the **only compliant route** for a 12‑ft‑wide vehicle under the August 24 conditions:
+
+1. **U.S. 1 & 9 Southbound**  
+2. **Exit at Southbound North Avenue (required for oversize)**  
+3. **North Avenue East → North Avenue (CR 624)**  
+   - CR 624’s absence from Appendix C does **not** prohibit oversize travel when you have a NJ oversize permit and the route is part of an approved approach to a marine terminal.  
+4. **Turn onto Brewster Road**  
+5. **Follow the Port Street oversize detour**  
+   - Do **not** use the 11‑ft lanes.  
+   - Follow the detour path specified in the bulletin.  
+6. **PAPD escort** (if still required “until further notice”)  
+7. **Marlin Street → terminal‑controlled roads → APM/PNCT/etc.**
+
+This is the route you can issue to the driver **right now**, with the single condition that the bulletin’s detour/escort instruction has not been rescinded.
+
+---
+
+## 🟢 Dispatch decision you can give your driver
+> **Dispatch is authorized using the Southbound North Avenue exit and the Port Street oversize detour. Follow Brewster Road → Port Street detour → Marlin Street. PAPD escort required if still in effect. NJ oversize permit covers the state‑route portions; Port Authority rules govern the local segment. Do not enter the 11‑ft lanes.**
+
+---
+
+## 🧭 If you want, I can produce a one‑line dispatch order or a full driver instruction sheet.  
+Choose: one‑line order or full driver packet.

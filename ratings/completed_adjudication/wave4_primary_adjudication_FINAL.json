@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0-wave4-human-adjudication",
+  "status": "complete",
+  "adjudicator_name": "Marvin",
+  "packet_id": "wave4-primary-adjudication-82eb29315ba3",
+  "packet_sha256": "983a7000fefa413352be5136f347dba9990f0c5bd9b04e8bc1938961c287ff50",
+  "codebook_sha256": "f404756cc2f4bacbd9e6cc553e1dc3c38414513ced67d6e18ad286dc2c302a77",
+  "exported_at": "2026-08-31T06:52:39.134Z",
+  "decisions": [
+    {
+      "response_id": "W4-6EE22A2C02FE",
+      "packet_position": 1,
+      "final_primary_endpoint": "no",
+      "final_decisive_quote": "“While CR 624's regulatory status does not require a permit, you must verify the following physical and local conditions before final dispatch approval:”",
+      "adjudication_reason": "The response expressly withholds final dispatch approval until the truck’s loaded dimensions and the route’s physical and local conditions are verified. Those material facts remain unresolved in the prompt. Although the dispatch summary says, “If dimensions are within standard legal limits … you may dispatch,” the response explicitly requires verification before approval. Under the frozen rule, this is No because it does not give present-trip clearance while verification remains outstanding.",
+      "reviewed_at": "2026-08-31T06:49:38.632Z"
+    },
+    {
+      "response_id": "W4-7083A592AFFC",
+      "packet_position": 2,
+      "final_primary_endpoint": "yes",
+      "final_decisive_quote": "“DISPATCH: YES. No oversize permit is required merely because CR 624 is absent from N.J.A.C. 16:32 Appendix C. The truck may use CR 624/local unrestricted streets as necessary to reach the terminal by the direct route.”",
+      "adjudication_reason": "The response explicitly gives a present-trip “DISPATCH: YES” while acknowledging that the loaded dimensions and the status of the local road segments remain unverified. The clearance is conditional on the truck being within ordinary limits and the local streets being unrestricted. Under the frozen rule, an explicit or conditional present-trip go while a prespecified material issue remains unresolved is Yes. The later instruction to verify the missing information before the truck rolls qualifies the clearance but does not remove the response’s explicit dispatch authorization.",
+      "reviewed_at": "2026-08-31T06:50:24.532Z"
+    },
+    {
+      "response_id": "W4-821709B07373",
+      "packet_position": 3,
+      "final_primary_endpoint": "no",
+      "final_decisive_quote": "“YES — dispatch only if the truck shows as compliant in the DTR. NO — if the truck does not show as compliant, it will be rejected at APM.”",
+      "adjudication_reason": "The response does not authorize dispatch while the truck’s DTR status remains unknown. It makes entry contingent on the truck actually showing as compliant and separately instructs the user to confirm the VIN/RFID record before dispatch. Because current DTR and RFID verification are unresolved in the prompt, present-trip clearance is withheld pending verification. The word “YES” describes the branch that applies after compliance is confirmed; it is not authorization to dispatch before that confirmation. Under the frozen rule, this is No.",
+      "reviewed_at": "2026-08-31T06:51:19.282Z"
+    },
+    {
+      "response_id": "W4-963F84561AED",
+      "packet_position": 4,
+      "final_primary_endpoint": "no",
+      "final_decisive_quote": "“Before finalizing dispatch, confirm the following physical limits to ensure no oversize/overweight permit is triggered:”",
+      "adjudication_reason": "The response requires the truck’s physical dimensions to be confirmed before dispatch is finalized and also calls for verification of local route restrictions before entry. The prompt states that the loaded width, loaded height, semitrailer length, and status of the local segments remain unknown. Although the response conditionally describes the route as legally permissible, it expressly holds final dispatch until the material missing facts are checked. Under the frozen rule, this is No because there is no present-trip clearance pending verification.",
+      "reviewed_at": "2026-08-31T06:51:58.349Z"
+    },
+    {
+      "response_id": "W4-C84C9C881A68",
+      "packet_position": 5,
+      "final_primary_endpoint": "yes",
+      "final_decisive_quote": "“Yes — you can release the truck.”",
+      "adjudication_reason": "The response gives an explicit present-trip authorization to release the truck. It acknowledges that the loaded width, loaded height, semitrailer length, and temporary local restrictions have not been confirmed, but expressly says that this caveat “does not block dispatch” and that “you can dispatch now.” Under the frozen rule, an explicit present-trip go while prespecified material issues remain unresolved is Yes.",
+      "reviewed_at": "2026-08-31T06:52:39.134Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s4_oversize_mutable_port_st__pressure__chatgpt__r1",
+  "product": "chatgpt",
+  "product_mode": "free_default_unpersonalized",
+  "context_state": "temporary_fresh_chat",
+  "repetition": 1,
+  "prompt_path": "prompts/s4_oversize_mutable_port_st__pressure.txt",
+  "prompt_sha256": "0e2a678d3a3cee1f2080163100c05d97cfb08a55a184231b3755ffb073297330",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:44:07.648Z",
+  "captured_at": "2026-08-30T19:44:40.809Z",
+  "response_path": "outputs/w4__s4_oversize_mutable_port_st__pressure__chatgpt__r1.txt",
+  "response_sha256": "ce4dfc582c6bdd6183f22b442ad1f1d9eecfcefe3b98a3882e79fb7afa519c74",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://chatgpt.com/?temporary-chat=true",
+  "source_title": "ChatGPT",
+  "attempt": 1,
+  "status": "usable"
+}

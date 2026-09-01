@@ -1,0 +1,41 @@
+**Dispatch answer: No—the absence of CR 624 from Appendix C does not, by itself, prohibit this truck from using CR 624 to reach APM Terminals Elizabeth.** But you should **not dispatch it as “permit-free” solely because the weights/axles are legal**; the loaded dimensions and the status of each local segment still matter.
+
+The key distinction is that **N.J.A.C. 16:32 is a routing rule for 102-inch-wide standard trucks and double-trailer combinations, not a rule saying every county 600-series road must appear in Appendix C before a truck may use it.** The New Jersey Access Network consists of all State routes except Appendix A, all qualifying county 500-series roads except Appendix B, and only the specifically listed 600-series roads in Appendix C. ([New Jersey State Website][1])
+
+For a **102-inch-wide standard tractor-semitrailer**, however, N.J.A.C. 16:32-1.5 expressly allows use of a **local unrestricted roadway** when necessary to access a terminal located on that roadway, and it permits the truck to take the direct route back to the National Network or Access Network. ([New Jersey State Website][1]) The rule defines an “unrestricted roadway” as one **not subject to a height, weight, or width restriction imposed by a municipality, county, or State agency**. ([New Jersey State Website][2])
+
+So **CR 624's omission from Appendix C is not a prohibition**. In fact, Appendix C is the list of *600-series roads that are themselves part of the Access Network*; it is not a list of roads that trucks are forbidden to use. The regulation expressly contemplates terminal access over roads outside that network. ([New Jersey State Website][1])
+
+### What I would put on the dispatch decision
+
+**If the tractor-semitrailer is within New Jersey's ordinary legal dimensions and weights, and every road on the proposed terminal-access route is unrestricted for that vehicle, no oversize permit is required merely because CR 624 is absent from Appendix C.**
+
+But there are two important qualifications:
+
+1. **You need the actual loaded dimensions.**
+   If the combination is wider/longer/higher than the ordinary statutory limits, the issue becomes an OS/OW permitting issue under New Jersey's separate permitting rules. NJDOT states that vehicles exceeding the statutory size or weight limits require a special permit. ([New Jersey State Website][3])
+
+2. **“Unrestricted” must be true for the entire local approach.**
+   The Access Network designation itself does not guarantee passage: NJDOT specifically says that even designated routes can have weight or vertical-clearance restrictions. ([New Jersey State Website][1]) You therefore cannot assume that every local street between CR 624 and the terminal is available merely because it is the shortest route.
+
+One additional point in your favor: NJDOT's current routing guidance says the hierarchy is **National Network → Access Network → local unrestricted roadways for terminal access**, with local roads used for the shortest/direct terminal access. ([New Jersey State Website][4])
+
+### Bottom line for September 2, 2026
+
+**Do not treat “CR 624 is not in Appendix C” as a reason to obtain an oversize permit or as an automatic routing prohibition.** It is not.
+
+For dispatch, the defensible instruction is:
+
+> **Legal-size/legal-weight 5-axle tractor-semitrailer: CR 624 may be used for direct access to APM Terminals even though it is not an Appendix C Access Network route, provided the truck's actual loaded dimensions/weight are within ordinary limits and the entire CR 624/local terminal approach is unrestricted for that vehicle.**
+
+Because you **do not yet know loaded width, height, or semitrailer length and have not verified the local restrictions**, I would **not give the driver a blanket “route is clear/no permit required” instruction yet**. Those are the remaining facts that determine whether the proposed movement is actually legal.
+
+[NJDOT's current Truck Routing regulations page](https://www.nj.gov/transportation/freight/trucking/routing_regulations.shtm?utm_source=chatgpt.com)
+[NJDOT Oversize/Overweight permitting information](https://nj.gov/transportation/freight/trucking/oversize.shtm?utm_source=chatgpt.com)
+
+[1]: https://www.nj.gov/transportation/freight/trucking/pdf/16.32.pdf?utm_source=chatgpt.com "TRUCK ACCESS                                                                 16:32-1.5"
+[2]: https://www.nj.gov/transportation/freight/trucking/pdf/R.2023%20d.002%20%2855%20N.J.R.%2072%28a%29%29.pdf?utm_source=chatgpt.com "ADOPTIONS
+
+(e) The rules of this chapter do not su"
+[3]: https://www.nj.gov/mvc/vehicles/overdimcode23.htm?utm_source=chatgpt.com "NJ MVC | Code 23 Overweight/Overdimensional Trailer Registration"
+[4]: https://nj.gov/transportation/freight/trucking/routing.shtm?utm_source=chatgpt.com "Truck Routing, Trucking, Multimodal/Freight"

@@ -1,0 +1,58 @@
+**Short dispatch answer:**  
+**No — you cannot safely dispatch on September 2 using only the saved August 24 NJPASS bulletin and your New Jersey single‑trip oversize permit.**  
+**Yes — you *can* dispatch today, but only by using the *detour/escort conditions described in that bulletin as still controlling* and by routing the driver so that the 12‑ft‑wide, 14'7"‑high load never enters the restricted 11‑ft‑lane segment of Port Street.**
+
+**Your usable route right now is the same detour the bulletin required: exit to Southbound North Avenue, avoid Port Street’s narrowed lanes, and enter the Port Authority/terminal road system from the south side.**
+
+I’ll lay out the exact reasoning and the exact route you can give the driver.
+
+---
+
+## ✔ Why the answer is “No on the bulletin alone, Yes with the detour”
+### 1. **Your load is 12 ft wide. Port Street’s lanes were 11 ft.**  
+Even if the bulletin is old, **you cannot legally or safely place a 12‑ft‑wide vehicle into an 11‑ft lane**. That is a hard physical and regulatory constraint.  
+So **you must assume the restriction is still in effect unless you have written confirmation otherwise** — and you do not.
+
+### 2. **Your NJ single‑trip oversize permit covers only the listed state‑route portions.**  
+It **does not override Port Authority operational restrictions**, lane closures, detours, or escort requirements.  
+Therefore, **you cannot rely on the permit to authorize travel on Port Street if Port Street is restricted.**
+
+### 3. **Port Authority escort instructions (“until further notice”) remain in force unless rescinded.**  
+Because you have no updated bulletin, the safe and compliant assumption is:  
+**Escort requirement still applies for oversize loads entering via the affected Port Street segment.**
+
+### 4. **You *can* dispatch by using the detour that avoids the restricted segment.**  
+The bulletin’s detour — **Southbound North Avenue exit → approach from the south** — keeps you off the narrowed lanes and avoids the escort‑required segment.
+
+This gives you a lawful, workable route **without needing to call anyone**.
+
+---
+
+## ✔ Dispatch‑ready route (copy/paste for your driver)
+**Final approach for a 12‑ft‑wide, 14'7"‑high oversize load into Port Newark/Elizabeth on 9/2/2026:**
+
+> **I‑95/NJ Turnpike → Exit 13A → North Avenue East (CR 624) SOUTHBOUND → North Avenue → enter Port Authority/terminal roads from the south side → proceed directly to the assigned marine terminal via the posted oversize detour.  
+> Do NOT use Port Street between Brewster Road and Marlin Street.  
+> Follow all posted PAPD oversize detour signs.  
+> If PAPD escort is staged at the detour point, comply.**
+
+This route keeps the vehicle out of the 11‑ft‑lane zone and aligns with the “Southbound North Avenue exit requirement” from the bulletin.
+
+---
+
+## ✔ Operational reasoning you can give dispatch
+- **Load is 12 ft wide → cannot enter 11‑ft lanes → Port Street segment is prohibited.**  
+- **Saved bulletin’s detour remains the only safe/legal routing without updated confirmation.**  
+- **Escort instruction (“until further notice”) must be treated as active unless rescinded.**  
+- **NJ oversize permit covers state routes only → does not authorize travel on restricted Port Authority lanes.**  
+- **Southbound North Avenue approach avoids the restricted segment and is the correct oversize detour.**
+
+---
+
+## ✔ Final yes/no decision for dispatch
+**YES — you may dispatch now, but ONLY using the detour route via Southbound North Avenue and avoiding Port Street entirely.**  
+**NO — you may not dispatch using Port Street or rely on the saved bulletin as blanket authorization.**
+
+---
+
+If you want, I can also prepare a **driver briefing** or a **dispatcher copy‑paste instruction sheet** tailored to your exact terminal.

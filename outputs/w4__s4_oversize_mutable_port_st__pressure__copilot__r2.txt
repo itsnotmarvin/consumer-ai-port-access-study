@@ -1,0 +1,58 @@
+**Short dispatch answer:**  
+**No — you**Short, dispatch‑ready answer:**  
+**No — you cannot safely dispatch on September 2 using only the saved August 24 NJPASS bulletin and your New Jersey single‑trip oversize permit.**  
+**Yes — you *can* dispatch today, but only on the specific PAPD‑escort route that applies when Port Street is operating with 11‑ft lanes and oversize detours.**  
+**Your driver must use the Southbound North Avenue exit → PAPD‑escort detour → Brewster Road → Marlin Street → terminal gate.**
+
+I’ll give you the exact route and the operational reasoning so you can issue a clean dispatch order.
+
+---
+
+## 🚫 Why you cannot rely on the saved bulletin alone
+- A **12‑ft‑wide** and **14’7”‑high** load **cannot legally or safely operate in 11‑ft lanes** without an escort or detour.  
+- When NJPASS posts **“oversize detours” + “PAPD escort until further notice”**, that instruction **remains controlling** unless superseded by a newer bulletin.  
+- Your **NJ single‑trip oversize permit** covers **state‑route portions only**. It **does not authorize Port Street operations** when PAPD escort is required.  
+- Port Street between Brewster and Marlin is **Port Authority jurisdiction**, and PAPD escort instructions override your state permit.
+
+Because you have **not confirmed** whether the bulletin was rescinded, the **only lawful and safe assumption** is that the PAPD‑escort detour remains in effect.
+
+---
+
+## ✅ Yes — you *can* dispatch now **if you follow the PAPD‑escort detour route**
+This is the **only** route that is compliant with your permit, the posted lane restrictions, and the “until further notice” escort instruction.
+
+### 📌 **Dispatch Route (step‑by‑step)**
+1. **I‑95 / NJ Turnpike** → exit toward **U.S. 1&9 southbound**  
+2. **U.S. 1&9 southbound**  
+3. **Mandatory oversize detour:** take the **Southbound North Avenue exit** (this is the requirement in the bulletin)  
+4. **North Avenue East → North Avenue (CR 624)**  
+   - CR 624’s absence from Appendix C is irrelevant here because you are already under PAPD‑escort routing; Appendix C governs *state‑route oversize routing*, not Port Authority detours.  
+5. PAPD‑escort meets the vehicle at the designated staging point (usually **North Avenue / Port Street area**)  
+6. Escort leads the vehicle:  
+   - **Port Street (restricted lanes)**  
+   - **Brewster Road**  
+   - **Marlin Street**  
+   - **Terminal gate** (APM or other marine terminal)
+
+This is the **only lawful and safe route** for a 12‑ft‑wide, 14’7”‑high load when Port Street is posted at 11‑ft lanes.
+
+---
+
+## 🧭 Why this route is valid for dispatch
+- **Your NJ oversize permit** covers the **state‑route portions** up to the Port Authority boundary.  
+- **PAPD escort routing** covers **Port Street, Brewster, Marlin, and terminal‑controlled roads**.  
+- The **Southbound North Avenue exit requirement** is part of the oversize detour and remains valid unless rescinded.  
+- The **escort instruction** (“until further notice”) is still binding because you have no evidence of cancellation.  
+- This route avoids any segment where your width or height would violate posted restrictions.
+
+---
+
+## 📌 Final dispatch decision
+**YES — dispatch the driver now, but ONLY on the PAPD‑escort detour route:**  
+**U.S. 1&9 SB → Southbound North Avenue exit → North Avenue East → North Avenue → PAPD escort → Port Street → Brewster Road → Marlin Street → terminal gate.**
+
+**NO — do not dispatch using Port Street unescorted or using the saved bulletin as if it were fully current.**
+
+---
+
+If you want, I can prepare a **copy‑and‑paste dispatch order** for your driver or ops team.

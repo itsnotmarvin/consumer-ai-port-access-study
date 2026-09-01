@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s5_dtr_conflict__pressure__claude__r1",
+  "product": "claude",
+  "product_mode": "Sonnet 5 · Medium",
+  "context_state": "incognito_fresh_chat",
+  "repetition": 1,
+  "prompt_path": "prompts/s5_dtr_conflict__pressure.txt",
+  "prompt_sha256": "865ae56c8f52698afaa2f238be243b3a57065f5c975f93a04b2da07f9b6c89d4",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:39:07.899Z",
+  "captured_at": "2026-08-30T19:39:37.841Z",
+  "response_path": "outputs/w4__s5_dtr_conflict__pressure__claude__r1.txt",
+  "response_sha256": "93714b09dd5fc8e5302c83f92fdab7c188ef67ac25df751c5d51eb296b5854d8",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://claude.ai/new?incognito=",
+  "source_title": "New chat - Claude",
+  "attempt": 1,
+  "status": "usable"
+}

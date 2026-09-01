@@ -1,0 +1,33 @@
+**No, you cannot dispatch the truck on that specific proposed route without knowing its dimensions.**
+
+CR 624’s absence from N.J.A.C. 16:32 Appendix C does **not** automatically prohibit the truck from using it, but because you do not know the semitrailer length or width, you cannot confirm that the truck is legally compliant on county roads.
+
+---
+
+### Key Legal & Routing Mechanics
+
+1. **Why Appendix C's Absence Does Not Block Access**
+* Under **N.J.A.C. 16:32**, New Jersey maintains a designated network (Appendices A, B, and C) for **large trucks** (102-inch wide standard trucks and 53-foot trailers).
+* Vehicles traveling off the designated network are granted **"reasonable access"** to terminals (like APM Terminals Elizabeth) via local or county roads by the shortest direct route, provided the destination cannot be reached via the network alone and the road is not locally restricted.
+* If your vehicle measures **96 inches wide with a 48-foot trailer** (or smaller), it is not restricted to the Appendix C network and can operate on any unrestricted county/local route without an oversize permit.
+
+
+2. **Why You Cannot Dispatch Right Now**
+* **Dimension Unknowns:** If the trailer is **102 inches wide** or **53 feet long**, it relies strictly on the STAA/NJ Reasonable Access Rules. If it is 96 inches wide and 48 feet long, state truck network rules do not apply to it.
+* **Sub-Optimal Approach:** While U.S. 1/9 to North Avenue (CR 624) is a standard port approach, dispatching a driver onto county and municipal streets with unknown dimensions risks non-compliance with municipal/county weight, length, or turning radius restrictions.
+
+
+
+---
+
+### Immediate Action to Fix the Dispatch
+
+You do not need to call multiple state agencies, but you must take two quick steps to send the driver legally:
+
+1. **Confirm Vehicle Dimensions (Width & Trailer Length):**
+* **If $\le 96\text{ inches wide}$ and $\le 48\text{ ft trailer}$:** Dispatch immediately via the proposed route (no permit or special network status needed).
+* **If $102\text{ inches wide}$ or $53\text{ ft trailer}$:** Re-route the driver via the designated highway exit to avoid local route ambiguity.
+
+
+2. **Reroute to standard Port Elizabeth Highway Access:**
+Instead of pulling off U.S. 1/9 onto North Ave (CR 624), direct the driver to access the port via **NJ Turnpike Exit 13A** directly onto the Port Elizabeth terminal access roadways. This places the truck directly on designated port access corridors without relying on unlisted county road exceptions.

@@ -1,0 +1,43 @@
+**Dispatch answer: NO — do not dispatch on the stated route based on the New Jersey annual ocean-borne-container permit alone. Separate approvals are required unless you already have documentary proof that the relevant road authorities have expressly approved this particular movement.**
+
+Here is the controlling distinction:
+
+* Your **88,000-lb, five-axle sealed international container move is within the basic limits of the NJ annual ocean-borne permit**: the regulation allows up to **90,000 lb gross**, with no more than **38,000 lb on a tandem**. Your 38,000/38,000 tandem weights therefore fit that permit category. ([New Jersey State Website][1])
+* But the annual permit **does not automatically authorize every road on the trip**. NJ's permit rule expressly says a permit is **not valid on any toll road without the express approval of the tolling authority**, specifically including the New Jersey Turnpike Authority for the Turnpike and Parkway. ([New Jersey State Website][1])
+* Therefore, **the NJ Turnpike portion requires NJ Turnpike Authority authorization** unless the permit/permit records you possess contain that express authorization. The fact that the annual permit is issued by NJ does not itself constitute that approval. ([New Jersey State Website][1])
+* The same NJ permit does **not grant blanket authority over county or municipal roads**. NJDOT's own research explains that state OS/OW permits do not cover locally owned roads; authorization for roads outside NJDOT jurisdiction comes from the agency having jurisdiction. ([New Jersey State Website][2])
+* The Port Newark–Elizabeth marine-terminal road system is a separate jurisdictional issue. The Port Authority's current tariff expressly addresses overweight cargo on **Marine Terminal Highways**, allowing containerized shipments up to 128,000 lb subject to manufacturer safe-working-load limits, but that is a **Port Authority terminal-road rule**, not language that turns an NJ annual permit into a universal authorization for every approach road. ([Port Authority NY-NJ][3])
+* In fact, the Port Authority's current materials identify the **Port Newark/Elizabeth and Doremus Avenue overweight corridor** separately and describe those designated roadways as permitting marine containerized cargo up to 128,000 lb. ([Port Authority NY-NJ][4])
+* APM's own Elizabeth directions confirm that the normal approach uses the **NJ Turnpike → Exit 13A → North Avenue → McLester Street → terminal**, so your proposed route really does cross multiple road jurisdictions rather than being wholly within one permit jurisdiction. ([APM Terminals][5])
+
+### What this means for your 9/2/2026 dispatch
+
+| Segment                                                | NJ annual ocean-container permit by itself?                                                           |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| NJDOT-controlled state highways, if otherwise eligible | **Yes**, subject to the permit's restrictions                                                         |
+| NJ Turnpike                                            | **No — express NJTA approval required**                                                               |
+| County/local roads                                     | **No blanket coverage**; road-owner authorization required where overweight authorization is required |
+| Port Authority Marine Terminal highways                | **Not automatically by the NJ permit**; Port Authority rules/permission govern                        |
+| APM-controlled/private terminal areas                  | **Not supplied by the NJ state permit**; terminal access/operating requirements still apply           |
+
+The particularly important point is that the current NJ regulation says an overweight permit **“shall not be valid” on a toll road without the tolling authority's express approval**. That makes this more than a precautionary recommendation. ([New Jersey State Website][1])
+
+Also, don't confuse the **Port Support Zone concept** with your annual permit. Proposed legislation over the years has contemplated a special Port Support Zone permit, but the legislation located in the legislative record was introduced legislation rather than something I can treat as creating a blanket authorization for your trip. ([LegiScan][6])
+
+### Bottom line for dispatch
+
+**NO — if all you have in hand is the current NJ Annual Ocean Borne Containerized Cargo Multiple-Trip Permit, I would not dispatch the 88,000-lb load over the proposed route.**
+
+Dispatch it **only after the file contains the required express authorization(s)** for the NJ Turnpike and any overweight county/local/Port Authority-controlled portions of the actual route. The 88,000-lb weight itself is within the annual NJ ocean-container permit's 90,000-lb ceiling, so **the problem is route/jurisdictional authority, not the 88,000-lb gross weight.** ([New Jersey State Website][1])
+
+For the terminal portion, APM Terminals Elizabeth also states that its facility enforces applicable federal/state/DOT requirements **plus its own terminal rules**, so possession of the NJ permit should not be treated as a substitute for terminal authorization or compliance. ([APM Terminals][7])
+
+**Practical dispatch instruction: HOLD — obtain/verify the express NJ Turnpike and other non-NJDOT jurisdiction approvals for the exact route before movement.**
+
+[1]: https://www.nj.gov/transportation/about/rules/documents/13-18-Current.pdf "13-18 Permits for Overdimensional or Overweight Vehicles"
+[2]: https://www.nj.gov/transportation/business/research/reports/NJ-2013-001.pdf?utm_source=chatgpt.com "NJDOT Bureau of Research"
+[3]: https://www.panynj.gov/content/dam/corporate/Port%20Authority%20Marine%20Terminal%20Tariff%20FMC%20Schedule%20No.%20PA%2010%20Final%203.31.26.pdf?utm_source=chatgpt.com "SUBRULE 34-045: MARINE TERMINAL HIGHWAY"
+[4]: https://www.panynj.gov/content/dam/port/customer-library-pdfs/facilities-map.pdf?utm_source=chatgpt.com "PA Port Facility Map Back 3-30-20"
+[5]: https://www2.apmterminals.com/en/port-elizabeth/contact/contact-and-directions?utm_source=chatgpt.com "Contact & directions - APM Terminals"
+[6]: https://legiscan.com/NJ/text/A2031/id/2893063?utm_source=chatgpt.com "Bill Text: NJ A2031 | 2024-2025 | Regular Session | Introduced | LegiScan"
+[7]: https://www2.apmterminals.com/en/mobile/practical-information/safety?utm_source=chatgpt.com "Safety - APM Terminals"

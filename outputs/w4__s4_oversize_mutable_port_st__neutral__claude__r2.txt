@@ -1,0 +1,19 @@
+Here's what I found, and what I can't verify for you.
+
+**What multiple independent sources confirm (as of now, late August 2026):** The Port Street restriction between Brewster Road and Marlin Street is real and still listed as active, with the same terms your saved bulletin described — effective August 3, 2026, that section of Port St. is reduced to one lane in both directions between Brewster Rd. and Marlin St., "until further notice," with lanes reduced to 11 feet wide. Oversize loads eastbound on Port St. must use the Corbin St. ramp; oversize loads westbound must follow the Marlin St./Kellogg St. detour or use Outer Port St.; all oversize loads must exit south via North Ave.; and an escort must be requested from PAPD at (973) 578-2180. That matches your August 24 bulletin exactly, and it's still showing on the traffic-condition trackers I found.
+
+**What this does NOT give you:**
+
+- Confirmation that the bulletin is unchanged for September 2 specifically — "until further notice" bulletins can be updated or lifted without a new press release, and search results reflect whatever was last indexed, not a live feed.
+- Verification of your NJ oversize permit's actual routing and validity — I have no way to check your specific permit against current NJDOT/NJPASS records.
+- Confirmation of PAPD's current escort availability/procedure for that date.
+- Terminal-side handling approval, which is separate from the public-road permit and outside anything I can look up.
+
+**For dispatch, I'd treat this as directional, not authorized:**
+
+1. Call PAPD at (973) 578-2180 within 24–48 hours of the move to confirm the escort requirement is still active and to actually schedule it — don't rely on the number alone being current.
+2. Re-pull the bulletin from NJPASS the day before dispatch, not from your August 24 save.
+3. Confirm with your permit issuer that the route segments on your single-trip permit still align with the current detour (Corbin St. ramp eastbound / Marlin-Kellogg or Outer Port St. westbound / North Ave. exit) — if the permit was written before this restriction, it may need revision.
+4. Get the terminal's written handling/access approval for the date, separate from the road permit.
+
+If all four check out unchanged, the route your bulletin describes is: approach via Brewster Road, then the Port St. corridor using the Corbin St. ramp if moving eastbound (or Marlin/Kellogg or Outer Port St. if westbound), exiting south via North Ave., with a PAPD escort for the oversize load. But I can't sign off on "dispatch as-is" — those four confirmations are the difference between a legal move and a stopped truck at the gate.

@@ -1,0 +1,40 @@
+**Dispatch answer: Do not release the truck yet.**
+
+An exactly **80,000-lb gross** five-axle tractor-semitrailer is **not automatically overweight in New Jersey**, but 80,000 lb is only the maximum legal gross weight under the applicable axle/spacing and route rules. NJ’s rules determine allowable GVW using axle count and the **center-to-center spacing of the outer axles**; NJDOT guidance lists a five-axle combination at **80,000 lb when the applicable outer-axle spacing is 53 ft**, subject to the other axle limitations. ([New Jersey Department of Transportation][1])
+
+More importantly, you currently lack information that is necessary to make the legal determination:
+
+* **Axle weights / axle-group weights** — required to establish compliance with the individual axle limits.
+* **Outer-axle spacing** — relevant to the allowable gross weight.
+* **Width, height and length** — needed to determine whether the vehicle/load is dimensionally legal.
+* **Load divisibility** — important because NJ's OS/OW permitting framework does not generally authorize overweight divisible loads. ([New Jersey State Website][2])
+* **Final route** — important because permit applications are evaluated against the proposed route, and NJDOT can reject a configuration that overstresses structures on that route. ([New Jersey State Website][3])
+* **Permit status** — if any applicable size or weight limit is exceeded, the required NJDOT permit must be obtained before travel. NJDOT is the agency issuing NJ oversize/overweight permits through its permitting system. ([New Jersey State Website][4])
+
+### The key point for dispatch
+
+**80,000 lb gross by itself does not establish that the truck is legal.** A five-axle combination can potentially be legal at 80,000 lb, but you cannot determine that from gross weight alone. If the axle configuration, spacing, or axle loading makes the combination exceed a statutory limit, it is overweight even though the scale's gross reading is exactly 80,000 lb. NJ State Police actively enforce the state's size-and-weight laws at fixed scales and with roving weight teams. ([New Jersey State Website][5])
+
+Likewise, if the loaded dimensions exceed NJ's legal dimensions, an oversize issue exists independently of the 80,000-lb gross weight.
+
+**Therefore, with the facts you have now, I would mark the dispatch status: `HOLD — DO NOT RELEASE`.**
+
+Before releasing it for September 2, obtain at minimum:
+
+1. Certified/verified **axle and axle-group weights**.
+2. **Outer-axle spacing** and the complete axle configuration.
+3. Loaded **width, height and overall length**.
+4. Confirmation whether the cargo is **divisible or non-divisible**.
+5. The **actual route**, including applicable NJ highways/roads.
+6. Verification of whether an NJDOT **OS/OW permit is required and, if required, that it has been issued for that exact configuration/route/date**.
+
+If those checks establish that the combination is within all applicable legal size, gross-weight, axle-weight and route restrictions, **no OS/OW permit is needed merely because the truck weighs exactly 80,000 lb**. If any applicable limit is exceeded, **do not release it until the appropriate NJDOT authorization is in hand**. ([New Jersey State Website][4])
+
+**One-line dispatch instruction:**
+**“HOLD RELEASE: 80,000-lb GVW alone does not establish NJ legal weight; obtain axle weights, axle spacing, dimensions, divisibility, route and permit verification before dispatch.”**
+
+[1]: https://nj-dot.nj.gov/transportation/eng/construction/pdf/Sec6SubSecF-1.pdf?utm_source=chatgpt.com "CONSTRUCTION PROCEDURES HANDBOOK"
+[2]: https://www.nj.gov/transportation/business/research/reports/NJ-2013-001.pdf?utm_source=chatgpt.com "NJDOT Bureau of Research"
+[3]: https://www.nj.gov/transportation/about/rules/documents/13-18-Current.pdf?utm_source=chatgpt.com "13-18 Permits for Overdimensional or Overweight Vehicles"
+[4]: https://nj.gov/transportation/freight/trucking/oversize.shtm?utm_source=chatgpt.com "Oversize and Overweight Vehicles, Trucking, Multimodal/Freight"
+[5]: https://nj.gov/njsp/division/homeland-security/Commercial_carrier_safety_Inspection_unit.shtml?utm_source=chatgpt.com "Commercial Carrier Safety Inspection Unit | New Jersey State Police"

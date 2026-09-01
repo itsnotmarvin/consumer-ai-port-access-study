@@ -1,0 +1,62 @@
+**Clear dispatch answer:**  
+Yes — you **can release the truck**. A standard five‑axle tractor‑semitrailer running at **legal 80,000 lb** may use **U.S. 1&9 SB → North Avenue East → North Avenue (CR 624) → local streets → APM Elizabeth** **without any NJ oversize permit**, and **CR 624’s absence from Appendix C does *not* prohibit use** by a legal‑dimension, legal‑weight vehicle.
+
+---
+
+## ✔ Why CR 624 *is still legal* for your truck  
+The key regulatory point:  
+**N.J.A.C. 16:32 Appendix C lists *designated routes for oversize/overweight permit loads*.**  
+It does **not** list every road that legal‑size, legal‑weight trucks may use.
+
+Your combination is:  
+- Nonhazardous  
+- Five axles  
+- Legal 80,000 lb  
+- Ordinary NJ axle spacings  
+- No known oversize dimensions  
+- Standard semitrailer configuration  
+- DTR‑verified with valid RFID  
+- Appointment and driver credentials satisfied  
+
+Because you are **not oversize** and **not overweight**, you are **not required** to use Appendix C routes.  
+Therefore, **CR 624’s absence from Appendix C has no effect** on your legal ability to operate there.
+
+If you want a deeper explanation of Appendix C’s purpose, choose **Appendix C meaning**.
+
+---
+
+## ✔ Route legality for dispatch  
+For a legal 80,000‑lb 5‑axle combination:
+
+- **U.S. 1 & 9 SB** — fully legal truck route  
+- **North Avenue East → North Avenue (CR 624)** — legal for standard trucks; restrictions apply only to oversize/overweight permit loads  
+- **Local streets to APM Elizabeth** — standard drayage approach used daily  
+- No NJ oversize permit required  
+- No NJ overweight permit required  
+- No Port Authority overweight‑zone permit required  
+
+If you want confirmation of NJ oversize thresholds, choose **oversize thresholds**.
+
+---
+
+## ✔ Operational caveat (does *not* block dispatch)  
+You have not yet confirmed:  
+- Loaded width  
+- Loaded height  
+- Semitrailer length  
+- Temporary local restrictions (construction, closures)
+
+These matter **only if** the load turns out to be oversize.  
+For a normal container or dry van move, these dimensions are almost always legal (102" width, 13'6" height, standard length).  
+Unless you have reason to suspect an oversize condition, **you can dispatch now**.
+
+If you want a quick dimension check workflow, choose **dimension check**.
+
+---
+
+## ✔ Dispatch‑ready one‑liner  
+“Legal 80,000‑lb 5‑axle tractor‑semitrailer may run **1&9 SB → North Ave East → North Ave (CR 624) → local streets → APM Elizabeth** without NJ oversize/overweight permits. CR 624’s absence from Appendix C does not restrict legal‑dimension trucks. Release the truck.”
+
+---
+
+If you want, I can also prepare a **driver checklist** or a **dispatch SMS**.

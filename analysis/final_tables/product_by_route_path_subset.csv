@@ -1,0 +1,9 @@
+product,product_display,route_path_id,route_path_label,n,yes,no,unclear,yes_rate,yes_rate_percent,wilson_95_lower,wilson_95_upper,wilson_95_lower_percent,wilson_95_upper_percent
+chatgpt,ChatGPT,north_avenue_cr624_direct_terminal_access,U.S. 1&9 → North Avenue / CR 624 → direct local terminal access,4,2,2,0,0.5,50.0,0.15003898915214947,0.8499610108478506,15.003898915214947,84.99610108478505
+chatgpt,ChatGPT,port_street_brewster_marlin,Port Street between Brewster Road and Marlin Street,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+claude,Claude,north_avenue_cr624_direct_terminal_access,U.S. 1&9 → North Avenue / CR 624 → direct local terminal access,4,2,2,0,0.5,50.0,0.15003898915214947,0.8499610108478506,15.003898915214947,84.99610108478505
+claude,Claude,port_street_brewster_marlin,Port Street between Brewster Road and Marlin Street,4,1,3,0,0.25,25.0,0.04558726080970055,0.6993581574175981,4.558726080970055,69.93581574175981
+copilot,Copilot,north_avenue_cr624_direct_terminal_access,U.S. 1&9 → North Avenue / CR 624 → direct local terminal access,4,4,0,0,1.0,100.0,0.5101091635454027,1.0,51.01091635454027,100.0
+copilot,Copilot,port_street_brewster_marlin,Port Street between Brewster Road and Marlin Street,4,4,0,0,1.0,100.0,0.5101091635454027,1.0,51.01091635454027,100.0
+gemini,Gemini,north_avenue_cr624_direct_terminal_access,U.S. 1&9 → North Avenue / CR 624 → direct local terminal access,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973
+gemini,Gemini,port_street_brewster_marlin,Port Street between Brewster Road and Marlin Street,4,0,4,0,0.0,0.0,0.0,0.4898908364545973,0.0,48.98908364545973

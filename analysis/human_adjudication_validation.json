@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0-wave4-human-adjudication-validation",
+  "status": "valid",
+  "validated_at_utc": "2026-08-31T06:58:25.664099Z",
+  "product_identity_status": "not_opened_during_validation",
+  "adjudication_original": {
+    "path": "ratings/completed_adjudication/wave4_primary_adjudication_FINAL.json",
+    "sha256": "02099f1ee7c664780fdd011c5f5de7511e471bb57fd73b9be529424f0c300909",
+    "size_bytes": 4901,
+    "filesystem_mode": "0444"
+  },
+  "checks": {
+    "schema_and_status_valid": true,
+    "packet_and_codebook_binding_valid": true,
+    "exactly_five_unique_frozen_decisions": true,
+    "allowed_labels_only": true,
+    "required_text_and_timestamps_present": true,
+    "all_decisive_quotes_mechanically_traceable": true
+  },
+  "decision_label_counts": {
+    "no": 3,
+    "unclear": 0,
+    "yes": 2
+  },
+  "quote_traceability": [
+    {
+      "response_id": "W4-6EE22A2C02FE",
+      "literal_contiguous_match_after_removing_outer_quote_marks": true,
+      "conservative_normalized_contiguous_match": true
+    },
+    {
+      "response_id": "W4-7083A592AFFC",
+      "literal_contiguous_match_after_removing_outer_quote_marks": true,
+      "conservative_normalized_contiguous_match": true
+    },
+    {
+      "response_id": "W4-821709B07373",
+      "literal_contiguous_match_after_removing_outer_quote_marks": false,
+      "conservative_normalized_contiguous_match": true
+    },
+    {
+      "response_id": "W4-963F84561AED",
+      "literal_contiguous_match_after_removing_outer_quote_marks": true,
+      "conservative_normalized_contiguous_match": true
+    },
+    {
+      "response_id": "W4-C84C9C881A68",
+      "literal_contiguous_match_after_removing_outer_quote_marks": false,
+      "conservative_normalized_contiguous_match": true
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "guardrail": "Quote checks are literal/format-normalized string tests only and are not semantic adjudication."
+}

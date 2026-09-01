@@ -1,0 +1,53 @@
+**Clear dispatch answer: No.** The New Jersey Annual Ocean Borne Containerized Cargo Multiple-Trip Permit does **not** by itself authorize the entire trip, and you should **not dispatch on the assumption that it covers Port Authority-controlled roads/bridges or toll facilities without their separate approval.**
+
+For your stated load, the NJ annual permit is otherwise within its basic weight envelope:
+
+* Gross: **88,000 lb ≤ 90,000 lb**
+* Tractor tandem: **38,000 lb ≤ 38,000 lb**
+* Trailer tandem: **38,000 lb ≤ 38,000 lb**
+* Sealed international ocean container: qualifying type
+* Legal dimensions: consistent with the annual ocean-container permit's dimensional limitation. ([New Jersey State Website][1])
+
+But there is an important limitation that answers your question directly: **N.J.A.C. 13:18-1.9 expressly says an overweight permit is not valid on a toll road without the express approval of the applicable tolling authority.** It specifically names the New Jersey Turnpike Authority for the New Jersey Turnpike and Garden State Parkway. ([New Jersey State Website][1])
+
+### What that means for your September 2 dispatch
+
+| Part of trip                                                  | NJ annual ocean-container permit alone?                                                      |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| NJ state/local roads where the permit is otherwise applicable | **Generally yes**, subject to routing/structural restrictions                                |
+| **New Jersey Turnpike**                                       | **No — express NJ Turnpike Authority approval required**                                     |
+| County/local connecting roads                                 | **Not automatically overridden**; applicable local routing/weight restrictions still control |
+| Port Authority-controlled facility/bridge                     | **No — separate Port Authority requirements can apply**                                      |
+| APM/Port Authority marine-terminal access                     | **No — terminal/Port Authority access requirements remain applicable**                       |
+
+NJ's routing rules themselves distinguish the National Network, state/access-network roads and local roads; reaching a terminal can provide access to otherwise restricted roads in appropriate circumstances, but that does **not** turn a state overweight permit into a blanket authorization from every road owner. ([New Jersey State Website][2])
+
+### Particularly important: Port Authority
+
+The Port Authority's own trucker guidance is unusually explicit about overweight sealed ocean containers. For the **Goethals Bridge**, it says the process is:
+
+1. Have the valid NJ Annual Ocean Borne Containerized Cargo permit.
+2. **Obtain a separate, coterminous annual Port Authority authorization letter** by submitting the NJ permit to the Port Authority.
+3. For the actual crossing, obtain the required crossing/time permission from the bridge communications desk. 
+
+So the Port Authority treats the NJ permit and the Port Authority authorization as **two separate things**, not as one permit that automatically confers the other's authority.
+
+The Port Authority's marine-terminal tariff also separately regulates overweight/overdimensional movement on marine-terminal highways. It allows containerized shipments up to **128,000 lb GVW**, subject to manufacturer safe-working-load limits, but that is a **Port Authority facility rule**, not a statement that an NJDOT permit grants access. 
+
+### One important distinction
+
+Your **88,000-lb** combination is legal under the NJ annual ocean-container permit's 90,000-lb ceiling, but that doesn't make it "legal everywhere." The annual permit itself says travel cannot use structures that NJDOT identifies as restricted for these ocean-container combinations; if such a route cannot be avoided, a **single-trip permit** is required. ([New Jersey State Website][1])
+
+**Bottom line for dispatch:**
+
+> **Do not dispatch this 88,000-lb load on the proposed route based solely on the NJ Annual Ocean Borne Containerized Cargo Multiple-Trip Permit. Before dispatch, confirm/obtain the NJ Turnpike Authority's express approval for the Turnpike portion and any required separate Port Authority authorization for the Port Authority-controlled portion, including the applicable bridge/terminal requirements. Also verify that the exact county/local route and the structures on it are authorized for the combination.**
+
+The Port Authority's current trucker guide specifically says its overweight authorization process requires the NJ annual permit **plus** the Port Authority authorization; its guide was revised August 2025, so I would use that rather than assuming the NJ permit has superseded it. 
+
+[NJDOT Oversize/Overweight Permit Information](https://nj.gov/transportation/freight/trucking/oversize.shtm?utm_source=chatgpt.com)
+[Port Authority Truckers Resource Guidebook](https://www.panynj.gov/content/dam/port/shipping/port-truckers-resource-guidebook.pdf?utm_source=chatgpt.com)
+
+**Dispatch-safe rule:** if you do not already have the separate Port Authority authorization and the applicable toll-authority approval documented for this route, **hold the dispatch until those approvals are confirmed.**
+
+[1]: https://www.nj.gov/transportation/about/rules/documents/13-18-Current.pdf "13-18 Permits for Overdimensional or Overweight Vehicles"
+[2]: https://www.nj.gov/transportation/freight/trucking/routing.shtm "Truck Routing, Trucking, Multimodal/Freight"

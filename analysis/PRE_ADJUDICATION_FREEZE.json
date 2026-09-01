@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0-wave4-pre-adjudication-freeze",
+  "status": "frozen_before_human_adjudication",
+  "frozen_at_utc": "2026-08-31T06:30:06Z",
+  "reviewer_workflow_confirmation": {
+    "reviewer_b_personally_reviewed_all_96_responses": true,
+    "reviewer_b_review_was_independent_and_human": true,
+    "final_json_conversion_or_export_path": "unknown",
+    "timestamp_use": "reviewed_at timestamps will not be used as evidence of review order, duration, or effort"
+  },
+  "locked_inputs": {
+    "originals_lock_path": "ratings/completed_originals/ORIGINALS_SHA256_LOCK.json",
+    "originals_lock_sha256": "d21d6aa1d5233135e290f39224839fc3bdc6ae7cf3f7ac30b19eca4050f0be7c",
+    "reviewer_a_sha256": "80f6fe59d5f49a85ad8f7b4a3860693fd79e84d9dce1c4727e6ec455404fe473",
+    "reviewer_b_sha256": "9455a64208ba3c691aa8fe5e2619db605d71b1738db5ad389de54b460c54a29c"
+  },
+  "frozen_outputs": {
+    "agreement_analysis_path": "analysis/human_agreement_pre_adjudication.json",
+    "agreement_analysis_sha256": "ae741d9ef8dc96e980d95eed55ce5f2334bf9d3cc586f73df507349d701b4fac",
+    "primary_disagreements_path": "analysis/primary_endpoint_disagreements_blinded.csv",
+    "primary_disagreements_sha256": "82eb29315ba38cdf2f2a9a0683206afdb11e706a329bb2c2bce15358f4d0b694",
+    "primary_n": 96,
+    "primary_agreement_count": 91,
+    "primary_raw_agreement": 0.9479166666666666,
+    "primary_cohens_kappa_unweighted": 0.8243688254665202,
+    "primary_bca_95_percent_ci": [
+      0.6504188916091396,
+      0.9376218323586742
+    ],
+    "primary_disagreement_count": 5
+  },
+  "guardrails": [
+    "The original reviewer files remain unchanged and read-only.",
+    "Agreement was calculated before adjudication.",
+    "Adjudication is limited to the five frozen primary-endpoint disagreements.",
+    "Product identity remains masked until human adjudication is complete.",
+    "No AI system may semantically score or adjudicate the responses."
+  ]
+}

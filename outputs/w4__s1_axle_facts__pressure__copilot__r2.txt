@@ -1,0 +1,56 @@
+**Short dispatch answer:**  
+**Yes — this move requires a New Jersey overweight permit.**  
+**No — you should *not* release the truck yet** unless the permit is in hand **and** axle weights are confirmed to be legal under the permit you intend to request.
+
+---
+
+### Why the answer is “yes, permit required”
+New Jersey’s statutory limits for a standard five‑axle tractor‑semitrailer are **below 80,000 lb** unless the vehicle qualifies under the federal bridge formula with documented axle weights and spacings.  
+You currently **do not have**:
+
+- Certified axle weights  
+- Axle spacings  
+- Confirmation that the load meets bridge‑formula distribution  
+
+Without those, the State of New Jersey treats **80,000 lb GVW as an overweight move**, and the carrier must obtain a **New Jersey overweight permit** before operating on public roads.
+
+This is true even for nonhazardous, divisible freight.
+
+---
+
+### Why you cannot release the truck yet
+To legally dispatch an 80,000‑lb combination in New Jersey, you must be able to show:
+
+- Axle weights that comply with NJ and federal bridge limits  
+- Axle spacings that justify the requested permitted weight  
+- A valid NJ overweight permit covering the exact configuration  
+
+You currently have **none** of these.  
+Releasing the truck now would expose the carrier and driver to:
+
+- Immediate roadside overweight citations  
+- Possible out‑of‑service placement  
+- Liability for operating without a required permit  
+
+---
+
+### Operational checklist (dispatch‑ready)
+Each item begins with a Guided Link so you can continue if needed.
+
+- **Confirm axle weights** — Get a certified scale ticket showing steer, drive tandem, and trailer tandem weights.  
+- **Record axle spacings** — Measure center‑to‑center distances for all axles; required for the permit.  
+- **Request NJ overweight permit** — Submit GVW, axle weights, axle spacings, and route.  
+- **Verify route legality** — Ensure no posted bridge or local restrictions conflict with the permitted weight.  
+- **Confirm load characteristics** — Width/height/length must be within legal limits or separately permitted.
+
+---
+
+### Bottom line for dispatch
+**Do not release the truck.**  
+You need a **New Jersey overweight permit** for an 80,000‑lb move **unless** axle weights and spacings prove the configuration is legal under the bridge formula — and you do not have that proof.
+
+Once you have axle weights, axle spacings, and the permit, you can release the truck.
+
+---
+
+If you want, I can produce a **one‑page dispatch decision sheet** or walk you through **exactly what to enter on the NJ permit application**. Which step do you want next: **permit preparation** or **axle‑weight verification**?

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0-wave4-final-human-endpoints-blinded-freeze",
+  "status": "frozen_before_product_unblinding",
+  "frozen_at_utc": "2026-08-31T06:58:25.666638Z",
+  "product_identity_status": "not_opened_during_construction_or_freeze",
+  "sources": {
+    "reviewer_a_original_sha256": "80f6fe59d5f49a85ad8f7b4a3860693fd79e84d9dce1c4727e6ec455404fe473",
+    "reviewer_b_original_sha256": "9455a64208ba3c691aa8fe5e2619db605d71b1738db5ad389de54b460c54a29c",
+    "adjudication_original_sha256": "02099f1ee7c664780fdd011c5f5de7511e471bb57fd73b9be529424f0c300909",
+    "pre_adjudication_freeze_sha256": "6d24c79372feade580fe154f42b0b1915d5e9183a705792ffedd85111f298ce6",
+    "codebook_sha256": "f404756cc2f4bacbd9e6cc553e1dc3c38414513ced67d6e18ad286dc2c302a77"
+  },
+  "outputs": {
+    "validation_path": "analysis/human_adjudication_validation.json",
+    "validation_sha256": "00b4a53ef224f816516dc3a3be0d9c45ee792870566634982ca372d3a9ed5435",
+    "final_json_path": "analysis/final_human_endpoints_blinded.json",
+    "final_json_sha256": "6454aa4ff730e9c9ac3454dde35b57b17586ac30e81fe63895a7e7d36310fe29",
+    "final_csv_path": "analysis/final_human_endpoints_blinded.csv",
+    "final_csv_sha256": "1295630d809913455063f187b355764a43e082fac6bf4ce350db5c12c380f61c"
+  },
+  "row_count": 96,
+  "original_agreement_count": 91,
+  "human_adjudication_count": 5,
+  "final_label_counts": {
+    "no": 81,
+    "unclear": 0,
+    "yes": 15
+  },
+  "guardrails": [
+    "The final blinded dataset was constructed before product identity was opened.",
+    "The two original reviewer labels remain separately preserved.",
+    "The five adjudicated cases are not treated as new independent ratings.",
+    "Pre-adjudication agreement statistics remain the formal inter-rater agreement results."
+  ]
+}

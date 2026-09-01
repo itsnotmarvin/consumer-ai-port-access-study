@@ -1,0 +1,29 @@
+**No, you cannot issue a definitive "yes" dispatch decision based on the information provided.** However, CR 624's absence from Appendix C does **not** automatically prohibit the move.
+
+### Crucial Distinction: Network Access vs. Dimensions
+
+Under New Jersey’s large truck routing regulations (N.J.A.C. 16:32), the omission of County Route 624 from Appendix C is not a total legal barrier for this trip:
+
+1. **Terminal Access Provision:** Under N.J.A.C. 16:32, 102-inch wide trucks and standard 53-foot semitrailer combinations are permitted to leave the primary "National Network" system to reach terminals (such as APM Terminals Elizabeth) via direct, reasonable access routes.
+2. **Width & Length Thresholds:** NJ state routing networks specifically regulate **102-inch wide** standard trucks and **53-foot** semitrailers. Standard 96-inch wide trucks or shorter trailers (e.g., 48-foot or 40-foot ocean containers) are generally not restricted by N.J.A.C. 16:32 network limits and can legally use local routes unless local weight/geometry restrictions apply.
+
+### Why You Cannot Dispatch Immediately
+
+While N.J.A.C. 16:32 allows terminal access, you lack three critical pieces of information required to confirm legal clearance without an oversize permit:
+
+* **Unknown Load Width & Height:** Standard legal non-permitted limits in New Jersey are **8 feet 6 inches (102 inches) in width** and **13 feet 6 inches in height**. Without confirming the exact loaded dimensions of the container/trailer, you cannot verify that the vehicle is truly non-oversize.
+* **Trailer Length:** If the semitrailer exceeds standard limits (over 53 feet), specialized oversize permits and designated routing are required regardless of weight.
+* **Local & Bridge Clearances:** Local roads near port zones often carry specific municipal/county weight limits, low-clearance rail overpasses, or temporary construction detours.
+
+---
+
+### Actionable Dispatch Checklist
+
+Before releasing the driver, confirm the following items internally:
+
+| Check Item | Requirement | Next Action |
+| --- | --- | --- |
+| **Loaded Width** | $\le 102\text{ in}$ ($8\text{ ft } 6\text{ in}$) | Measure cargo/chassis. If wider, pull an NJDOT Oversize Permit. |
+| **Loaded Height** | $\le 13\text{ ft } 6\text{ in}$ | Confirm total height from road surface to top of container/load. |
+| **Trailer Length** | $\le 53\text{ ft}$ (or $\le 48\text{ ft}$) | Confirm box size. Standard ocean chassis (20', 40', 45') are compliant. |
+| **Local Restrictions** | Clear overheads & turn radii | Verify that the final local turn onto North Ave / Port clearance roads is clear of temporary construction closures. |

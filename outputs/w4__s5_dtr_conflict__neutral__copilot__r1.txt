@@ -1,0 +1,46 @@
+**Short dispatch answer:**  
+**The 2010 diesel *can enter* APM on September 2 *only if* it is already registered and shows as *verified compliant* in the Drayage Truck Registry.**  
+If it is **not** currently verifiable in the DTR, **the terminal must reject it**, because you cannot newly register a 2010 engine after July 2, 2023.
+
+---
+
+## What the tariff actually requires
+### 1. **Engine model year**
+Your tractor is MY2010.  
+Subrule 34‑1140(b) only bans **1998-or-older** engines until 2027.  
+So **your 2010 engine is not disqualified by model year**.
+
+### 2. **Registration status in the DTR**
+This is the decisive factor.
+
+- Subrule 34‑1101 blocks **new registrations** of trucks unless they meet **EPA 2014‑standard engines**.  
+  A 2010 diesel **cannot** meet that standard → **you cannot newly register it today**.
+
+- Subrule 34‑1140(a) requires terminals to deny entry to **any truck that cannot be verified as compliant in the DTR**.
+
+Put together:
+
+> A 2010 diesel **may continue operating only if it was already registered and remains verifiable in the DTR**.  
+> If it is **not currently verifiable**, you cannot fix that now, because new registration is prohibited.
+
+---
+
+## Operational conclusion for dispatch
+### **YES — dispatch only if the truck shows as compliant in the DTR.**  
+### **NO — if the truck does not show as compliant, it will be rejected at APM.**
+
+Since you do not know whether the previous owner updated the ownership or RFID association, the practical question is whether the truck’s **current VIN/RFID record still shows as compliant in PortTruckPass**.
+
+If the record is intact, the terminal will admit it.  
+If the record is missing, mismatched, or unverified, **you cannot correct it**, and the truck **must be rejected**.
+
+---
+
+## What you should verify before dispatch
+- **DTR status** — confirm the VIN/RFID shows “compliant” in PortTruckPass.  
+- **RFID association** — ensure the tag on the truck matches the DTR record.  
+- **Ownership update** — verify whether the prior owner’s registration still carries over.
+
+---
+
+If you want, I can walk you through the exact steps to confirm the truck’s DTR status before you dispatch.

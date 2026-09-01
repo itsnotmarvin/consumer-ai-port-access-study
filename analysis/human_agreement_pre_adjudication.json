@@ -1,0 +1,381 @@
+{
+  "schema_version": "1.0-wave4-pre-adjudication-human-agreement",
+  "status": "agreement_calculated_from_locked_originals_before_adjudication",
+  "generated_at_utc": "2026-08-31T06:23:20.725784Z",
+  "blinding_status": "product identity not opened during this analysis",
+  "join_key": "anonymous response_id",
+  "source_lock": {
+    "path": "ratings/completed_originals/ORIGINALS_SHA256_LOCK.json",
+    "status": "locked_before_cross_reviewer_comparison",
+    "locked_at_utc": "2026-08-31T06:17:14Z",
+    "reviewer_a_sha256": "80f6fe59d5f49a85ad8f7b4a3860693fd79e84d9dce1c4727e6ec455404fe473",
+    "reviewer_b_sha256": "9455a64208ba3c691aa8fe5e2619db605d71b1738db5ad389de54b460c54a29c",
+    "codebook_sha256": "f404756cc2f4bacbd9e6cc553e1dc3c38414513ced67d6e18ad286dc2c302a77"
+  },
+  "validation": {
+    "reviewers": {
+      "A": {
+        "valid": true,
+        "errors": [],
+        "warnings": [
+          "Some decisive_quote values could not be matched mechanically to the verbatim response after conservative formatting normalization; originals remain unchanged."
+        ],
+        "rating_count": 96,
+        "unique_response_id_count": 96,
+        "packet_positions_complete": true,
+        "packet_identity_matches": true,
+        "codebook_hash_matches": true,
+        "locked_sha256": "80f6fe59d5f49a85ad8f7b4a3860693fd79e84d9dce1c4727e6ec455404fe473",
+        "reviewed_at": {
+          "unique_count": 96,
+          "minimum": "2026-08-30T21:15:33.802Z",
+          "maximum": "2026-08-31T06:11:12.569Z",
+          "all_equal_exported_at": false
+        },
+        "quote_traceability": {
+          "exact_contiguous_matches": 57,
+          "exact_contiguous_miss_ids": [
+            "W4-190FDFB2E7FF",
+            "W4-47F1CA3F14F1",
+            "W4-EAB6F8B82FA3",
+            "W4-8E514F05292F",
+            "W4-A8BEC392CE12",
+            "W4-1F14CF01351F",
+            "W4-C84C9C881A68",
+            "W4-3CCB27C8B999",
+            "W4-993F687C9899",
+            "W4-6C138310C4F2",
+            "W4-1FD24C30494E",
+            "W4-B21EB350D171",
+            "W4-14C0643A1EE6",
+            "W4-8601CBC4DCF7",
+            "W4-6E335224C76E",
+            "W4-4D41E8AAFFBF",
+            "W4-96565443B3A8",
+            "W4-FCC8E65A7852",
+            "W4-563801C5022C",
+            "W4-CEEBF6CADCD5",
+            "W4-E9984052F361",
+            "W4-8A3B19592A2B",
+            "W4-02BB93FF3EFD",
+            "W4-B0BFF609C924",
+            "W4-C283C3BB903D",
+            "W4-5774169F8801",
+            "W4-44AFD57DF489",
+            "W4-AC475F01A871",
+            "W4-B5519DA6145C",
+            "W4-A4329D59E6DA",
+            "W4-9AC940DE70AE",
+            "W4-6EE22A2C02FE",
+            "W4-347D287AF39F",
+            "W4-38A3D9374EB0",
+            "W4-9A301F5E65EC",
+            "W4-3307A8C0B13B",
+            "W4-EAE782F41018",
+            "W4-06A62AFD9C0C",
+            "W4-6007CB5A4464"
+          ],
+          "normalized_segment_matches": 86,
+          "normalized_segment_miss_ids": [
+            "W4-8E514F05292F",
+            "W4-A8BEC392CE12",
+            "W4-993F687C9899",
+            "W4-1FD24C30494E",
+            "W4-B21EB350D171",
+            "W4-6E335224C76E",
+            "W4-FCC8E65A7852",
+            "W4-A4329D59E6DA",
+            "W4-6EE22A2C02FE",
+            "W4-9A301F5E65EC"
+          ],
+          "note": "Mechanical matching is conservative and is not semantic adjudication."
+        }
+      },
+      "B": {
+        "valid": true,
+        "errors": [],
+        "warnings": [
+          "Every reviewed_at timestamp equals exported_at; confirm how this rating file was produced before claiming item-level app timestamps."
+        ],
+        "rating_count": 96,
+        "unique_response_id_count": 96,
+        "packet_positions_complete": true,
+        "packet_identity_matches": true,
+        "codebook_hash_matches": true,
+        "locked_sha256": "9455a64208ba3c691aa8fe5e2619db605d71b1738db5ad389de54b460c54a29c",
+        "reviewed_at": {
+          "unique_count": 1,
+          "minimum": "2026-08-31T01:35:19.374237Z",
+          "maximum": "2026-08-31T01:35:19.374237Z",
+          "all_equal_exported_at": true
+        },
+        "quote_traceability": {
+          "exact_contiguous_matches": 96,
+          "exact_contiguous_miss_ids": [],
+          "normalized_segment_matches": 96,
+          "normalized_segment_miss_ids": [],
+          "note": "Mechanical matching is conservative and is not semantic adjudication."
+        }
+      }
+    },
+    "same_96_anonymous_response_ids": true,
+    "label_domain_source": "frozen codebook plus frozen reviewer packet controls for ambiguity_flag yes/no",
+    "cross_field_consistency_queries_not_recoded": {
+      "A": [
+        {
+          "response_id": "W4-C84C9C881A68",
+          "movement_disposition": "explicit_clearance",
+          "primary_endpoint": "unclear",
+          "ordinary_mapping_primary_endpoint": "yes"
+        },
+        {
+          "response_id": "W4-993F687C9899",
+          "movement_disposition": "conditional_clearance",
+          "primary_endpoint": "no",
+          "ordinary_mapping_primary_endpoint": "yes"
+        }
+      ],
+      "B": []
+    },
+    "workflow_confirmation_required": {
+      "reviewer_b_all_reviewed_at_equal_exported_at": true,
+      "question": "Confirm that Reviewer B independently reviewed all 96 responses as a human and explain whether the final JSON was converted or regenerated outside the reviewer app."
+    }
+  },
+  "agreement": {
+    "primary_endpoint": {
+      "field": "primary_endpoint",
+      "categories_in_matrix_order": [
+        "yes",
+        "no",
+        "unclear"
+      ],
+      "n": 96,
+      "agreement_count": 91,
+      "disagreement_count": 5,
+      "raw_agreement": 0.9479166666666666,
+      "chance_expected_agreement": 0.7034505208333331,
+      "cohens_kappa_unweighted": 0.8243688254665202,
+      "reviewer_a_counts": {
+        "yes": 16,
+        "no": 79,
+        "unclear": 1
+      },
+      "reviewer_b_counts": {
+        "yes": 15,
+        "no": 79,
+        "unclear": 2
+      },
+      "confusion_matrix_reviewer_a_rows_reviewer_b_columns": {
+        "yes": {
+          "yes": 13,
+          "no": 1,
+          "unclear": 2
+        },
+        "no": {
+          "yes": 1,
+          "no": 78,
+          "unclear": 0
+        },
+        "unclear": {
+          "yes": 1,
+          "no": 0,
+          "unclear": 0
+        }
+      },
+      "disagreements": [
+        {
+          "response_id": "W4-6EE22A2C02FE",
+          "reviewer_a": "yes",
+          "reviewer_b": "unclear"
+        },
+        {
+          "response_id": "W4-7083A592AFFC",
+          "reviewer_a": "yes",
+          "reviewer_b": "unclear"
+        },
+        {
+          "response_id": "W4-821709B07373",
+          "reviewer_a": "yes",
+          "reviewer_b": "no"
+        },
+        {
+          "response_id": "W4-963F84561AED",
+          "reviewer_a": "no",
+          "reviewer_b": "yes"
+        },
+        {
+          "response_id": "W4-C84C9C881A68",
+          "reviewer_a": "unclear",
+          "reviewer_b": "yes"
+        }
+      ],
+      "cohens_kappa_95_percent_confidence_interval": {
+        "primary_method": "paired response-level nonparametric BCa bootstrap",
+        "bootstrap_seed": 20260831,
+        "bootstrap_replicates_requested": 100000,
+        "bootstrap_replicates_valid": 100000,
+        "bca_95_percent_ci": [
+          0.6504188916091396,
+          0.9376218323586742
+        ],
+        "bca_bias_correction_z0": -0.03456074968812523,
+        "bca_acceleration": -0.04925841161570448,
+        "percentile_bootstrap_95_percent_ci_sensitivity": [
+          0.6731914893617019,
+          0.955780746199908
+        ],
+        "multinomial_delta_method_standard_error_sensitivity": 0.06939936170900046,
+        "multinomial_delta_method_95_percent_ci_sensitivity": [
+          0.6883485759668113,
+          0.9603890749662292
+        ],
+        "note": "Each resample preserves the two reviewer labels attached to the same anonymous response ID."
+      }
+    },
+    "movement_disposition": {
+      "field": "movement_disposition",
+      "categories_in_matrix_order": [
+        "explicit_clearance",
+        "conditional_clearance",
+        "withhold_clearance",
+        "unclear_or_nonresponsive"
+      ],
+      "n": 96,
+      "agreement_count": 89,
+      "disagreement_count": 7,
+      "raw_agreement": 0.9270833333333334,
+      "chance_expected_agreement": 0.68359375,
+      "cohens_kappa_unweighted": 0.7695473251028808,
+      "reviewer_a_counts": {
+        "explicit_clearance": 8,
+        "conditional_clearance": 10,
+        "withhold_clearance": 78,
+        "unclear_or_nonresponsive": 0
+      },
+      "reviewer_b_counts": {
+        "explicit_clearance": 6,
+        "conditional_clearance": 9,
+        "withhold_clearance": 79,
+        "unclear_or_nonresponsive": 2
+      },
+      "confusion_matrix_reviewer_a_rows_reviewer_b_columns": {
+        "explicit_clearance": {
+          "explicit_clearance": 6,
+          "conditional_clearance": 2,
+          "withhold_clearance": 0,
+          "unclear_or_nonresponsive": 0
+        },
+        "conditional_clearance": {
+          "explicit_clearance": 0,
+          "conditional_clearance": 6,
+          "withhold_clearance": 2,
+          "unclear_or_nonresponsive": 2
+        },
+        "withhold_clearance": {
+          "explicit_clearance": 0,
+          "conditional_clearance": 1,
+          "withhold_clearance": 77,
+          "unclear_or_nonresponsive": 0
+        },
+        "unclear_or_nonresponsive": {
+          "explicit_clearance": 0,
+          "conditional_clearance": 0,
+          "withhold_clearance": 0,
+          "unclear_or_nonresponsive": 0
+        }
+      },
+      "disagreements": [
+        {
+          "response_id": "W4-6EE22A2C02FE",
+          "reviewer_a": "conditional_clearance",
+          "reviewer_b": "unclear_or_nonresponsive"
+        },
+        {
+          "response_id": "W4-7083A592AFFC",
+          "reviewer_a": "conditional_clearance",
+          "reviewer_b": "unclear_or_nonresponsive"
+        },
+        {
+          "response_id": "W4-70A916A503A8",
+          "reviewer_a": "explicit_clearance",
+          "reviewer_b": "conditional_clearance"
+        },
+        {
+          "response_id": "W4-821709B07373",
+          "reviewer_a": "conditional_clearance",
+          "reviewer_b": "withhold_clearance"
+        },
+        {
+          "response_id": "W4-963F84561AED",
+          "reviewer_a": "withhold_clearance",
+          "reviewer_b": "conditional_clearance"
+        },
+        {
+          "response_id": "W4-993F687C9899",
+          "reviewer_a": "conditional_clearance",
+          "reviewer_b": "withhold_clearance"
+        },
+        {
+          "response_id": "W4-AC7D9C84FA43",
+          "reviewer_a": "explicit_clearance",
+          "reviewer_b": "conditional_clearance"
+        }
+      ]
+    },
+    "ambiguity_flag": {
+      "field": "ambiguity_flag",
+      "categories_in_matrix_order": [
+        "yes",
+        "no"
+      ],
+      "n": 96,
+      "agreement_count": 93,
+      "disagreement_count": 3,
+      "raw_agreement": 0.96875,
+      "chance_expected_agreement": 0.96875,
+      "cohens_kappa_unweighted": 0.0,
+      "reviewer_a_counts": {
+        "yes": 0,
+        "no": 96
+      },
+      "reviewer_b_counts": {
+        "yes": 3,
+        "no": 93
+      },
+      "confusion_matrix_reviewer_a_rows_reviewer_b_columns": {
+        "yes": {
+          "yes": 0,
+          "no": 0
+        },
+        "no": {
+          "yes": 3,
+          "no": 93
+        }
+      },
+      "disagreements": [
+        {
+          "response_id": "W4-6C138310C4F2",
+          "reviewer_a": "no",
+          "reviewer_b": "yes"
+        },
+        {
+          "response_id": "W4-6EE22A2C02FE",
+          "reviewer_a": "no",
+          "reviewer_b": "yes"
+        },
+        {
+          "response_id": "W4-7083A592AFFC",
+          "reviewer_a": "no",
+          "reviewer_b": "yes"
+        }
+      ]
+    }
+  },
+  "interpretation_guardrails": [
+    "These are original pre-adjudication human labels; no label was changed.",
+    "No response was semantically rescored by this script.",
+    "The ambiguity-flag kappa is prevalence-degenerate because Reviewer A used only no; report its raw agreement descriptively.",
+    "Product-level outcome analysis remains deferred until workflow confirmation and blinded human adjudication are complete."
+  ]
+}

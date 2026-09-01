@@ -1,0 +1,25 @@
+**No, CR 624's absence from Appendix C does not prohibit the truck from using it.** Your proposed route is legally permissible without an oversize permit, provided your vehicle meets standard legal dimensions and no local restrictions apply.
+
+---
+
+### Route Legality Breakdown
+
+* **Terminal Access Rights:** Under **N.J.A.C. 16:32-1.5**, standard 102-inch wide truck tractor-semitrailers are permitted to leave the designated network (National Network / New Jersey Access Network) and travel on local unrestricted roadways to reach a terminal (such as APM Terminals Elizabeth) via the most direct route.
+* **Function of Appendix C:** N.J.A.C. 16:32 Appendix C lists specific County and Local routes formally designated as part of the *New Jersey Access Network*. Routes **not** listed in Appendix C are simply classified as general local roadways. Leaving a designated network onto an unlisted local roadway is explicitly allowed to complete terminal access.
+* **Appendix A & B Prohibitions:** A route is prohibited for terminal access only if it is explicitly listed on **Appendix A** or **Appendix B** (restricted travel routes). Absence from Appendix C is not a restriction.
+* **Standard APM Access Corridor:** North Avenue (CR 624) East directly feeds into the Port Elizabeth street network (McLester Street / Tripoli Street) and serves as a primary truck access corridor connecting U.S. 1 & 9 and NJ Turnpike Exit 13A to APM Terminals.
+
+---
+
+### Pre-Dispatch Checklist
+
+Before finalizing dispatch, confirm the following physical limits to ensure no oversize/overweight permit is triggered:
+
+| Parameter | NJ Standard Maximum (No Permit Required) |
+| --- | --- |
+| **Overall Width** | **102 inches** (8 ft 6 in), excluding mirrors & safety devices |
+| **Trailer Length** | **53 feet** max for single semitrailer |
+| **Overall Height** | **13 feet 6 inches** |
+| **Gross Weight** | **80,000 lbs** (distributed across 5 axles per standard spacing rules) |
+
+> **Local Checks:** While CR 624 is valid under N.J.A.C. 16:32, ensure the driver verifies posted bridge weight limits, low-clearance structures, or temporary construction detours on local Union County / Elizabeth municipal segments before entry.

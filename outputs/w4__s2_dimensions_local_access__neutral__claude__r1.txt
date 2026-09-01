@@ -1,0 +1,35 @@
+Short answer: **not confirmed either way yet** — and "oversize permit" isn't actually the right lens here. N.J.A.C. 16:32 isn't a weight/dimension permit scheme; it's a *route-designation* rule, and whether it even applies to your rig depends on a fact you haven't nailed down yet: **loaded width**.
+
+**Why width is the threshold question**
+
+N.J.A.C. 16:32 restricts the routing of only two categories of vehicles:
+- Double-trailer truck combinations, and
+- "102-inch-wide standard trucks" — defined as vehicles **wider than 96 inches, up to 102 inches**
+
+A single-trailer tractor-semitrailer that happens to be 96 inches (8 ft) or narrower isn't covered by this chapter at all, and CR 624's absence from Appendix C would be irrelevant. But almost all modern dry vans and reefers are built to the full 102-inch (8'6") legal standard width — which is not "oversize," it's ordinary legal width — and if yours is, this chapter's route rules apply to your trip. You need the actual loaded width before this question can be answered.
+
+**How the network works, and what "not in Appendix C" means**
+
+Assuming the 102-inch threshold is met, the truck must run the **National Network** (Interstates, NJ Turnpike, AC Expressway) except where it diverts onto the **NJ Access Network** to reach a terminal by the direct route, or for reasonable access to food/fuel/rest/repairs within a short mileage of the designated system.
+
+The Access Network is built from three pieces:
+- All state highways, *except* those excluded in Appendix A
+- All county "500‑series" roads, *except* those excluded in Appendix B
+- County **"600‑series"** roads — but *only those listed in Appendix C*
+
+Appendix C is an **inclusion list**, not an exclusion list like A and B. That structural difference matters: a 500-series road is presumed *in* unless excluded; a 600-series road is presumed *out* unless affirmatively listed. CR 624 is a 600-series county route. If it's genuinely absent from Appendix C, it is **not part of the designated Access Network** — it isn't a gray area, it's simply not on the list.
+
+**Does that flatly prohibit the route?**
+
+Not necessarily — there are two possible saves, neither of which you can confirm from your desk right now:
+
+1. *Direct-route-to-terminal doctrine*: the rule lets a covered truck leave the network "by the direct route" to reach its terminal, and last-mile local municipal streets are generally understood as part of that direct route rather than as separate network segments. But CR 624 is a numbered county route, not an unclassified local street — that's exactly the category the regulation chose to control by listing, so a claim of "it's just part of my direct route" is much weaker for a listed-by-number county road than for an ordinary city street.
+2. *Federal reasonable-access preemption* (23 CFR 658.19): states can't deny STAA-dimensioned vehicles reasonable access between the National Network and a terminal. If your rig or trailer configuration independently qualifies as an STAA-authorized vehicle, that federal floor could override a state listing gap — but this is a fact-specific determination, not something to assume at the dispatch desk.
+
+**What I'd actually do before releasing this run**
+
+- Get the certified loaded width. If ≤96", the Appendix C question is moot — proceed.
+- If >96" (very likely), don't route the last leg over CR 624 on the assumption it's fine. Verify with NJDOT's Bureau of Transportation Data and Safety (the office that maintains the Access Network/appendices) or with a route/permit specialist whether CR 624 is treated as authorized "direct route to terminal" access, or whether a documented alternative (Access Network state highway segment, or the port's own posted truck route) gets you to APM Terminals Elizabeth instead.
+- Separately confirm semitrailer length and any local-segment restrictions — you've flagged both as open, and either one can independently kill this route regardless of the Appendix C issue.
+
+I can't clear this route for dispatch as written — the open width/length facts and the Appendix C gap are both live issues. Once you have the certified loaded width, I can tell you definitively whether Chapter 16:32 even applies to this run.

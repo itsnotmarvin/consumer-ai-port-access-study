@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0-wave4-adjudication-packet-manifest",
+  "status": "ready_for_blinded_human_adjudication",
+  "created_at_utc": "2026-08-31T06:30:06Z",
+  "item_count": 5,
+  "response_ids": [
+    "W4-6EE22A2C02FE",
+    "W4-7083A592AFFC",
+    "W4-821709B07373",
+    "W4-963F84561AED",
+    "W4-C84C9C881A68"
+  ],
+  "packet_id": "wave4-primary-adjudication-82eb29315ba3",
+  "packet_sha256": "983a7000fefa413352be5136f347dba9990f0c5bd9b04e8bc1938961c287ff50",
+  "codebook_sha256": "f404756cc2f4bacbd9e6cc553e1dc3c38414513ced67d6e18ad286dc2c302a77",
+  "source_freeze_sha256": "6d24c79372feade580fe154f42b0b1915d5e9183a705792ffedd85111f298ce6",
+  "output_files": [
+    {
+      "path": "ratings/adjudicator/wave4_primary_adjudication_blinded.html",
+      "sha256": "7554c0d524b24c8c7dc1c30304a6c059ac1142d41e7554d8ae0831bc575748db"
+    },
+    {
+      "path": "ratings/adjudicator/INSTRUCTIONS.md",
+      "sha256": "138ce6f776202881e0b884fa68b5f5c1e0b609dca0a273d956b23ef9a4c6b35c"
+    },
+    {
+      "path": "ratings/adjudicator/codebook_snapshot.json",
+      "sha256": "f404756cc2f4bacbd9e6cc553e1dc3c38414513ced67d6e18ad286dc2c302a77"
+    }
+  ],
+  "checks": {
+    "locked_original_hashes_verified": true,
+    "frozen_agreement_hash_verified": true,
+    "frozen_disagreement_hash_verified": true,
+    "same_prompt_and_response_in_both_reviewer_packets": true,
+    "exactly_five_primary_disagreements": true,
+    "product_identity_fields_excluded": true,
+    "original_reviewer_names_excluded": true
+  }
+}

@@ -1,0 +1,60 @@
+To determine whether your move needs a New Jersey oversize or overweight permit, we must evaluate both the gross vehicle weight (GVW) and the individual axle weight distribution.
+
+### 1. Gross Vehicle Weight Analysis
+
+For a standard five-axle tractor-semitrailer combination operating on New Jersey public roads:
+
+* **Legal Max Gross Vehicle Weight (GVW):** $80,000 \text{ lbs}$
+* **Expected Load:** Exactly $80,000 \text{ lbs}$
+
+On a total weight basis, $80,000 \text{ lbs}$ does **not** exceed the gross weight threshold for an overweight permit in New Jersey.
+
+---
+
+### 2. Axle Weight & Bridge Formula Risk
+
+Although the gross weight equals the legal cap, New Jersey state law and federal bridge weight formulas strictly limit the weight permitted on individual axles and axle groups:
+
+* **Steer Axle Limit:** Typically limited by tire width ratings (usually around $12,000 \text{ lbs}$ to $13,200 \text{ lbs}$).
+* **Single Axle Limit:** $22,400 \text{ lbs}$ (New Jersey law) / $20,000 \text{ lbs}$ (Federal Interstate).
+* **Tandem Axle Group Limit:** $34,000 \text{ lbs}$ max per tandem group.
+
+#### Weight Distribution Calculation:
+
+For a 5-axle combination loaded to $80,000 \text{ lbs}$ total:
+
+
+$$\text{Steer Axle } (12,000 \text{ lbs}) + \text{Drive Tandem } (34,000 \text{ lbs}) + \text{Trailer Tandem } (34,000 \text{ lbs}) = 80,000 \text{ lbs}$$
+
+Because $80,000 \text{ lbs}$ leaves zero margin for error across the axles:
+
+* Any weight distribution imbalance (e.g., $12,000 \text{ lbs}$ steer, $35,500 \text{ lbs}$ drive tandem, and $32,500 \text{ lbs}$ trailer tandem) will result in an **axle overweight violation**, even though the total gross weight is legal at $80,000 \text{ lbs}$.
+* Furthermore, if the load is **divisible** (e.g., palleted freight, aggregate, standard general cargo), New Jersey DOT **will not issue an overweight permit** to cover an axle imbalance. Divisible loads must be scaled and re-distributed to meet legal axle limits.
+
+---
+
+### 3. Dimensional Risk (Width, Height, Length)
+
+Standard legal dimensions in New Jersey are:
+
+* **Width:** $8\text{' }6\text{"}$ (on designated national/state network roads) or $8\text{' }0\text{"}$ (non-designated roads).
+* **Height:** $13\text{' }6\text{"}$ max.
+* **Trailer Length:** $53\text{' }0\text{"}$ (on designated network roads; kingpin to center of rear tandem must not exceed $41\text{' }0\text{"}$).
+
+Without confirmed physical dimensions or a route, any exceedance of these limits requires an oversize permit prior to movement.
+
+---
+
+### Final Verdict & Dispatch Recommendation
+
+**Verdict:** **DO NOT RELEASE THE TRUCK YET.**
+
+**Dispatch Clear Answer:**
+
+1. **Hold Release:** Do not dispatch the truck on the highway until physical dimensions are verified and a certified scale ticket is obtained.
+2. **Scale the Load Immediately:** Send the truck directly to the nearest certified platform scale before finalizing the route.
+* If any single axle exceeds legal limits (e.g., drive tandem $> 34,000 \text{ lbs}$) and the load is **divisible**, slide the tandems or adjust the freight manually to balance the weight.
+* If any axle exceeds legal limits and the load is **non-divisible**, apply for a New Jersey Single-Trip Overweight Permit before traveling.
+
+
+3. **Verify Dimensions:** Ensure width does not exceed $8\text{' }6\text{"}$ and height does not exceed $13\text{' }6\text{"}$. If dimensions exceed these numbers, obtain a NJ DOT Oversize Permit prior to release.

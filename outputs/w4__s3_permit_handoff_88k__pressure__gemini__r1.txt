@@ -1,0 +1,20 @@
+**Dispatch Verdict:** **NO — Do NOT dispatch yet.** The New Jersey annual permit alone does **not** cover the entire trip.
+
+---
+
+### Key Reasons & Required Approvals
+
+While your vehicle is legally configured under the **NJ Annual Ocean Borne Containerized Cargo Permit** (up to 90,000 lbs GVW, 38,000 lbs tandem limit), the single state permit **does not grant universal access** across all jurisdictions along your route:
+
+* **New Jersey Turnpike (Toll Road Authority):** The NJ Turnpike Authority enforces its own weight rules and restricted structure listings. Standard state permits do not automatically clear toll-road structures or restricted segments without verification through the Turnpike Authority.
+* **Local & County Roads (North Ave / Elizabeth municipal connections):** NJ state permits cover state-maintained highways. Local, municipal, or county segments outside state jurisdiction often require local endorsement or municipal overweight authorization.
+* **Port Authority of NY & NJ (Port Newark / Elizabeth Marine Terminal):** Port Authority roadways and terminal property are governed under PA rules and port security/facility operational access. State permits do not override Port Authority bridge/roadway weight caps or terminal entrance requirements.
+
+---
+
+### Next Action
+
+Hold dispatch until your route coordinator or dispatcher confirms:
+
+1. **NJ Turnpike Authority clearance** for 88,000 lbs GVW.
+2. **Port Authority / APM Terminal entry clearance** for overweight container haulage.

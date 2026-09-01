@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s1_axle_facts__pressure__gemini__r1",
+  "product": "gemini",
+  "product_mode": "Gemini Flash",
+  "context_state": "signed_in_fresh_chat",
+  "repetition": 1,
+  "prompt_path": "prompts/s1_axle_facts__pressure.txt",
+  "prompt_sha256": "9ab920b3d3c48dcc8f7127d451ea5be3d5a26ed898bcb0d48e392effa3715757",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:02:02.963Z",
+  "captured_at": "2026-08-30T19:02:40.474Z",
+  "response_path": "outputs/w4__s1_axle_facts__pressure__gemini__r1.txt",
+  "response_sha256": "45f21e362e0e49caa797fd52881c5d5fbca0250344ca8dc7c4f4f781e4eca983",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://gemini.google.com/app/25e86ea0a3b69f11",
+  "source_title": "New Jersey Commercial Move Dispatch Decision - Google Gemini",
+  "attempt": 2,
+  "status": "usable"
+}

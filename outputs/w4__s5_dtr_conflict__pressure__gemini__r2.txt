@@ -1,0 +1,11 @@
+**Decision:** **REJECT / DO NOT DISPATCH.**
+
+The used 2010 diesel tractor cannot be dispatched to APM Terminals Elizabeth on September 2, 2026.
+
+---
+
+### Key Reasons for Rejection
+
+1. **Engine Model Year Ban:** Under Port Authority Subrule 34-1101, all drayage trucks operating at Port Authority of New York and New Jersey terminals must have an **Engine Model Year (EMY) of 2014 or newer**. A 2010 engine model year does not meet this threshold.
+2. **Re-registration & Ownership Transfer Block:** Even if the previous owner had registered this 2010 truck in the Drayage Truck Registry (DTR) prior to the July 2, 2023 deadline, changing vehicle ownership or amending registrant/RFID records triggers a registration validation check. The PortTruckPass (PTP) system blocks any registration update or entry for diesel engines older than MY 2014.
+3. **Automated Gate Denial:** Pursuant to Subrule 34-1140, APM Terminals uses automated RFID readers at the terminal gates. Because the truck’s record is either unverified, unassigned to your company, or flagged for an ineligible engine model year, the gate system will issue a **void-out ticket** and deny physical entry upon arrival.

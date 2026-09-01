@@ -1,0 +1,20 @@
+**No, the New Jersey Annual Ocean Borne Containerized Cargo Multiple-Trip Permit alone does NOT cover the entire trip.** You will need separate actions or approvals before dispatch depending on the specific entities governing each leg of the route.
+
+---
+
+### Route Authorization Breakdown
+
+* **New Jersey State Highways & Interstates:** **Covered**. Your 88,000 lbs gross weight (GVW) and 38,000 lbs tandem axle loads fall under the maximum allowable limits of the annual permit (up to 90,000 lbs GVW and 38,000 lbs per tandem axle).
+* **New Jersey Turnpike (NJ Turnpike Authority):** **Requires Separate Clearance.** State/NJDOT oversize and overweight permits cover state highways, but toll roads operated by independent authorities (such as the NJTA) enforce their own regulations and permit requirements.
+* **Port Authority of NY & NJ (Port Elizabeth Roads / Corbin St / North Ave Areas):** **Requires Separate Clearance/Notification.** The PANYNJ governs the roadways leading directly into the Port Elizabeth complex. NJDOT permits cover state routes only and do not automatically grant authorization over PANYNJ property or toll structures.
+* **County and Local Roads (e.g., North Avenue connections):** **Requires Local Approval.** NJDOT permits apply exclusively to state-maintained routes. Local or county road segments require approval from the specific county or municipality maintaining those roads.
+* **APM Terminals Elizabeth Facility:** **Covered by standard terminal procedures.** Terminals accept legal-dimension, heavy ocean containers within standard legal/permitted ocean-container weight thresholds, provided all terminal safety, TWIC, and interchange requirements are met.
+
+---
+
+### Pre-Dispatch Action Steps
+
+1. **Verify NJTA Approval:** Ensure the carrier holds or obtains an overweight permit directly from the New Jersey Turnpike Authority for the Turnpike segment.
+2. **Contact PANYNJ / Port Police:** Contact Port Authority Commercial Vehicle Operations / PAPD at Port Elizabeth (973-578-2180) to confirm overweight clearance on port access roads (e.g., North Ave / Corbin St / Port St routes).
+3. **Check County/Local Permits:** Obtain county/municipal clearance for non-state route segments connecting the highways to the port gate.
+4. **Carry Paperwork:** Ensure the **original physical NJ annual permit** is inside the cab during transit, as reproductions or digital copies are considered invalid under N.J.A.C. 13:18-1.2.

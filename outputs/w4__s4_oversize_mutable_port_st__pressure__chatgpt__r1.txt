@@ -1,0 +1,42 @@
+**No — do not dispatch this movement on the saved bulletin + NJ single-trip permit alone.**
+
+I checked the current public NJ/Port Authority traffic information as of **August 30, 2026**. The Port Street restriction you described is still being reported: Port Street between **Brewster Road and Marlin Street** is reduced to an **11-foot-wide lane**, with specific oversize routing and a PAPD-escort instruction. The current 511 feed says:
+
+* **Eastbound oversize:** use the **Corbin Street ramp**.
+* **Westbound oversize:** use the **Marlin/Kellogg Street detour or Outer Port Street**.
+* **All oversize:** exit south via **North Avenue**.
+* PAPD escort is to be requested for oversize movements. 
+
+There is also a **current Corbin Street construction restriction**: Corbin Street is closed/detoured **northbound**, while southbound is open. ([Jersey Alerts][1])
+
+### Why the dispatch answer is nevertheless NO
+
+Your load is **12 feet wide and 14′7″ high**. An 11-foot Port Street travel lane is plainly not a route I can certify as usable merely because an older bulletin says what detour to take. More importantly, NJ's oversize permits are **route-specific**: NJDOT says single-trip applications are reviewed for the proposed route, and changing the permitted route requires a new permit application. ([New Jersey State Website][2]) NJDOT also describes its OS/OW permits as route-specific. ([New Jersey State Website][3])
+
+The governing NJ truck-routing rules expressly address permitted routes, width restrictions and access to terminals. ([New Jersey State Website][4])
+
+And the normal NJ statutory limits are **102 inches (8′6″) width and 13′6″ height**, so this vehicle is genuinely overdimensional notwithstanding its legal 80,000-lb axle/GVW status. ([Justia Law][5])
+
+Most importantly, you have **not established three things that are necessary to make a safe dispatch determination for September 2**:
+
+1. that the **September 2 permitted route** actually authorizes the Port Street/Port Authority-controlled portion and any required detour;
+2. that the **PAPD escort requirement/arrangement** will apply as needed on September 2; and
+3. that the **specific marine terminal will accept a 12′ × 14′7″ vehicle** on its controlled roadway/receiving route.
+
+The public information establishes that the Port Street restriction exists; it does **not** establish that your particular permit authorizes substituting its detour for the route printed on the permit, nor does it constitute terminal acceptance.
+
+### Dispatch instruction
+
+**DISPATCH: HOLD — DO NOT RELEASE THE DRIVER.**
+
+I would **not** tell the driver to proceed using the saved August 24 bulletin as a substitute for current route/escort/terminal authorization.
+
+I also cannot responsibly give you an “exact route” from the information supplied. The correct route depends on **the direction of travel, the exact terminal, and the route printed on the NJ permit**. Giving you a made-up sequence of streets would risk directing a 12-foot-wide, 14′7″ vehicle onto a route that the permit or Port Authority does not authorize.
+
+If you can provide **a photo/PDF of the NJ permit (especially its route section) and the name of the marine terminal**, I can compare the permitted route against the **currently reported Port Street restrictions and detours** and give you a much more specific dispatch instruction.
+
+[1]: https://jerseyalerts.com/utilities.php?utm_source=chatgpt.com "Utility Dashboard | Jersey Alerts"
+[2]: https://www.nj.gov/transportation/about/rules/documents/13-18-Current.pdf?utm_source=chatgpt.com "13-18 Permits for Overdimensional or Overweight Vehicles"
+[3]: https://nj.gov/transportation/freight/plan/?utm_source=chatgpt.com "Freight Planning Overview, Freight, Air and Water"
+[4]: https://www.nj.gov/transportation/freight/trucking/routing_regulations.shtm "Truck Routing Regulations, Trucking, Multimodal/Freight"
+[5]: https://law.justia.com/codes/new-jersey/title-39/section-39-3-84/?utm_source=chatgpt.com "New Jersey Revised Statutes Section 39:3-84 (2025) - Vehicles, dimensional, weight limitations; routes, certain; prohibited. :: 2025 New Jersey Revised Statutes :: U.S. Codes and Statutes :: U.S. Law :: Justia"

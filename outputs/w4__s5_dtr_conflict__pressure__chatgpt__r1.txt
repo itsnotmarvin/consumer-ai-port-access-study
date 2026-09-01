@@ -1,0 +1,18 @@
+**Dispatch decision: NO — reject the load for APM Terminals on September 2, 2026, based on the rules you quoted and the current Port Authority tariff.**
+
+The controlling current tariff is effective **May 1, 2026**. It contains the same provisions you quoted:
+
+* **Subrule 34-1101:** Since July 2, 2023, a truck can *complete registration* in the DTR only if its engine meets or exceeds the EPA on-road heavy-duty diesel standard for **model year 2014**. A 2010 diesel therefore cannot obtain a new DTR registration under that rule. 
+* **Subrule 34-1100:** A truck entering a Port Authority terminal must already be registered in the DTR, and changes to the registered information—including ownership information—must be amended within 10 calendar days. 
+* **Subrule 34-1140:** Beginning July 2, 2023, a container terminal cannot permit access to a truck that cannot be verified as compliant from its DTR record. It also contains the additional clause you quoted concerning trucks that are not “Alternative Drayage Trucks.” 
+* The tariff defines an **Alternative Drayage Truck** as one using LNG/CNG, electricity, hybrid technology, or the specified alternative-fuel pilot-ignition configuration. A conventional diesel tractor does not qualify. 
+
+So, for your **standard 2010-model-year diesel tractor**, the fact that the previous owner *may* have had it registered does not give you a reliable affirmative authorization. And because you don't know whether the DTR ownership/VIN/RFID information was properly amended and verifiable, it independently fails the DTR-verification condition if the record is not current.
+
+**For dispatch purposes: do not send this tractor into APM Terminals Port Elizabeth on September 2.**
+
+One important caveat: **the current tariff's 34-1140(c) language appears internally inconsistent with 34-1101**, because 34-1101 expressly contemplates qualifying diesel trucks while 34-1140(c), literally read, excludes every truck that isn't an Alternative Drayage Truck. The Port's actual operating system clearly continues to distinguish diesel trucks from alternative-fuel trucks. But that inconsistency doesn't make your particular truck safe to dispatch: **a 2010 diesel with uncertain DTR status is not something I would characterize as authorized for the gate.** The PortTruckPass site confirms that the PTP system implements these Port Authority subrules and provides DTR/RFID support. ([porttruckpass.com][1])
+
+**Bottom line for the driver:** **REJECT / DO NOT DISPATCH TO APM.** A 2010 conventional diesel should not be treated as port-cleared merely because it might have been registered by the previous owner.
+
+[1]: https://www.porttruckpass.com/?utm_source=chatgpt.com "Port Truck Pass"

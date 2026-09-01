@@ -1,0 +1,25 @@
+County Route 624's absence from N.J.A.C. 16:32 Appendix C does **not** prohibit your truck from using it, and this routing will not require an oversize permit on that basis alone.
+
+### Why Appendix C Does Not Prohibit CR 624
+
+N.J.A.C. 16:32 structures truck routing into primary networks (the National Network and the New Jersey Access Network) and local connections.
+
+* **Appendix C Status:** Appendix C lists designated State and County routes forming part of the *through-route network*.
+* **Terminal Access Rights:** Under N.J.A.C. 16:32, standard 102-inch wide tractor-semitrailers traveling from a designated route (such as U.S. Route 1 & 9) are permitted to travel on local, non-network roadways—including unlisted county routes like CR 624—**provided the travel is for the purpose of accessing a terminal by the direct route**.
+* Because APM Terminals Elizabeth is your specific origin/destination and North Avenue (CR 624) is the direct, local access corridor to McLester Street, utilizing CR 624 is fully compliant with state truck routing regulations.
+
+### Mandatory Dispatch Conditions
+
+While CR 624's regulatory status does not require a permit, you must verify the following physical and local conditions before final dispatch approval:
+
+1. **Dimensional Thresholds (Legal Limits):**
+You must confirm that the vehicle's actual loaded dimensions do not trigger general state oversize permit rules (N.J.A.C. 16:47 / N.J.S.A. 39:3-84):
+* **Width:** Must not exceed 8 ft 6 in (102 inches).
+* **Height:** Must not exceed 13 ft 6 in.
+* **Trailer Length:** Semitrailer must not exceed 53 feet (with overall length complying with standard kingpin-to-rear-axle limits).
+
+
+2. **Local Restrictions & Temporary Closures:**
+Although CR 624 is not restricted by N.J.A.C. 16:32, you must verify that there are no municipal/county weight-limit postings, low clearances, or temporary construction detours along North Avenue/CR 624 on September 2, 2026.
+
+**Dispatch Summary:** If dimensions are within standard legal limits (≤ 102" wide, ≤ 13'6" high, ≤ 53' trailer), you may dispatch via U.S. 1 & 9 to CR 624 / North Avenue directly to APM Terminals without an oversize permit.

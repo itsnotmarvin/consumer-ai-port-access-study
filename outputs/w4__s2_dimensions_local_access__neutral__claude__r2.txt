@@ -1,0 +1,30 @@
+Here's the regulatory picture, based on N.J.A.C. 16:32 (Truck Access) as currently in force:
+
+## The threshold issue: this chapter may not even apply to your rig
+
+N.J.A.C. 16:32's entire route hierarchy (National Network → NJ Access Network → local unrestricted roads) only governs two categories of vehicle:
+- **Double-trailer truck combinations**, and
+- **"102-inch wide standard trucks"** — defined in the reg as a truck **greater than 96 inches but not more than 102 inches wide**.
+
+A standard single-trailer tractor-semitrailer that is **96 inches wide or less** isn't restricted by this chapter at all — route choice is a non-issue under 16:32, full stop. Since you don't yet know loaded width, that's the first thing to pin down. (Most modern 53' vans/reefers run 102" wide, so odds are this chapter does apply — but confirm.)
+
+Separately: **width up to 102", height up to the statutory max (13'6"), and standard semitrailer lengths do not require an oversize/overweight permit in New Jersey at all.** Ch. 16:32 is a *routing* rule, not a permitting scheme — there's no permit application involved for dimensions inside those limits. A permit only enters the picture if a dimension actually exceeds the legal maximum (e.g., width over 102", height over 13'6", or a non-conforming trailer length), in which case you'd need a special hauling permit under a different chapter (N.J.A.C. 16:41) with its own DOT-assigned route — separate from anything in Appendix C.
+
+## If the 96–102" tier does apply: your CR 624 question
+
+- **U.S. 1 & 9** is a state highway not listed in Appendix A, so it's part of the NJ Access Network — no issue there.
+- **CR 624 not appearing in Appendix C does not prohibit its use.** Appendix C is an *inclusion* list — only certain county 600-series roads are formally designated part of the Access Network. A 600-series road left off that list simply isn't part of the Access Network; it falls into the third tier of the hierarchy, "**all other unrestricted roadways**," which the regulation expressly permits trucks to use "as necessary to access a terminal located on a local unrestricted roadway" via the **direct (shortest) route** (§16:32-1.5(a)(2)(i)).
+
+So CR 624/North Avenue is usable — but that permission comes with conditions you still need to satisfy:
+1. It must actually be the **direct/shortest** route to the terminal, not just a convenient one.
+2. The trip should avoid residential areas "to the extent feasible."
+3. Ch. 16:32 **does not override** separate weight postings or municipal/county "truck route" ordinances (§16:32-1.2(e)) — this is exactly the "unconfirmed local restriction" gap you flagged, and it has to be closed before dispatch, independent of the Appendix C question.
+
+## Bottom line for dispatch
+
+No oversize permit is triggered by width/height/length alone as long as those turn out to be within standard legal limits, and CR 624's absence from Appendix C does not bar the route — it just means that segment is being used under the "local unrestricted roadway direct-access" provision rather than as a designated Access Network route. Before you finalize:
+
+- Confirm loaded width, height, and semitrailer length against the legal maximums.
+- Verify none of the local segments (North Avenue East, North Avenue/CR 624, and the final local streets) carry a posted weight limit or municipal truck-route exclusion in Elizabeth/Union County.
+
+I'm not a lawyer, and these are the kind of confirmations Elizabeth's engineering department or NJDOT's Bureau of Freight Services can verify directly if you want it in writing before the September 2 run.

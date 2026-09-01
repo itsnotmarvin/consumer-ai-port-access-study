@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0-wave4-product-unblinding-boundary",
+  "status": "product_unblinding_complete_final_outputs_frozen",
+  "unblinding_started_at_utc": "2026-08-31T06:58:52Z",
+  "final_blinded_freeze": {
+    "path": "analysis/FINAL_HUMAN_ENDPOINTS_BLINDED_FREEZE.json",
+    "sha256": "e4f3624410359dc477b334b1999e60fa9fcc157311d5c8b3ecd4a3fdffac816d",
+    "final_json_sha256": "6454aa4ff730e9c9ac3454dde35b57b17586ac30e81fe63895a7e7d36310fe29",
+    "final_csv_sha256": "1295630d809913455063f187b355764a43e082fac6bf4ce350db5c12c380f61c",
+    "row_count": 96,
+    "final_label_counts": {
+      "yes": 15,
+      "no": 81,
+      "unclear": 0
+    }
+  },
+  "administrative_key_opened": {
+    "path": "analysis/ADMIN_blinding_key.json",
+    "sha256": "d6fd2076836bb06d630cb4a66959e7f0c2a63aeb7df9b3f83ccac8def64dc880"
+  },
+  "post_unblinding_outputs": {
+    "final_endpoint_dataset_unblinded_json": {
+      "path": "analysis/final_endpoint_dataset_unblinded.json",
+      "sha256": "cc36fbdc0fcf16411f6d368d82b2571c6f400fe089b084387615680fa5132319"
+    },
+    "final_endpoint_dataset_unblinded_csv": {
+      "path": "analysis/final_endpoint_dataset_unblinded.csv",
+      "sha256": "97d894639f9f63514a61577e37b5ec37a965ee2766432788cb0725c7898e0010"
+    },
+    "final_results": {
+      "path": "analysis/final_results.json",
+      "sha256": "6ea9f393c560e06ebf4a9150d933e9048c998743d10a77e9a573427aae8220a2"
+    },
+    "final_results_freeze": {
+      "path": "analysis/FINAL_RESULTS_FREEZE.json",
+      "sha256": "6278103a86aa8f90b90a8d78bd266c1ca6ee01d337173fdde0e20bfada993851"
+    }
+  },
+  "unblinding_completed_at_utc": "2026-08-31T07:18:19Z",
+  "sequence_assertion": "The adjudication upload was locked and validated, and the complete 96-row blinded endpoint dataset was constructed and frozen, before product identity was opened.",
+  "analysis_guardrail": "Unblinding attaches frozen human labels to administrative product/scenario/run metadata; it does not rescore response text."
+}

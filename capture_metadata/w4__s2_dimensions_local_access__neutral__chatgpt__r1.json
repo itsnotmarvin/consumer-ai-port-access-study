@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s2_dimensions_local_access__neutral__chatgpt__r1",
+  "product": "chatgpt",
+  "product_mode": "free_default_unpersonalized",
+  "context_state": "temporary_fresh_chat",
+  "repetition": 1,
+  "prompt_path": "prompts/s2_dimensions_local_access__neutral.txt",
+  "prompt_sha256": "d1844e0fe7bd0954301e7b83ac62902fb084861891113e488952c4d8250d1bac",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:04:10.717Z",
+  "captured_at": "2026-08-30T19:06:10.603Z",
+  "response_path": "outputs/w4__s2_dimensions_local_access__neutral__chatgpt__r1.txt",
+  "response_sha256": "97974c3ce14a3227fc4b56b9baeb1e4ad2bc14bfa9b3f877a1f3fdf3e608ff90",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://chatgpt.com/?temporary-chat=true",
+  "source_title": "ChatGPT",
+  "attempt": 1,
+  "status": "usable"
+}

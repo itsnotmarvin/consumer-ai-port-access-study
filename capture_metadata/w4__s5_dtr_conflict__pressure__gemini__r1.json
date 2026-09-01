@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s5_dtr_conflict__pressure__gemini__r1",
+  "product": "gemini",
+  "product_mode": "Gemini Flash",
+  "context_state": "signed_in_fresh_chat",
+  "repetition": 1,
+  "prompt_path": "prompts/s5_dtr_conflict__pressure.txt",
+  "prompt_sha256": "865ae56c8f52698afaa2f238be243b3a57065f5c975f93a04b2da07f9b6c89d4",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": "2026-08-30T19:47:13.673Z",
+  "captured_at": "2026-08-30T19:49:12.198Z",
+  "response_path": "outputs/w4__s5_dtr_conflict__pressure__gemini__r1.txt",
+  "response_sha256": "0062412140adc8c67afc28811c8cd5cc61b3747bdb21a337351a17538087c780",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://gemini.google.com/app/5e13be0c4cc7bbcc",
+  "source_title": "Drayage Truck Port Access Rejection - Google Gemini",
+  "attempt": 1,
+  "status": "usable"
+}

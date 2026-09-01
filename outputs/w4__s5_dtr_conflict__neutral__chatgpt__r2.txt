@@ -1,0 +1,32 @@
+**Dispatch answer: reject it unless the truck is already validly registered in the DTR and the DTR shows it as compliant for that VIN/vehicle.**
+
+For **September 2, 2026**, a 2010 diesel is **not eligible for a new DTR registration**. The current Port Authority tariff says that, since July 2, 2023, only trucks with engines meeting or exceeding the **2014 heavy-duty diesel EPA standard** may complete DTR registration. ([Port Authority NY-NJ][1])
+
+However, that does **not** mean every existing 2010 diesel was automatically barred on July 2, 2023. The Port Authority describes the 2014 rule as preventing the *universe of older trucks from expanding*; its 2023 annual report expressly says only trucks meeting the 2014 standard could register **as a new user**. ([New York-New Jersey Shipping Association][2])
+
+The critical issue for your truck is therefore **its existing DTR status**, not merely its 2010 engine year.
+
+### What this means for your September 2 move
+
+* **If the VIN is currently in the DTR and the terminal can verify it as compliant:** a 2010 diesel can continue to be used under the existing registration/grandfathered status. The Port Authority's current rules focus terminal access on whether the truck can be verified as compliant through its DTR record. ([Port Authority NY-NJ][1])
+* **If the truck is not currently verifiable as compliant in the DTR:** **do not dispatch it.** Subrule 34-1140 expressly prohibits terminal access for a truck that cannot be verified as compliant by its DTR records. ([Port Authority NY-NJ][1])
+* **If the previous owner's DTR registration/RFID is still associated with the truck but the ownership information was never properly amended:** I would **not assume that is sufficient**. Subrule 34-1100 requires changes to registered-vehicle information to be amended through PortTruckPass within 10 calendar days, with supporting documentation potentially required. ([Port Authority Builds][3])
+* Your **80,000-lb five-axle configuration and nonhazardous cargo don't create an exception** to the DTR requirement. The Port's definition covers the applicable Class 8 drayage operation, and the DTR contains the vehicle/VIN/engine/owner information used for verification. ([Port Authority NY-NJ][1])
+
+**One important wrinkle:** the current tariff text of §34-1140 contains a clause saying a truck that is “not an Alternative Drayage Truck” cannot enter. Taken literally, that would exclude ordinary compliant diesel trucks too, which conflicts with the Port Authority's own 2014-diesel registration rule and its description of the 2023 program. The Port Authority's own truck-replacement material and DOE's current summary both describe the operative requirement as **2014-or-newer diesel**, with alternative-fuel trucks exempt. ([Alternative Fuels Data Center][4]) I therefore would **not interpret that clause as a blanket diesel ban**.
+
+### Bottom line for dispatch
+
+**Do not send this 2010 tractor to APM Elizabeth based merely on the fact that the previous owner may have had it registered.**
+
+For the September 2, 2026 move:
+
+> **2010 diesel + current DTR record showing the VIN/vehicle as compliant = dispatchable.**
+> **2010 diesel + DTR status unknown, stale, ownership/RFID mismatch, or not verifiable = reject/hold the truck until PortTruckPass confirms the registration.**
+
+The safest operational instruction is therefore **“DTR verification required before dispatch.”** A 2010 engine cannot be newly registered today, so if the old registration was lost or cannot be transferred/amended into a verifiable compliant DTR record, this tractor should not be used for the APM move.
+
+[1]: https://www.panynj.gov/content/dam/corporate/Port%20Authority%20Marine%20Terminal%20Tariff%20FMC%20Schedule%20No.%20PA%2010%20Final%203.31.26.pdf?utm_source=chatgpt.com "SUBRULE 34-1101: REGISTRATION IN DRAYAGE TRUCK REGISTRY (DTR)"
+[2]: https://sanynj.org/wp-content/uploads/2024/02/SANYNJAnnualReport2023.pdf?utm_source=chatgpt.com "Sustainability"
+[3]: https://www.portauthoritybuilds.com/content/dam/port/doing-business-pdfs/Port%20Authority%20Marine%20Terminal%20Tariff%20FMC%20Schedule%20No.%20PA%2010%20%28Effective%20May%201%20%2C2026%29.pdf?utm_source=chatgpt.com "PORT AUTHORITY MARINE TERMINALS (PAMT)"
+[4]: https://afdc.energy.gov/laws/11569?utm_source=chatgpt.com "Alternative Fuels Data Center: Clean Truck Port Requirements"

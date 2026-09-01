@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0-wave4-capture",
+  "run_id": "w4__s1_axle_facts__neutral__gemini__r1",
+  "product": "gemini",
+  "product_mode": "Gemini Flash",
+  "context_state": "signed_in_fresh_chat",
+  "repetition": 1,
+  "prompt_path": "prompts/s1_axle_facts__neutral.txt",
+  "prompt_sha256": "921fddc2d030c418a8eb96ee38738b79ce9053025ce963e809172aa0240c6ac7",
+  "prompt_hash_verified_before_submission": true,
+  "submitted_at": null,
+  "submission_time_note": "Initial collection batch was submitted after the protocol lock; the exact client submission timestamp was not captured.",
+  "captured_at": "2026-08-30T18:48:32.408Z",
+  "response_path": "outputs/w4__s1_axle_facts__neutral__gemini__r1.txt",
+  "response_sha256": "d425b7486fa0f9d10082f3927e57522933d260e8e78328234470149c5d22e895",
+  "extraction_method": "product_native_copy_response_control",
+  "complete_response_observed": true,
+  "source_url": "https://gemini.google.com/app/042f4cfdddfae481",
+  "source_title": "New Jersey Commercial Move Dispatch Hold - Google Gemini",
+  "attempt": 1,
+  "status": "usable"
+}

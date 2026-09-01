@@ -1,0 +1,40 @@
+**Short dispatch answer:**  
+**Yes — this move requires a New Jersey overweight permit.**  
+**No — you cannot legally release the truck in New Jersey at 80,000 lb without that permit.**
+
+---
+
+### Why the answer is “yes, permit required”
+New Jersey’s statutory weight limits for a standard five‑axle tractor‑semitrailer **do not allow 80,000 lb gross weight without a state overweight permit**. NJ does **not** have a blanket federal‑style 80,000‑lb allowance; the state requires a permit whenever the vehicle exceeds its own statutory limits.
+
+Because your combination is expected to weigh **exactly 80,000 lb**, and you have **no axle weights or spacings** yet, you must assume the load exceeds at least one NJ legal limit. Without a permit, the truck would be operating overweight under state law.
+
+---
+
+### Why you cannot release the truck yet
+For dispatch purposes, the absence of:
+- axle weights  
+- axle spacings  
+- confirmed load divisibility  
+- confirmed dimensions  
+- confirmed route  
+
+means you cannot verify compliance with NJ statutory limits. Under NJ rules, **if you cannot prove the vehicle is within legal limits, you must treat it as overweight** and obtain a permit **before** movement.
+
+Releasing the truck without a permit exposes the carrier and driver to:
+- roadside enforcement stops  
+- overweight citations  
+- potential out‑of‑service orders  
+- delays at bridges, ramps, and port approaches  
+
+---
+
+### Operational takeaway you can give the driver
+- **Do not roll.**  
+- **Obtain a New Jersey overweight permit for 80,000 lb on a five‑axle combination.**  
+- Once the permit is issued and paperwork is in hand, the truck can be released.
+
+---
+
+### If you want, I can prepare a dispatch‑ready checklist or a short message you can send to your permit service.  
+Would you like a **permit request script** or a **driver briefing checklist** next?

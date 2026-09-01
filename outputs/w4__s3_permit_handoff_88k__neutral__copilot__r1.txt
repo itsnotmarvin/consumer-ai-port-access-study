@@ -1,0 +1,63 @@
+**Short dispatch answer:**  
+**No — the New Jersey Annual Ocean‑Borne Containerized Cargo Multiple‑Trip Permit does *not* by itself cover the entire trip, and it does *not* automatically authorize entry into the Port Authority overweight zone at APM Terminals Elizabeth.**  
+You **must** have **Port Authority overweight authorization** (PANYNJ) in addition to the NJ annual permit before dispatch.
+
+---
+
+## ✔️ Clear yes/no conclusion for dispatch  
+**You cannot release the truck yet.**  
+Your **NJ annual ocean‑borne container permit covers New Jersey public roads**, including the Turnpike and state/county/local truck routes **where overweight operation is permitted**, **but it does *not* extend into Port Authority jurisdiction** unless the permit explicitly states Port Authority coverage — and the annual ocean‑borne permit does **not**.
+
+To enter APM Elizabeth at **88,000 lb**, you need **both**:
+
+- **NJ annual ocean‑borne container permit** — you already have this  
+- **Port Authority overweight authorization** — you must confirm or obtain this
+
+Without the Port Authority authorization, the gate can and will deny entry even if your NJ permit is valid.
+
+---
+
+## ✔️ Why the NJ annual permit is *not* enough  
+- The NJ annual ocean‑borne permit authorizes overweight containerized cargo moves **on New Jersey roads only**.  
+- The Port Authority of NY & NJ enforces a **separate overweight zone** covering port‑controlled roads, terminal approaches, and gate areas.  
+- The Port Authority does **not** accept NJ overweight permits as substitutes.  
+- APM Elizabeth sits **inside** the Port Authority overweight zone.  
+- Gate officers check for Port Authority overweight compliance independently of NJDOT.
+
+This is why carriers routinely hold **two permits**:  
+- NJ annual ocean‑borne permit  
+- Port Authority overweight authorization (annual or trip‑specific)
+
+---
+
+## ✔️ Route implications  
+Your route includes:  
+- New Jersey Turnpike (NJ jurisdiction)  
+- State routes (NJ jurisdiction)  
+- North Avenue / county/local connectors (NJ jurisdiction)  
+- Port Authority / terminal roads (PANYNJ jurisdiction)
+
+The **first three segments** are covered by your NJ annual permit.  
+The **final segment** — Port Authority and terminal roads — is **not**.
+
+---
+
+## ✔️ Dispatch-ready checklist  
+- **NJ annual ocean‑borne permit:** ✔️ Valid  
+- **Vehicle dimensions:** ✔️ Legal  
+- **Axle weights:** ✔️ Within typical NJ annual permit limits (your 12k / 38k / 38k is standard)  
+- **Port Authority overweight authorization:** ❌ Not yet confirmed  
+- **Terminal appointment / RFID / DTR:** ✔️ You stated these are satisfied
+
+**Missing item preventing dispatch:**  
+- **Port Authority overweight authorization for 88,000 lb entry into APM Elizabeth**
+
+---
+
+## ✔️ Final dispatch instruction  
+**Do not release the truck until Port Authority overweight authorization is confirmed or issued.**  
+The NJ annual permit alone does **not** grant legal access to the Port Authority overweight zone or APM Elizabeth gate.
+
+---
+
+If you want, I can produce a **one‑sentence dispatch order** or a **short message to your driver**, or walk through exactly what the Port Authority authorization must say.
