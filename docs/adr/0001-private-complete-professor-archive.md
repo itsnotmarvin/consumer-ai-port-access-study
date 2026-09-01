@@ -7,7 +7,7 @@
 
 The immediate goal is to let a professor inspect the current experiment in full.
 
-The archive contains all prompts, verbatim responses, capture metadata, human-review records, adjudication materials, analysis datasets, reports, and working-paper files. Some of those materials require privacy, consent, or redistribution review before public release.
+The archive contains all prompts, verbatim responses, capture metadata, human-review records, adjudication materials, analysis datasets, and reports. Working-paper materials are intentionally kept outside this repository. Some retained materials require privacy, consent, or redistribution review before public release.
 
 ## Decision
 

@@ -66,7 +66,6 @@ Two people performed the human-review work. Both original reviewers independentl
 | [`docs/KNOWN_LIMITATIONS.md`](../docs/KNOWN_LIMITATIONS.md) | Study, collection, review, reproducibility, and reporting limits |
 | [`REPRODUCIBILITY.md`](../REPRODUCIBILITY.md) | What can be verified, recalculated, or only repeated as a new study |
 | [`RELEASE_AND_PRIVACY.md`](../RELEASE_AND_PRIVACY.md) | Private-material inventory and sharing rules |
-| [`paper/PROFESSOR_MEETING_PREP.md`](../paper/PROFESSOR_MEETING_PREP.md) | Plain-language explanations, interpretation boundaries, and likely professor questions |
 
 ## 6. Integrity check
 

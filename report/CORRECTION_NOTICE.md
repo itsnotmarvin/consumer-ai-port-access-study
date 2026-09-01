@@ -19,8 +19,6 @@ The corrected wording appears in:
 - the repository `README.md`;
 - `docs/STUDY_WORKFLOW.md`;
 - `docs/KNOWN_LIMITATIONS.md`;
-- `paper/manuscript.md`;
-- `paper/PROFESSOR_MEETING_PREP.md`; and
 - the rebuilt professor one-page brief.
 
 This notice controls wherever the frozen report uses the phrase “third human.”

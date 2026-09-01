@@ -44,10 +44,7 @@ The hash remains part of the prospective record. The missing file should be rest
 - Finalization and final-analysis scripts write into archived paths and make outputs read-only. They should be run only in a clean reproduction copy.
 - `tools/build_collection_manifest.sh` is initialization-only and would overwrite the completed manifest if run in the archive.
 - The HTML report’s temporary JSX/CSS source project is missing.
-- The DOCX manuscript builder imports a helper from a machine-specific Codex plugin path.
-- Document dependencies were not historically pinned.
-- The PDF builder relies on macOS font paths.
-- The professor-brief builders contain narrative values directly in code instead of reading every value from the frozen result file.
+- The professor brief is retained only as the generated PDF; its source document, build scripts, fonts, and exact package versions are not included.
 
 ## Reporting limits
 
@@ -56,16 +53,3 @@ The hash remains part of the prospective record. The missing file should be rest
 - Wilson intervals stored in machine-readable tables describe captured-response proportions. They should not be presented as population-prevalence uncertainty.
 - No real truck was dispatched. No real-world reliance, violation, denial, delay, injury, or harm was observed.
 - Several frozen secondary constructs were not fully scored. They must not be reconstructed retrospectively after seeing outcomes.
-
-## Manuscript fields still requiring completion
-
-- authors and affiliations;
-- corresponding-author information;
-- reviewer and adjudication workflow statement;
-- ethics or institutional determination;
-- reviewer consent and privacy treatment;
-- author-contribution roles;
-- funding;
-- competing interests;
-- acknowledgments; and
-- final repository or DOI.

@@ -110,14 +110,12 @@ It generated:
 - [`../analysis/final_results.json`](../analysis/final_results.json); and
 - [`../analysis/FINAL_RESULTS_FREEZE.json`](../analysis/FINAL_RESULTS_FREEZE.json).
 
-## 11. Build the report and manuscript
+## 11. Build the report and professor brief
 
 The project produced:
 
 - a self-contained [technical HTML report](../report/report.html);
 - a machine-readable [report artifact](../report/artifact.json);
-- a [working manuscript](../paper/manuscript.md);
-- a [professor meeting guide](../paper/PROFESSOR_MEETING_PREP.md); and
 - a [one-page professor brief](../output/pdf/PROFESSOR_MEETING_ONE_PAGER.pdf).
 
-The report can be opened and integrity-checked. Its original temporary JSX/CSS build project is not present, so the HTML cannot currently be rebuilt end to end from this archive.
+The report can be opened and integrity-checked. Its original temporary JSX/CSS build project is not present, so the HTML cannot currently be rebuilt end to end from this archive. The professor brief is retained as a generated PDF; its source document and build scripts are not included.

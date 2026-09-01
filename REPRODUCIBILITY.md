@@ -37,7 +37,7 @@ record the unblinding boundary
         ↓
 join administrative metadata and calculate final tables
         ↓
-build report artifact and presentation documents
+build report artifact and professor brief
 ```
 
 The retained commands are:
@@ -67,15 +67,6 @@ Core analysis uses:
 - zsh, `shasum`, `awk`, and `mktemp`; and
 - a browser with JavaScript, local storage, and file downloads for the review packets.
 
-Document generation additionally uses:
-
-- `python-docx`;
-- ReportLab;
-- an external `table_geometry.py` helper currently referenced by a machine-specific path; and
-- macOS font paths for the current PDF builder.
-
-Optional document dependencies are listed in [`requirements-docs.txt`](requirements-docs.txt). They do not recreate the exact historical document-build environment because historical versions were not recorded.
-
 ## Initialization warning
 
 Never run this command in the completed archive:
@@ -96,13 +87,16 @@ make serve-report
 
 The HTML and report artifacts can be hash-verified. The temporary Data App project used to compile the HTML is not retained, so an end-to-end rebuild is not currently possible.
 
+The generated professor brief is retained as a PDF. Its source document, build scripts, fonts, and exact package versions are not included.
+
 ## Known non-reproducible or manually recorded steps
 
 - creation of some lock and freeze receipts;
 - manual live-response collection;
 - preservation of failed first attempts;
 - exact Reviewer B export/conversion procedure;
-- the original Data App report source project; and
+- the original Data App report source project;
+- the professor brief's source and document-build environment; and
 - exact historical document package versions.
 
 These gaps should be disclosed. They should not be filled by reconstructing historical evidence after the fact.

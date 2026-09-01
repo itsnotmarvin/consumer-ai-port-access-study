@@ -31,9 +31,8 @@ This is a result from a frozen challenge set. It is not a general AI failure rat
 1. [One-page professor brief](output/pdf/PROFESSOR_MEETING_ONE_PAGER.pdf)
 2. [Correction to the frozen technical report](report/CORRECTION_NOTICE.md)
 3. [Technical report](report/report.html)
-4. [Working manuscript](paper/manuscript.md)
-5. [Known limitations](docs/KNOWN_LIMITATIONS.md)
-6. [Provenance and integrity map](provenance/README.md)
+4. [Known limitations](docs/KNOWN_LIMITATIONS.md)
+5. [Provenance and integrity map](provenance/README.md)
 
 ## Where everything is
 
@@ -46,7 +45,7 @@ This is a result from a frozen challenge set. It is not a general AI failure rat
 | [`analysis/`](analysis/) | Frozen labels, agreement analysis, final tables, and results |
 | [`provenance/`](provenance/) | A simple map of the protocol, collection, review, freeze, and correction records |
 | [`report/`](report/) | The frozen technical report and its correction notice |
-| [`paper/`](paper/) | The manuscript and professor meeting materials |
+| [`output/`](output/) | The generated one-page professor brief; raw AI responses are in `outputs/` |
 | [`docs/`](docs/) | The six gold dispositions, workflow, and detailed limitations |
 | [`tools/`](tools/) | Verification and analysis code |
 

@@ -21,7 +21,7 @@ The archive intentionally includes:
 - analysis outputs and tables;
 - freeze and integrity receipts;
 - the technical report; and
-- the working manuscript and professor materials.
+- the one-page professor brief.
 
 ## Access rule
 
@@ -40,7 +40,6 @@ Before any public release, review:
 - verbatim consumer-product output redistribution terms;
 - public operational contact details reproduced inside responses;
 - local machine paths and private project identifiers;
-- manuscript ethics and privacy language; and
 - the intended public license.
 
 A public release should be produced as a separate allowlisted export. It should not be created by simply changing this repository from private to public.
@@ -49,7 +48,7 @@ A public release should be produced as a separate allowlisted export. It should 
 
 The 1 September 2026 pre-push review found no obvious API key, password, bearer token, private key, `.env` file, or personal credential. The scan covered the repository's text files and the text members of its ZIP/DOCX archives. Repeat a dedicated secret scan before any later public export.
 
-Two retained files contain a local machine path with the account directory name: the manuscript builder's machine-specific helper import and the frozen final-report receipt's historical build path. These are documented provenance/portability details, not credentials, and remain in this complete private archive.
+One retained file contains a local machine path with the account directory name: the frozen final-report receipt's historical build path. This is a documented provenance detail, not a credential, and remains in this complete private archive.
 
 ## No public license
 
